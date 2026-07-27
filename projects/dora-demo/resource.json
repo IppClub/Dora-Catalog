@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "dora-demo",
+  "status": "active",
+  "title": {
+    "zh-Hans": "Dora 演示",
+    "en": "Dora Demo"
+  },
+  "description": {
+    "zh-Hans": "这个仓库展示了使用 Dora SSR 开源游戏引擎创建的游戏演示。演示展示了使用 Dora SSR 可能实现的具体功能和技巧，帮助开发者学习和探索其能力。",
+    "en": "This repository showcases game demo created using the Dora SSR open-source game engine. Demo illustrates specific features and techniques possible with Dora SSR, helping developers learn and explore its capabilities."
+  },
+  "categories": [
+    "Dora"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "AI Fighter",
+      "path": "AI Fighter/init"
+    },
+    {
+      "name": "Dismantlism",
+      "path": "Dismantlism/init"
+    },
+    {
+      "name": "Dodge the Creeps",
+      "path": "Dodge the Creeps/init"
+    },
+    {
+      "name": "Involution Warrior",
+      "path": "Involution Warrior/init"
+    },
+    {
+      "name": "Loli War",
+      "path": "Loli War/init"
+    },
+    {
+      "name": "Touch the Sky",
+      "path": "Touch the Sky/init"
+    },
+    {
+      "name": "Zombie Escape",
+      "path": "Zombie Escape/init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "snapshot-09cd44d",
+      "commit": "09cd44dbbdfb7db1b1ae01f6d19a1f9e62f9b33c",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/ippclub/dora-demo"
+        }
+      ]
+    }
+  ]
+}

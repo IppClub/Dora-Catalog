@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "zzh31-heart_bridge2",
+  "status": "active",
+  "title": {
+    "zh-Hans": "心桥",
+    "en": "Heart Bridge"
+  },
+  "description": {
+    "zh-Hans": "多元化的内容，包含剧情、打怪、科普等元素。《心桥》是一款融合心理隐喻与人文关怀的互动文字冒险游戏。高中生小星因一场意外闯入神秘的\"心象岛\"，被迫踏上一座被浓雾笼罩的木桥。为回到现实，他必须穿越五座象征内心困境的桥梁，面对由恐惧、孤独与误解所化成的怪物。",
+    "en": "Diverse content including story, monster fighting, and popular science elements. 'Heart Bridge' is an interactive text adventure game that combines psychological metaphors with humanistic care. High school student Xiaoxing accidentally enters the mysterious 'Heart Image Island' and is forced to step onto a wooden bridge shrouded in thick fog. To return to reality, he must cross five bridges symbolizing inner struggles, facing monsters formed from fear, loneliness, and misunderstanding."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "v1.0.1",
+      "commit": "eab3509eb8fd09552befc0a2f51583ea128fb11b",
+      "publishedAt": "2026-05-12T00:54:47.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/zzh31/heart_bridge2"
+        }
+      ],
+      "tag": "v1.0.1"
+    }
+  ]
+}

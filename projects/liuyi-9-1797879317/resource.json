@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-9-1797879317",
+  "status": "active",
+  "title": {
+    "zh-Hans": "拍卡片",
+    "en": "拍卡片"
+  },
+  "description": {
+    "zh-Hans": "拍卡片",
+    "en": "拍卡片"
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-ddcc2a0",
+      "commit": "ddcc2a0b216af38ff36d67e4a8c1acacf0671312",
+      "publishedAt": "2026-06-09T09:52:12.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-9-1797879317"
+        }
+      ]
+    }
+  ]
+}

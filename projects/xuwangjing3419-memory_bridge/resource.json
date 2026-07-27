@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "xuwangjing3419-memory_bridge",
+  "status": "active",
+  "title": {
+    "zh-Hans": "记忆之桥",
+    "en": "Bridge of Memory"
+  },
+  "description": {
+    "zh-Hans": "你睁开眼，发现自己躺在一座石桥的桥头。 石砖冰凉，青苔湿润。 桥的另一端笼罩在浓厚的薄雾中，仿佛通往某个被遗忘的时空。 你坐起身，揉了揉眼睛。你睁开眼，发现自己躺在一座石桥的桥头。 石砖冰凉，青苔湿润。 桥的另一端笼罩在浓厚的薄雾中，仿佛通往某个被遗忘的时空。 你坐起身，揉了揉眼睛。桥上站着一位老人。 他背对着你，望着桥下流淌的河水，一动不动，像一尊雕像……",
+    "en": "You open your eyes and find yourself lying at the head of a stone bridge. The stone bricks are cold, the moss is damp. The other end of the bridge is shrouded in thick mist, as if leading to some forgotten time and space. You sit up and rub your eyes. You open your eyes and find yourself lying at the head of a stone bridge. The stone bricks are cold, the moss is damp. The other end of the bridge is shrouded in thick mist, as if leading to some forgotten time and space. You sit up and rub your eyes. An old man stands on the bridge. He has his back to you, looking at the flowing river under the bridge, motionless, like a statue..."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-9406b57",
+      "commit": "9406b576ab555196ea68c5aa8eb36b3233ddad4e",
+      "publishedAt": "2026-05-12T00:54:57.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/xuwangjing3419/memory_bridge"
+        }
+      ]
+    }
+  ]
+}

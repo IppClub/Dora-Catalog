@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-7-3380984620",
+  "status": "active",
+  "title": {
+    "zh-Hans": "间谍鼠",
+    "en": "间谍鼠"
+  },
+  "description": {
+    "zh-Hans": "《间谍鼠》风格触屏游戏，玩家划线引导老鼠避开巡逻猫，收集奶酪并逃回洞口。",
+    "en": "A Spy Mouse style touchscreen game - draw paths to guide the mouse."
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-8468a3f",
+      "commit": "8468a3f7b0175634d287eb7a61a1beab130df267",
+      "publishedAt": "2026-06-09T09:52:04.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-7-3380984620"
+        }
+      ]
+    }
+  ]
+}

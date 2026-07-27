@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-3-2142913902",
+  "status": "active",
+  "title": {
+    "zh-Hans": "三国卡牌肉鸽",
+    "en": "三国卡牌肉鸽"
+  },
+  "description": {
+    "zh-Hans": "以三国为背景刘备为主角的卡牌肉鸽游戏，融合孤星猎人与PVZH玩法。",
+    "en": "A Three Kingdoms themed roguelike card game."
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-366f6cb",
+      "commit": "366f6cb9f49db03c2be6d357ed851d7d82e5f13d",
+      "publishedAt": "2026-06-09T09:52:42.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-3-2142913902"
+        }
+      ]
+    }
+  ]
+}

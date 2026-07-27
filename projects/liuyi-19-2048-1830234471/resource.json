@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-19-2048-1830234471",
+  "status": "active",
+  "title": {
+    "zh-Hans": "2048",
+    "en": "2048"
+  },
+  "description": {
+    "zh-Hans": "经典2048数字合并益智游戏。",
+    "en": "Classic 2048 number merging puzzle game."
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-a50f035",
+      "commit": "a50f0353515c25920650863be4403e64055f0491",
+      "publishedAt": "2026-06-09T09:52:48.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-19-2048-1830234471"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-28-1456286692",
+  "status": "active",
+  "title": {
+    "zh-Hans": "围城",
+    "en": "围城"
+  },
+  "description": {
+    "zh-Hans": "双人对战棋类游戏《围城》，7×7棋盘，移动棋子并放置墙壁，围出更大区域者获胜。",
+    "en": "A two-player territory board game on a 7x7 grid."
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-ad9f677",
+      "commit": "ad9f6775fba16de3ea0ace8921c0d4292bcbf371",
+      "publishedAt": "2026-06-09T09:52:01.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-28-1456286692"
+        }
+      ]
+    }
+  ]
+}

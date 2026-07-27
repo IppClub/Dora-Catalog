@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-21-2086292413",
+  "status": "active",
+  "title": {
+    "zh-Hans": "跳皮筋",
+    "en": "跳皮筋"
+  },
+  "description": {
+    "zh-Hans": "跳皮筋",
+    "en": "跳皮筋"
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-6ac9cea",
+      "commit": "6ac9ceab2cc989f594d8da9abfd85a552e6af46a",
+      "publishedAt": "2026-06-09T09:52:18.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-21-2086292413"
+        }
+      ]
+    }
+  ]
+}

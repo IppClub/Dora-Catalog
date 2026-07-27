@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-24-1211717204",
+  "status": "active",
+  "title": {
+    "zh-Hans": "大富翁",
+    "en": "大富翁"
+  },
+  "description": {
+    "zh-Hans": "大富翁",
+    "en": "大富翁"
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-dfd3425",
+      "commit": "dfd34252c8a4496a8b7ad3987e8ad1338c0064c5",
+      "publishedAt": "2026-06-09T09:52:31.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-24-1211717204"
+        }
+      ]
+    }
+  ]
+}

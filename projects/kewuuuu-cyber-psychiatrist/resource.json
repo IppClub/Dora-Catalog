@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "kewuuuu-cyber-psychiatrist",
+  "status": "active",
+  "title": {
+    "zh-Hans": "赛博通灵师",
+    "en": "Cyber Psychiatrist"
+  },
+  "description": {
+    "zh-Hans": "大学毕业之后，继承了通灵师衣钵的成萧在高度发达的赛博朋克城市——鹿城中生活。这天，以往只能接些小单的他忽然收到一封来自中城区的信件，信上邀请他去为一个富家子弟招魂。成萧原以为这不过是一次普通的委托，却...",
+    "en": "After graduating from college, Cheng Xiao, who inherited the shaman's legacy, lives in the highly developed cyberpunk city of Luzhong. Today, the usual small orders he used to take suddenly received a letter from the central district, inviting him to summon a wealthy young man. Cheng Xiao originally thought this was just a normal assignment, but..."
+  },
+  "categories": [
+    "Game",
+    "温大-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-74b2cfb",
+      "commit": "74b2cfb91dff9d405b36476e12a99a23d3e7edb1",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/kewuuuu/Cyber_Psychiatrist"
+        }
+      ]
+    }
+  ]
+}

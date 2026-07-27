@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "dora-example",
+  "status": "active",
+  "title": {
+    "zh-Hans": "Dora 示例",
+    "en": "Dora Example"
+  },
+  "description": {
+    "zh-Hans": "这个仓库包含 Dora SSR 开源游戏引擎 的功能示例、功能测试代码以及相关测试资源。",
+    "en": "This repository contains examples, test code, and test resources for the Dora SSR open-source game engine."
+  },
+  "categories": [
+    "Dora"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-e3d48ed",
+      "commit": "e3d48ed9f612f95175dd6942d7fa8f9da5ea2086",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/ippclub/dora-example"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-25-771087882",
+  "status": "active",
+  "title": {
+    "zh-Hans": "童年存档",
+    "en": "童年存档"
+  },
+  "description": {
+    "zh-Hans": "童年存档",
+    "en": "童年存档"
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-dbd0567",
+      "commit": "dbd0567cbe2de5f3018916f6e02297fc1507b7a1",
+      "publishedAt": "2026-06-09T09:52:33.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-25-771087882"
+        }
+      ]
+    }
+  ]
+}

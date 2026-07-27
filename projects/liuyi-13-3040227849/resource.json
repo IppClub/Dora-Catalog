@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-13-3040227849",
+  "status": "active",
+  "title": {
+    "zh-Hans": "踢毽子",
+    "en": "踢毽子"
+  },
+  "description": {
+    "zh-Hans": "踢毽子",
+    "en": "踢毽子"
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-8a42a92",
+      "commit": "8a42a9241f73fe82ec7e5ad4f772f4365629e2bd",
+      "publishedAt": "2026-06-09T09:52:47.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-13-3040227849"
+        }
+      ]
+    }
+  ]
+}

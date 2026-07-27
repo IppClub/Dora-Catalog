@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-20-3063704249",
+  "status": "active",
+  "title": {
+    "zh-Hans": "小鸭子的生活",
+    "en": "小鸭子的生活"
+  },
+  "description": {
+    "zh-Hans": "小鸭子的生活",
+    "en": "小鸭子的生活"
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-91665cc",
+      "commit": "91665cc471911550d93742056bbcd9421437ea5b",
+      "publishedAt": "2026-06-09T14:12:07.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-20-3063704249"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "zhanyang1-xuanzhe",
+  "status": "active",
+  "title": {
+    "zh-Hans": "《锦绣语幕：瓯越星图》",
+    "en": "The Embroidered Screen: The Star Map of Ouyue"
+  },
+  "description": {
+    "zh-Hans": "在瓯越的千年针脚上，编织属于你的记忆图谱 当量子中心的蓝光湮灭在瓯江夜色，当数据洪流退去露出刻满针路簿的古老船舷 —— 欢迎来到《瓯绣针脚：记忆经纬》，一款将瓯越非遗技艺化作叙事密码的文字冒险游戏。",
+    "en": "On the thousand-year embroidery of Ouyue, weave your own memory map. When the blue light of the quantum center fades in the Ouyue night, and when the data flow recedes to reveal the ancient ship's side with countless needle routes —— welcome to 'The Embroidered Screen: The Star Map of Ouyue', a text adventure game that transforms the Ouyue intangible cultural heritage into narrative codes."
+  },
+  "categories": [
+    "Game",
+    "温大-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-5311650",
+      "commit": "5311650984bc094a2561407de7ed5bf73a2e88f1",
+      "publishedAt": "2026-05-12T00:54:58.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/zhanyang1/xuanzhe"
+        }
+      ]
+    }
+  ]
+}

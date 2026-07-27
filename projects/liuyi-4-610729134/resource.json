@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-4-610729134",
+  "status": "active",
+  "title": {
+    "zh-Hans": "扇纸牌",
+    "en": "扇纸牌"
+  },
+  "description": {
+    "zh-Hans": "经典儿童游戏“扇纸牌”单机小游戏，高度还原物理手感与怀旧氛围，支持单人vs AI对战。",
+    "en": "Classic card flipping game with physics simulation."
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-fbe4b18",
+      "commit": "fbe4b1860c5da9f08ce6c751ad527d87e1ca4a06",
+      "publishedAt": "2026-06-09T09:52:43.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-4-610729134"
+        }
+      ]
+    }
+  ]
+}

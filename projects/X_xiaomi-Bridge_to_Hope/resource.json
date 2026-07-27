@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "X_xiaomi-Bridge_to_Hope",
+  "status": "active",
+  "title": {
+    "zh-Hans": "喂！小孩",
+    "en": "Bridge to Hope"
+  },
+  "description": {
+    "zh-Hans": "故事发生在 公元4035年。人类文明高度发达，但生态环境遭到毁灭性破坏，许多孩子因此患上了各种先天性疾病（ALS, SMA等）。政府建立了\"希望之地\"来收容治疗这些孩子。 你扮演一名普通的\"打工人\"，因突发的环境灾害导致公司停工放假30天。受公司总管指派，你必须在这30天内照顾一名来自\"希望之地\"的男孩——莫提。",
+    "en": "The story takes place in 4035 AD. Human civilization is highly developed, but the ecological environment has been catastrophically destroyed, and many children have developed various congenital diseases (ALS, SMA, etc.). The government established 'Hope Land' to house and treat these children. You play as an ordinary 'worker' whose company shuts down for 30 days due to sudden environmental disasters. Assigned by the company manager, you must care for a boy from 'Hope Land' named Moti during these 30 days."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-045828a",
+      "commit": "045828ac25b52f0019a182e2f5060ff246688c55",
+      "publishedAt": "2026-05-12T00:54:48.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/X_xiaomi/Bridge_to_Hope"
+        }
+      ]
+    }
+  ]
+}

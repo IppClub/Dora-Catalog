@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "GrowlR-NNG",
+  "status": "active",
+  "title": {
+    "zh-Hans": "SmallPlane",
+    "en": "SmallPlane"
+  },
+  "description": {
+    "zh-Hans": "3小时游戏开发挑战参赛作品——SmallPlane。",
+    "en": "Entry for the 3-hour game jam — SmallPlane."
+  },
+  "categories": [
+    "Game",
+    "3h-gamejam"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-dc88069",
+      "commit": "dc880696681735f7b6ac5625115a9852a9945e0f",
+      "publishedAt": "2026-05-12T00:54:15.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/GrowlR/NNG"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-2-1075266352",
+  "status": "active",
+  "title": {
+    "zh-Hans": "打弹珠",
+    "en": "打弹珠"
+  },
+  "description": {
+    "zh-Hans": "极简风格沉浸式打弹珠小游戏，专注还原打弹珠核心物理体验，配备真实弹珠碰撞物理引擎。",
+    "en": "A minimalist marble game with realistic physics engine."
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-ece4a6f",
+      "commit": "ece4a6f131e2b9ad5fd4040732465011f4e19e71",
+      "publishedAt": "2026-06-09T09:52:17.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-2-1075266352"
+        }
+      ]
+    }
+  ]
+}

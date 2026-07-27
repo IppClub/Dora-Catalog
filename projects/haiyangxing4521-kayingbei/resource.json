@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "haiyangxing4521-kayingbei",
+  "status": "active",
+  "title": {
+    "zh-Hans": "雾桥之旅",
+    "en": "Mistbound Odyssey"
+  },
+  "description": {
+    "zh-Hans": "初一雾起，桥渡异世；摆渡人摇桨，雾桥连过往，跟着主人公一起化身为守桥人、护村后生、魔法行者，在无数个世界中，解开羁绊，续写传奇……这是像素大作战团队制作的一款文字冒险游戏，带你领会在雾桥的联通下，无数个世界的不同风采。",
+    "en": "On the first day of the month, mist rises, and bridges cross to other worlds. The ferryman rows, mist bridges connect the past. Follow the protagonist as they transform into bridge keepers, village protectors, and magic walkers, unraveling bonds and continuing legends across countless worlds... This is a text adventure game made by the Pixel Battle team, taking you to experience the different charms of countless worlds connected by mist bridges."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-701a22b",
+      "commit": "701a22bfcab0e695af751351c9ecf0c7da81d0a9",
+      "publishedAt": "2026-05-12T00:54:14.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/haiyangxing4521/kayingbei"
+        }
+      ]
+    }
+  ]
+}

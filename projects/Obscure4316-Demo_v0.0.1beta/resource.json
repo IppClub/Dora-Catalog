@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "Obscure4316-Demo_v0.0.1beta",
+  "status": "active",
+  "title": {
+    "zh-Hans": "断裂之诗",
+    "en": "Ballad of the Fractured"
+  },
+  "description": {
+    "zh-Hans": "远古时代，\"筑桥人\"文明如星辰般璀璨。他们领悟到世界的本质在于\"连接\"——山河、时空、记忆、人心，皆由无形的纽带维系。于是他们倾尽智慧，筑起一座座奇迹之桥。这些桥梁不仅是道路，更是调节自然律动、编织万物流转的导管。而一切的核心，是悬浮于世界中心的心桥，一座由纯粹情感能量凝结而成的虹光建筑，温柔地脉动着，守护着整个世界的平衡。",
+    "en": "In ancient times, the 'Bridge Builders' civilization was as brilliant as stars. They understood that the essence of the world lies in 'connection'—mountains and rivers, time and space, memories, and human hearts are all maintained by invisible bonds. So they devoted all their wisdom to building miraculous bridges. These bridges are not only roads but also conduits that regulate the rhythm of nature and weave the flow of all things. At the core of everything is the Heart Bridge suspended at the center of the world, a rainbow-colored structure condensed from pure emotional energy, gently pulsating, guarding the balance of the entire world."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-3760341",
+      "commit": "3760341e4077d787beab0893a85fb7196b3ec9de",
+      "publishedAt": "2026-05-12T00:54:57.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/Obscure4316/Demo_v0.0.1beta"
+        }
+      ]
+    }
+  ]
+}

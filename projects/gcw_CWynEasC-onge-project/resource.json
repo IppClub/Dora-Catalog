@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "gcw_CWynEasC-onge-project",
+  "status": "active",
+  "title": {
+    "zh-Hans": "心桥纪元",
+    "en": "Heart Bridge Era"
+  },
+  "description": {
+    "zh-Hans": "以\"心桥崩塌、仙途断绝\"的上古修仙世界观为核心，聚焦 \"修心即修仙\" 的主题而开发的轻量化文字修仙养成类开源游戏。",
+    "en": "A lightweight text-based cultivation and nurturing open-source game developed with the core of an ancient cultivation world view where 'heart bridges collapse and immortal paths are cut off', focusing on the theme of 'cultivating the heart is cultivating immortality'."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-f7d1670",
+      "commit": "f7d1670d3953e86a5b49535d2e9f5bbd72642121",
+      "publishedAt": "2026-05-12T00:54:49.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/gcw_CWynEasC/onge-project"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2303_80130546-yuqiao",
+  "status": "active",
+  "title": {
+    "zh-Hans": "语桥",
+    "en": "Yu Qiao"
+  },
+  "description": {
+    "zh-Hans": "听障画家陈默能\"看见\"声音的颜色，遇见了寻找\"寂静中雨声\"的配音师苏雨。两人通过创作\"色彩乐谱\"，在声音与色彩之间建起一座感知之桥。游戏以视觉小说形式呈现，结合水彩美术、氛围音乐与轻互动，邀请玩家成为每个故事的见证者与共建者。",
+    "en": "Deaf painter Chen Mo can 'see' the colors of sounds and meets voice actor Su Yu who is searching for 'the sound of rain in silence'. The two build a bridge of perception between sound and color through creating 'color scores'. The game is presented in visual novel format, combining watercolor art, atmospheric music, and light interaction, inviting players to become witnesses and co-creators of each story."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-3bbd26a",
+      "commit": "3bbd26a0adf8146226a8c87b61db43e423910e06",
+      "publishedAt": "2026-05-12T00:54:48.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/2303_80130546/yuqiao"
+        }
+      ]
+    }
+  ]
+}

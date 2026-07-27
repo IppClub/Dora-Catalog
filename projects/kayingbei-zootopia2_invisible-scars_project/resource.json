@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "kayingbei-zootopia2_invisible-scars_project",
+  "status": "active",
+  "title": {
+    "zh-Hans": "隐形裂痕",
+    "en": "Invisible Scars"
+  },
+  "description": {
+    "zh-Hans": "作为《疯狂动物城》的同人文字冒险游戏，《疯狂动物城：隐形裂痕》试图延续首部\"打破偏见\"的核心精神，以更深刻的社会议题为切入点，聚焦动物城乌托邦下被忽视的边缘群体困境。",
+    "en": "As a fan-made text adventure game of 'Zootopia', 'Zootopia: Invisible Scars' attempts to continue the core spirit of 'breaking prejudice' from the first film, using deeper social issues as entry points, focusing on the plight of marginalized groups ignored under Zootopia's utopia."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-f134367",
+      "commit": "f1343674f1dab4330b43ce102c42ea30626e1156",
+      "publishedAt": "2026-05-12T00:54:51.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/kayingbei/zootopia2_invisible-scars_project"
+        }
+      ]
+    }
+  ]
+}

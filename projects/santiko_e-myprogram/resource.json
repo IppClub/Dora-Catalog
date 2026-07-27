@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "santiko_e-myprogram",
+  "status": "active",
+  "title": {
+    "zh-Hans": "我们这一家",
+    "en": "Our Family"
+  },
+  "description": {
+    "zh-Hans": "这是一个在末日之下的世界，大部分陆地被海水淹没，仅存的岛屿各自为战……少女I从实验室醒来，家人，人类的未来，究竟怎样的选择才是正确的？",
+    "en": "This is a world under apocalypse, most of the land is submerged by seawater, and the remaining islands fight each other... Girl I wakes up from the laboratory. Family, the future of humanity, what choice is correct?"
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-73467a1",
+      "commit": "73467a1695807383f331abcddb64e171523d7069",
+      "publishedAt": "2026-05-12T00:54:59.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/santiko_e/myprogram"
+        }
+      ]
+    }
+  ]
+}

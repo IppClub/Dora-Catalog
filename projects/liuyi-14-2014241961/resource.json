@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-14-2014241961",
+  "status": "active",
+  "title": {
+    "zh-Hans": "红白机",
+    "en": "红白机"
+  },
+  "description": {
+    "zh-Hans": "红白机",
+    "en": "红白机"
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-37fdd3a",
+      "commit": "37fdd3a155dfe750e7ba22f23f277a195bc721a6",
+      "publishedAt": "2026-06-09T09:52:10.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-14-2014241961"
+        }
+      ]
+    }
+  ]
+}

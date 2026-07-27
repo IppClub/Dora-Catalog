@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "LimitlessInfinity-demo1",
+  "status": "active",
+  "title": {
+    "zh-Hans": "支点",
+    "en": "Fulcrum"
+  },
+  "description": {
+    "zh-Hans": "主角二人之间的承诺如同桥梁将本已分道扬镳二人的世界再度连接，现实中的桥也见证了二人由小到大的爱情长跑。在时间无垠的荒原上，两个孩子的承诺，和他们追赶幸福的一生。",
+    "en": "The promise between the two protagonists is like a bridge that reconnects the worlds of two people who had already parted ways. The bridge in reality also witnesses their love marathon from childhood to adulthood. On the boundless wasteland of time, the promise of two children, and their lifetime of chasing happiness."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-2caf2ae",
+      "commit": "2caf2ae04f3274bcb877b75c8fd0ff3c5241265b",
+      "publishedAt": "2026-05-12T00:54:49.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/LimitlessInfinity/demo1"
+        }
+      ]
+    }
+  ]
+}

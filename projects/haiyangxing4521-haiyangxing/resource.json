@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "haiyangxing4521-haiyangxing",
+  "status": "active",
+  "title": {
+    "zh-Hans": "睁越迷影（穿越瓯越大陆）",
+    "en": "Eyes Over the Ouyue Continent"
+  },
+  "description": {
+    "zh-Hans": "作品构建了一个奇妙的瓯越冒险世界。主人公在瓯江、雁荡山历经重重挑战，与水鬼黑影、神秘怪物等斗智斗勇；或被困医院，穿梭于诡异走廊与神秘地下室，对抗幽灵等超自然威胁，破解三道商业谜题，激活瓯越商帮智慧，唤...",
+    "en": "This work creates a fascinating adventure world set in Ouyue. The protagonist faces numerous challenges along the Oujiang River and Yandang Mountains, outwitting water ghosts, dark shadows, and mysterious monsters. Sometimes trapped in a hospital, they navigate eerie corridors and secret basements, confronting ghosts and other supernatural threats. Solve three business puzzles, awaken the wisdom of the Ouyue merchant guild, and summon..."
+  },
+  "categories": [
+    "Game",
+    "温大-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-ae3637f",
+      "commit": "ae3637f040e5e90288d76937616b9d041959a90a",
+      "publishedAt": "2026-05-12T00:54:46.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/haiyangxing4521/haiyangxing"
+        }
+      ]
+    }
+  ]
+}

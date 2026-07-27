@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "dora-story",
+  "status": "active",
+  "title": {
+    "zh-Hans": "Dora 故事",
+    "en": "Dora Story"
+  },
+  "description": {
+    "zh-Hans": "基于 Dora SSR 开发的可视化小说游戏框架。该框架集成了 Yarn Spinner 对话系统，并使用开源游戏《灵数奇缘》（Luv Sense Digital）的代码和授权艺术资产，为可视化小说游戏开发提供完整的解决方案。",
+    "en": "A visual novel game framework developed based on Dora SSR. This framework integrates the Yarn Spinner dialogue system and uses the open-source game '灵数奇缘' (Luv Sense Digital) code and authorized art assets, providing a complete solution for visual novel game development."
+  },
+  "categories": [
+    "Dora"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-0be43f4",
+      "commit": "0be43f4e51737674f3542d2ac73460818a299216",
+      "publishedAt": "2026-05-12T00:54:55.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/ippclub/dora-story"
+        }
+      ]
+    }
+  ]
+}

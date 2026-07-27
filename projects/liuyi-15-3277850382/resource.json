@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-15-3277850382",
+  "status": "active",
+  "title": {
+    "zh-Hans": "挑花棍",
+    "en": "挑花棍"
+  },
+  "description": {
+    "zh-Hans": "挑花棍",
+    "en": "挑花棍"
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-928ae24",
+      "commit": "928ae24ff761adb70edfb7441d7152b8472a9bb2",
+      "publishedAt": "2026-06-09T09:52:29.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-15-3277850382"
+        }
+      ]
+    }
+  ]
+}

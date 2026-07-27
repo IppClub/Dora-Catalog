@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-5-3248569738",
+  "status": "active",
+  "title": {
+    "zh-Hans": "枪火英雄",
+    "en": "枪火英雄"
+  },
+  "description": {
+    "zh-Hans": "矢量图风格的横版2D射击游戏，Q版手绘风卡通军人角色，户外树林地图占点对抗模式。",
+    "en": "A vector-style 2D side-scrolling shooter with capture-the-point mode."
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-465ff60",
+      "commit": "465ff602f29710ec3cb4278f749ca807cc209dde",
+      "publishedAt": "2026-06-09T09:52:39.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-5-3248569738"
+        }
+      ]
+    }
+  ]
+}

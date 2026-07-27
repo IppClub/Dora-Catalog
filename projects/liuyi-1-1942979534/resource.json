@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-1-1942979534",
+  "status": "active",
+  "title": {
+    "zh-Hans": "肉鸽",
+    "en": "肉鸽"
+  },
+  "description": {
+    "zh-Hans": "肉鸽",
+    "en": "Roguelike"
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-5d681f3",
+      "commit": "5d681f3b704f4e7776cd2cc6d1e2a36a15ebb917",
+      "publishedAt": "2026-06-09T09:52:16.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-1-1942979534"
+        }
+      ]
+    }
+  ]
+}

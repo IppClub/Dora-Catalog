@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "kayingbei-Temporal-Bridge",
+  "status": "active",
+  "title": {
+    "zh-Hans": "时空之桥",
+    "en": "Temporal Bridge"
+  },
+  "description": {
+    "zh-Hans": "《时空之桥》是一个关于两个不同时空时间线重叠而展开的文字冒险游戏原型。当两个平行世界因某种未知力量发生碰撞，时空开始重叠纠缠，那些拥有相同经历但走向不同性格的人，将因同步率最高而最先相遇。在这个充满未知与可能性的交汇点，两个世界的命运交织在一起，最终，其中一方将救赎另一方。",
+    "en": "'Temporal Bridge' is a text adventure game prototype about two different time-space timelines overlapping. When two parallel worlds collide due to some unknown force, time and space begin to overlap and entangle. Those with the same experiences but different personalities will meet first due to the highest synchronization rate. At this intersection full of unknowns and possibilities, the fates of two worlds intertwine, and ultimately, one will redeem the other."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-42c106a",
+      "commit": "42c106afd945a5be7bbab77e706729884504517d",
+      "publishedAt": "2026-05-12T00:54:56.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/kayingbei/Temporal-Bridge"
+        }
+      ]
+    }
+  ]
+}

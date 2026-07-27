@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "gcw_xNKflcGY-three_hour",
+  "status": "active",
+  "title": {
+    "zh-Hans": "红温小游戏之气到变色",
+    "en": "Red Heat Mini Game"
+  },
+  "description": {
+    "zh-Hans": "3小时游戏开发挑战参赛作品——红温小游戏之气到变色。",
+    "en": "Entry for the 3-hour game jam — Red Heat Mini Game."
+  },
+  "categories": [
+    "Game",
+    "3h-gamejam"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-25dad0e",
+      "commit": "25dad0e3b256d22d27e962098c52d0d9946da9dc",
+      "publishedAt": "2026-05-12T00:54:52.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/gcw_xNKflcGY/three_hour"
+        }
+      ]
+    }
+  ]
+}

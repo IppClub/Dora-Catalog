@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "gcw_XxnwBoYE-dora-story",
+  "status": "active",
+  "title": {
+    "zh-Hans": "回忆的彼方",
+    "en": "Beyond Memories"
+  },
+  "description": {
+    "zh-Hans": "本游戏以「桥」为核心主题，采用治愈系文字冒险游戏的形式，讲述了男主清川在失去工作后进入自己的梦境，通过亲情、友情和恋情的羁绊重新找回了记忆的故事。玩家通过选择影响剧情的走向，整体画风清新柔和，操作简单易上手。本游戏主要聚焦点是在现代社会的冷漠和工作压力面前，人与人之间温情的可贵。",
+    "en": "This game takes 'bridge' as its core theme, using a healing text adventure game format. It tells the story of the male protagonist Qingchuan who enters his dreams after losing his job, and regains his memories through bonds of family, friendship, and love. Players influence the plot through choices. The overall art style is fresh and soft, with simple and easy-to-use controls. The game focuses on the preciousness of warmth between people in the face of modern society's indifference and work pressure."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-ca43c9e",
+      "commit": "ca43c9e793202c594454919cac43d87e5996ef3d",
+      "publishedAt": "2026-05-12T00:54:59.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/gcw_XxnwBoYE/dora-story"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-8-2d-1436925154",
+  "status": "active",
+  "title": {
+    "zh-Hans": "2D物理解谜",
+    "en": "2D物理解谜"
+  },
+  "description": {
+    "zh-Hans": "2D物理解谜游戏，通过绘制线条引导大量颗粒进入目标容器。",
+    "en": "A 2D physics puzzle game - draw lines to guide particles into targets."
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-f3f6ba8",
+      "commit": "f3f6ba88d02a58fb00096bafc48daa4fbb6c2a9e",
+      "publishedAt": "2026-06-09T09:52:09.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-8-2d-1436925154"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "wangyue789-redemption_of_guirenqiao",
+  "status": "active",
+  "title": {
+    "zh-Hans": "归人桥救赎录",
+    "en": "Redemption of Guirenqiao"
+  },
+  "description": {
+    "zh-Hans": "\"你站在桥上看湖水，水里的人在湖中看你\" 游戏里存在两个平行世界： \"桥上\"：正常世界，普通的人群 \"水中\"：水下世界。患有罕见病且不被理解的人群，在正常世界遭受欺凌，偏见，屈辱后，丧失希望，落入\"水中\"；转而对正常世界充满怨念。他们能够看见正常世界，会尽可能地拉正常世界的人\"下水\"。",
+    "en": "'You stand on the bridge watching the lake water, people in the water watch you in the lake.' The game has two parallel worlds: 'On the Bridge': the normal world, ordinary people. 'In the Water': the underwater world. People with rare diseases who are not understood, after suffering bullying, prejudice, and humiliation in the normal world, lose hope and fall into 'the water'; then become full of resentment toward the normal world. They can see the normal world and will try to pull people from the normal world 'into the water' as much as possible."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-8ed68f7",
+      "commit": "8ed68f74ad5dc302ade8cb5d9738a9fea7eb8714",
+      "publishedAt": "2026-05-12T00:54:54.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/wangyue789/redemption_of_guirenqiao"
+        }
+      ]
+    }
+  ]
+}

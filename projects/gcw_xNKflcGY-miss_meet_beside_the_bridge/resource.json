@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "gcw_xNKflcGY-miss_meet_beside_the_bridge",
+  "status": "active",
+  "title": {
+    "zh-Hans": "在桥边邂逅是否搞错了什么？",
+    "en": "Miss Meet Beside the Bridge"
+  },
+  "description": {
+    "zh-Hans": "这是一款文字冒险类游戏，百合向galgame，你将扮演一个面临高考压力的美少女高三生，面对现实压力无法忍受而灵魂解离（灵魂出窍），到底如何选择才能架起与现实世界和解的桥梁？ 操作说明：使用你的鼠标进行抉择把喵",
+    "en": "This is a text adventure game, a yuri galgame. You will play as a beautiful high school senior girl facing college entrance exam pressure. Unable to bear the pressure of reality, her soul separates (soul leaves the body). What choices must be made to build a bridge of reconciliation with the real world? Instructions: Use your mouse to make choices."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-7c71d25",
+      "commit": "7c71d25c8c918e46dea6e2bfa6401ad3c8bf30a3",
+      "publishedAt": "2026-05-12T00:54:47.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/gcw_xNKflcGY/miss_meet_beside_the_bridge"
+        }
+      ]
+    }
+  ]
+}

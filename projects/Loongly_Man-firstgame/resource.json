@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "Loongly_Man-firstgame",
+  "status": "active",
+  "title": {
+    "zh-Hans": "三生桥",
+    "en": "Tri-Span Reincarnation"
+  },
+  "description": {
+    "zh-Hans": "你需要运用你超凡脱俗的能力，在不断的轮回中为渐冻症找到一个完美的答案。这个故事尝试融合中医哲思与现代科研，以跨越时空的坚守为脉络，勾勒爱与生命的深层联结。唯有爱是跨越时空的桥梁，是疾病与健康之间的桥梁，是罕见病人与正常人之间理解与共生的桥梁，更是中西医、科研与生命之间，那些无形却坚韧的联结之桥。",
+    "en": "You need to use your extraordinary abilities to find a perfect answer for ALS in constant reincarnations. This story attempts to blend traditional Chinese medicine philosophy with modern scientific research, using persistence across time and space as the thread, outlining the deep connection between love and life. Only love is the bridge across time and space, the bridge between disease and health, the bridge of understanding and symbiosis between rare disease patients and normal people, and even more, the invisible yet resilient connecting bridges between Chinese and Western medicine, scientific research and life."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-d35e20d",
+      "commit": "d35e20dc9f5381af3a4cb3db6ca55d73a30bfcb6",
+      "publishedAt": "2026-05-12T00:54:13.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/Loongly_Man/firstgame"
+        }
+      ]
+    }
+  ]
+}

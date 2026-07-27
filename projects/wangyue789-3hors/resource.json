@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "wangyue789-3hors",
+  "status": "active",
+  "title": {
+    "zh-Hans": "子弹射射射射",
+    "en": "Bullet Shooter"
+  },
+  "description": {
+    "zh-Hans": "3小时游戏开发挑战参赛作品——子弹射射射射。",
+    "en": "Entry for the 3-hour game jam — Bullet Shooter."
+  },
+  "categories": [
+    "Game",
+    "3h-gamejam"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-0166202",
+      "commit": "0166202acbd5d33c63e97e58eb9d78dc985abdb5",
+      "publishedAt": "2026-05-12T00:54:54.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/wangyue789/3hors"
+        }
+      ]
+    }
+  ]
+}

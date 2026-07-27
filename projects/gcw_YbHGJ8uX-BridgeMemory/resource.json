@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "gcw_YbHGJ8uX-BridgeMemory",
+  "status": "active",
+  "title": {
+    "zh-Hans": "记忆断桥症",
+    "en": "Bridge Memory"
+  },
+  "description": {
+    "zh-Hans": "精神研究所所长\"云忆\"在进行\"精神连接实验\"时，意外触发病症，彻底遗忘了\"桥\"字及其意义。她回到荒凉破败的故乡\"断桥镇\"，发现石桥早已坍塌，居民也遗忘了桥的名字与历史，印证了病症正在蔓延。最终，云忆与林知合二为一，通过二次实验重构\"原初之桥\"，将其化为存在于所有人意识中的\"云桥\"。",
+    "en": "The director of the Mental Research Institute, 'Yunyi', accidentally triggers a condition during a 'mental connection experiment', completely forgetting the word 'bridge' and its meaning. She returns to her desolate and dilapidated hometown 'Broken Bridge Town', discovering that the stone bridge has long collapsed, and residents have also forgotten the bridge's name and history, confirming that the condition is spreading. Finally, Yunyi and Linzhi merge into one, reconstructing the 'Primordial Bridge' through a second experiment, transforming it into a 'Cloud Bridge' that exists in everyone's consciousness."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-367512f",
+      "commit": "367512fbc46f4b16024e71aded1d672e8f40f3da",
+      "publishedAt": "2026-05-12T00:54:50.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/gcw_YbHGJ8uX/BridgeMemory"
+        }
+      ]
+    }
+  ]
+}

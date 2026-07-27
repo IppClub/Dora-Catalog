@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "RtCt-firstgame",
+  "status": "active",
+  "title": {
+    "zh-Hans": "在今日，聆听你昨天未能说出的话语",
+    "en": "Yesterday's Unspoken Words"
+  },
+  "description": {
+    "zh-Hans": "一款视觉小说游戏，讲述了几位少年少女相遇，寻找往日事件的真相，逐渐破除昔日与亲友之间隔阂的故事。",
+    "en": "A visual novel game that tells the story of several young boys and girls meeting, searching for the truth of past events, and gradually breaking down barriers with friends and family from the past."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-e38014b",
+      "commit": "e38014b95da2c59e6ad98e4efbfd446839fd21e3",
+      "publishedAt": "2026-05-12T00:54:50.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/RtCt/firstgame"
+        }
+      ]
+    }
+  ]
+}

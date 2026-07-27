@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-17-19743004960",
+  "status": "active",
+  "title": {
+    "zh-Hans": "肉鸽卡牌",
+    "en": "肉鸽卡牌"
+  },
+  "description": {
+    "zh-Hans": "肉鸽卡牌",
+    "en": "肉鸽卡牌"
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-1960391",
+      "commit": "1960391dd7ca18a266ba3e848db0d283d893a192",
+      "publishedAt": "2026-06-09T09:52:11.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-17-19743004960"
+        }
+      ]
+    }
+  ]
+}

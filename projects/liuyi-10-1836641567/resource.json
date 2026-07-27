@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-10-1836641567",
+  "status": "active",
+  "title": {
+    "zh-Hans": "黄金矿工",
+    "en": "黄金矿工"
+  },
+  "description": {
+    "zh-Hans": "《黄金矿工》风格触屏游戏，按住屏幕控制钩爪伸长抓取矿物。",
+    "en": "A Gold Miner style touchscreen game with claw mechanics."
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-bfeea41",
+      "commit": "bfeea41bd227a6a73a3a3e569d3abba7791e5e82",
+      "publishedAt": "2026-06-09T09:51:56.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-10-1836641567"
+        }
+      ]
+    }
+  ]
+}

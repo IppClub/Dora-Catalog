@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "lsd-spine-2x",
+  "status": "active",
+  "title": {
+    "zh-Hans": "LSD Spine 动画 2x",
+    "en": "LSD Spine 2x"
+  },
+  "description": {
+    "zh-Hans": "欢迎使用《灵数奇缘》游戏开发资源库！本仓库包含使用 Spine2D 动画编辑器创作的高分辨率游戏开发资产，适用于对图像质量有较高要求的项目，例如高端移动游戏、PC游戏或需要在大屏幕上展示的应用。",
+    "en": "Welcome to the Luv Sense Digital (LSD) Spine 2x game development resource library! This repository contains game development assets created using Spine2D Editor for high resolution, suitable for projects requiring high image quality, such as high-end mobile games, PC games, or applications that need to be displayed on large screens."
+  },
+  "categories": [
+    "Asset"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": false,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-2ca1085",
+      "commit": "2ca1085a044e78a870cd473390bf126a4b64ae69",
+      "publishedAt": "2026-06-09T10:12:02.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/ippclub/lsd-spine-2x"
+        }
+      ]
+    }
+  ]
+}

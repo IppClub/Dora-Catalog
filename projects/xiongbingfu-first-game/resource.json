@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "xiongbingfu-first-game",
+  "status": "active",
+  "title": {
+    "zh-Hans": "防校园欺凌文字冒险小游戏",
+    "en": "Anti-bullying Text Adventure Game"
+  },
+  "description": {
+    "zh-Hans": "本游戏聚焦于校园欺凌，包括了身体暴力型、言语羞辱型、社交排斥型、网络谣言、性别歧视、强迫型欺凌等六大场景，玩家需要扮演被欺凌对象，通过选择不同的选项来对抗欺凌者，走出阴影。",
+    "en": "This game focuses on school bullying, including six scenarios: physical violence, verbal humiliation, social exclusion, online rumors, gender discrimination, and coercion. Players take on the role of the victim of bullying and choose different options to fight back against the bully, breaking free from the shadow."
+  },
+  "categories": [
+    "Game",
+    "温大-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-4ed5e0d",
+      "commit": "4ed5e0deb7afb2ba45ab0c055e59246605cdbbbd",
+      "publishedAt": "2026-05-12T00:54:45.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/xiongbingfu/First-game"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-18-13456574982",
+  "status": "active",
+  "title": {
+    "zh-Hans": "光影镖客",
+    "en": "光影镖客"
+  },
+  "description": {
+    "zh-Hans": "光影镖客",
+    "en": "光影镖客"
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-821132d",
+      "commit": "821132d10093ccf5a554948ba5e7f2ca1bbbbc8f",
+      "publishedAt": "2026-06-09T09:52:49.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-18-13456574982"
+        }
+      ]
+    }
+  ]
+}

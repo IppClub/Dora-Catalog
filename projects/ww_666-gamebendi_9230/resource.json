@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "ww_666-gamebendi_9230",
+  "status": "active",
+  "title": {
+    "zh-Hans": "日光桥",
+    "en": "Sunshine Bridge"
+  },
+  "description": {
+    "zh-Hans": "讲述了超级E人夏菊和患光敏感型皮肤异色症罕见病I人相遇相识的故事，两人因植物结缘，在阳光与阴影的边界中体会不同的感受，形成友谊的桥梁。",
+    "en": "Tells the story of super extrovert Xiaoju and an introvert with photosensitive skin heterochromia rare disease meeting and getting to know each other. The two are connected by plants, experiencing different feelings at the boundary between sunlight and shadow, forming a bridge of friendship."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-f1f17c3",
+      "commit": "f1f17c3220e4f0b0a05489c1398ce2fb08ea48ab",
+      "publishedAt": "2026-05-12T00:54:59.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/ww_666/gamebendi_9230"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "zhanyang1-bridge",
+  "status": "active",
+  "title": {
+    "zh-Hans": "桥：心渊摆渡",
+    "en": "Ferrying Across the Heart"
+  },
+  "description": {
+    "zh-Hans": "万千破碎世界的哀嚎中，一个古老的声音选中了你。你将化身为「摆渡人」，在虚无与现实之间架起希望的桥梁。面对两个亟待拯救的世界：一边是病房中用蜡笔画桥的患病孩子，需要你用勇气之光重绘生命；另一边是镜廊中对峙的过去与未来自我，等待你用智慧调和信念的冲突。",
+    "en": "In the wailing of countless shattered worlds, an ancient voice has chosen you. You will become a 'ferryman', building a bridge of hope between nothingness and reality. Facing two worlds in desperate need of salvation: on one side, a sick child in a hospital room drawing bridges with crayons, needing you to redraw life with the light of courage; on the other side, past and future selves confronting each other in a mirror corridor, waiting for you to reconcile conflicts of belief with wisdom."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-abbb853",
+      "commit": "abbb853a228feca480616a6a71accf32b5e7c84b",
+      "publishedAt": "2026-05-12T00:54:56.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/zhanyang1/bridge"
+        }
+      ]
+    }
+  ]
+}

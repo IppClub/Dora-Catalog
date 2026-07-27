@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "codenoobsad-kayingbei",
+  "status": "active",
+  "title": {
+    "zh-Hans": "推箱为桥",
+    "en": "Push to Bridge"
+  },
+  "description": {
+    "zh-Hans": "一款以\"推箱子搭桥\"为核心创意的解谜游戏。 你身处被水域分隔的孤岛，只能依靠箱子前进—— 将箱子推入水中， 亲手设计一条条\"由箱子组成的桥\"。",
+    "en": "A puzzle game with 'pushing boxes to build bridges' as its core creative concept. You are on an isolated island separated by water, and can only advance by relying on boxes—push boxes into the water, and personally design bridges made of boxes."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-aa3ffaf",
+      "commit": "aa3ffaf65f1d4215bd45f692ba4616a5ca8fb578",
+      "publishedAt": "2026-05-12T00:54:48.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/codenoobsad/kayingbei"
+        }
+      ]
+    }
+  ]
+}

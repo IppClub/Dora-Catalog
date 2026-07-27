@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "Catalan1906-kaying_bridge",
+  "status": "active",
+  "title": {
+    "zh-Hans": "桥之彼端的故事",
+    "en": "Tales from the Bridge's End"
+  },
+  "description": {
+    "zh-Hans": "超超超短篇文字小游戏♪ 在这里，你将扮演一名在一家（神秘？）医院临时工作的志愿者，在温馨的日常中，探索这里的（恐怖真相？）温暖故事！这里，你的选择可能会引领你到三个结局, 欢迎大家前来探索~",
+    "en": "An ultra-ultra-short text mini-game♪ Here, you will play as a volunteer temporarily working at a (mysterious?) hospital, exploring the (horrifying truth?) warm stories here in the cozy daily life! Here, your choices may lead you to three endings. Welcome everyone to explore~"
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-4ec9dc1",
+      "commit": "4ec9dc1df5522771887777d7f077d5437d7409e0",
+      "publishedAt": "2026-05-12T00:54:52.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/Catalan1906/kaying_bridge"
+        }
+      ]
+    }
+  ]
+}

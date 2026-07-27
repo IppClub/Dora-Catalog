@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-27-2916162848",
+  "status": "active",
+  "title": {
+    "zh-Hans": "赛尔号",
+    "en": "赛尔号"
+  },
+  "description": {
+    "zh-Hans": "以经典儿童IP《赛尔号》为主题的怀旧收集养成小游戏，核心玩法围绕抽卡牌与翻卡牌展开。",
+    "en": "A Seer-themed nostalgic card collection game."
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-f04f52d",
+      "commit": "f04f52d9664838cf617f7442549d1186322475ed",
+      "publishedAt": "2026-06-09T09:52:36.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-27-2916162848"
+        }
+      ]
+    }
+  ]
+}

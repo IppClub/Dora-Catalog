@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "gcw_5rS445kF-assis",
+  "status": "active",
+  "title": {
+    "zh-Hans": "围城",
+    "en": "Fortress Besieged"
+  },
+  "description": {
+    "zh-Hans": "主角【浮生】进入了一个奇怪的世界。这个世界似乎被诡异的规则所笼罩：规定必须说出口的誓词、空无一人却又感觉人满为患的房间、晚上传来的脚步声以及每三天一次的探望日。种种诡异迹象让他认为这不是一个真实世界。他不记得自己的名字，也不记得自己为什么会来到这里。当收集到了一切线索，终于找到真相，离开还是留下，究竟要做何选择呢？",
+    "en": "The protagonist [Fusheng] enters a strange world. This world seems to be shrouded in bizarre rules: vows that must be spoken aloud, rooms that are empty yet feel crowded, footsteps heard at night, and visiting days every three days. These strange signs make him believe this is not a real world. He doesn't remember his name, nor why he came here. When all clues are collected and the truth is finally found, should he leave or stay? What choice should be made?"
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-e0fe283",
+      "commit": "e0fe283f69408aed529b453c84e41a282eed36a4",
+      "publishedAt": "2026-05-12T00:54:53.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/gcw_5rS445kF/assis"
+        }
+      ]
+    }
+  ]
+}

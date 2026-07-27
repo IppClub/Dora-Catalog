@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "spadellllll-Metanoia",
+  "status": "active",
+  "title": {
+    "zh-Hans": "渡我",
+    "en": "Metanoia"
+  },
+  "description": {
+    "zh-Hans": "一款基于文本的游戏，包含心理恐怖、精神分析以及一点哲学元素。",
+    "en": "A text-based game containing psychological horror, psychoanalysis, and some philosophical elements."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-4020719",
+      "commit": "4020719d1d5ba1c735f90d67ea72509b942908c1",
+      "publishedAt": "2026-05-12T00:54:52.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/spadellllll/Metanoia"
+        }
+      ]
+    }
+  ]
+}

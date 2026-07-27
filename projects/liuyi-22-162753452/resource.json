@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-22-162753452",
+  "status": "active",
+  "title": {
+    "zh-Hans": "马里奥",
+    "en": "马里奥"
+  },
+  "description": {
+    "zh-Hans": "标准8位复古像素横版平台闯关小游戏，复刻FC初代《超级马里奥兄弟》原生机制。",
+    "en": "An 8-bit retro pixel platformer replicating classic Super Mario Bros mechanics."
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-6ce5aaa",
+      "commit": "6ce5aaa00ceb6a7e12acdf80e6068fba3caab2bd",
+      "publishedAt": "2026-06-09T09:52:20.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-22-162753452"
+        }
+      ]
+    }
+  ]
+}

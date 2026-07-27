@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "gcw_IG3mXl7x-bridge_link_dream",
+  "status": "active",
+  "title": {
+    "zh-Hans": "桥络织梦",
+    "en": "Bridge Link Dream"
+  },
+  "description": {
+    "zh-Hans": "这是一款以\"找寻自我\"贯彻全篇的剧情向机关解谜游戏，在游戏中，玩家需要扮演身存心死的主角，在游戏的过程中不断进行机关解谜等操作来通关关卡，从而找寻并补完自我。游戏特色为\"桥络\"：主角具备看出事物之间联系的能力，在游戏中，主角可以通过与场景物体互动，从而\"看到\"物体上的桥络并使其与他物进行联系来触发机关来使自己能够通过关卡。",
+    "en": "This is a story-driven puzzle game with 'finding oneself' as the theme throughout. In the game, players need to play as a protagonist who is physically alive but spiritually dead, continuously solving puzzles and mechanisms to pass levels, thus finding and completing oneself. The game's feature is 'bridge connection': the protagonist has the ability to see connections between things. In the game, the protagonist can interact with scene objects to 'see' the bridge connections on objects and connect them with other things to trigger mechanisms and pass levels."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-7cc7571",
+      "commit": "7cc7571a730a580fbf999ae3d8b2e95bd41c034c",
+      "publishedAt": "2026-05-12T00:54:54.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/gcw_IG3mXl7x/bridge_link_dream"
+        }
+      ]
+    }
+  ]
+}

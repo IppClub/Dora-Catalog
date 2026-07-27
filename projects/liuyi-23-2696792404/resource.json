@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-23-2696792404",
+  "status": "active",
+  "title": {
+    "zh-Hans": "斗鸡",
+    "en": "斗鸡"
+  },
+  "description": {
+    "zh-Hans": "斗鸡",
+    "en": "斗鸡"
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-5464a4b",
+      "commit": "5464a4b2345cd1ea7ef8d6ce0f252ad1a25f2ad9",
+      "publishedAt": "2026-06-09T09:52:23.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-23-2696792404"
+        }
+      ]
+    }
+  ]
+}

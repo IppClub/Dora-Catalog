@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-6-2d-1715440827",
+  "status": "active",
+  "title": {
+    "zh-Hans": "2D弹球",
+    "en": "2D弹球"
+  },
+  "description": {
+    "zh-Hans": "以童年课桌弹球为灵感的2D弹球对抗小游戏，玩家控制挡板反弹小球。",
+    "en": "A 2D pong-style game inspired by childhood table marble games."
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-d4072f7",
+      "commit": "d4072f7f32e03c64ccebfb2f369e87a0dee3df79",
+      "publishedAt": "2026-06-09T09:52:07.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-6-2d-1715440827"
+        }
+      ]
+    }
+  ]
+}

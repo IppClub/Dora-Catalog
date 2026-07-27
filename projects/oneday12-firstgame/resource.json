@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "oneday12-firstgame",
+  "status": "active",
+  "title": {
+    "zh-Hans": "网桥",
+    "en": "Net Bridge"
+  },
+  "description": {
+    "zh-Hans": "故事参考了以前我朋友的故事，我也是经过他的视角才看见了隐藏的一面，原世界没有霸凌吧。",
+    "en": "The story is based on a friend's story from before. I also saw the hidden side through his perspective. The original world had no bullying."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-4a0fb90",
+      "commit": "4a0fb908e325f6e9d73471fda8a967ff60c41b04",
+      "publishedAt": "2026-05-12T00:54:50.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/oneday12/firstgame"
+        }
+      ]
+    }
+  ]
+}

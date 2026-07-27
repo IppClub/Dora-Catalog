@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "liuyi-26-1019238672",
+  "status": "active",
+  "title": {
+    "zh-Hans": "画线包围击杀",
+    "en": "画线包围击杀"
+  },
+  "description": {
+    "zh-Hans": "画线包围击杀",
+    "en": "画线包围击杀"
+  },
+  "categories": [
+    "Game",
+    "6-1-game"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-ff3633e",
+      "commit": "ff3633e5e33d2aaae1d366ca067c69d92f723431",
+      "publishedAt": "2026-06-09T09:52:59.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/atomcraft-activities/liuyi-26-1019238672"
+        }
+      ]
+    }
+  ]
+}

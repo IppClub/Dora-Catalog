@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "kayingbei-Intersection",
+  "status": "active",
+  "title": {
+    "zh-Hans": "Intersection",
+    "en": "Intersection"
+  },
+  "description": {
+    "zh-Hans": "游戏中，你将扮演一位前往幻想城市 LAS 休假的旅客，体验当地盛会\"创作节\"的氛围，并发掘多年前的创作节上，关于一位创作者的故事。",
+    "en": "In the game, you will play as a tourist visiting the fantasy city LAS for vacation, experiencing the atmosphere of the local festival 'Creation Festival', and discovering the story of a creator from the Creation Festival many years ago."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-167a56c",
+      "commit": "167a56cf431a4ecc78655a4d4042edc37ade003e",
+      "publishedAt": "2026-05-12T00:54:15.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/kayingbei/Intersection"
+        }
+      ]
+    }
+  ]
+}

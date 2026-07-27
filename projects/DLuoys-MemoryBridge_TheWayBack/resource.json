@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "DLuoys-MemoryBridge_TheWayBack",
+  "status": "active",
+  "title": {
+    "zh-Hans": "忆桥·归途",
+    "en": "Memory Bridge: The Way Back"
+  },
+  "description": {
+    "zh-Hans": "这是一款以\"牺牲与救赎\"为核心的剧情向硬核平台跳跃游戏。玩家扮演一名守护者，需带领一位失忆的灵魂穿越充满陷阱与危机的梦境世界，通过收集七块\"记忆碎片\"来找回过往然后一同回家。",
+    "en": "This is a story-driven hardcore platform jumping game centered on 'sacrifice and redemption'. Players play as a guardian who must lead an amnesiac soul through a dream world full of traps and dangers, collecting seven 'memory fragments' to recover the past and return home together."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-0a45b0e",
+      "commit": "0a45b0ec82e24cf81db1c34b06cfd293f5b38986",
+      "publishedAt": "2026-05-12T00:54:46.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/DLuoys/MemoryBridge_TheWayBack"
+        }
+      ]
+    }
+  ]
+}

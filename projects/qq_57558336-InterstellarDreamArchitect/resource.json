@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "qq_57558336-InterstellarDreamArchitect",
+  "status": "active",
+  "title": {
+    "zh-Hans": "Interstellar Dream Architect",
+    "en": "Interstellar Dream Architect"
+  },
+  "description": {
+    "zh-Hans": "3小时游戏开发挑战参赛作品——星际梦境建筑师。",
+    "en": "Entry for the 3-hour game jam — Interstellar Dream Architect."
+  },
+  "categories": [
+    "Game",
+    "3h-gamejam"
+  ],
+  "tags": [
+    "minigame"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-8c6f19c",
+      "commit": "8c6f19c9ef04593d1e9c38e75b78641dfbda76c9",
+      "publishedAt": "2026-05-12T00:54:51.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/qq_57558336/InterstellarDreamArchitect"
+        }
+      ]
+    }
+  ]
+}

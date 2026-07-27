@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "chenshian1-Disaligned_Harmony",
+  "status": "active",
+  "title": {
+    "zh-Hans": "Disaligned Harmony",
+    "en": "Disaligned Harmony"
+  },
+  "description": {
+    "zh-Hans": "罕见病患者的世界也是有色彩的，与我们正常人并无什么不同，但是他们因为不同的原因与我们正常生活有了距离，所以我们需要协助建立起他们与正常世界的桥梁。在这个游戏中，玩家能做的只是很简单的动作，但是这些简单的动作汇集起来却可以成为一座坚实的桥梁。玩家使用WASD移动，地图被土地分隔开来，土地中间存在有空隙，玩家需要把地图上两个的砖块拼在一起成2*2的桥梁填进空隙中，方可完成建造桥梁的任务。",
+    "en": "The world of rare disease patients also has color, no different from us normal people, but they have distance from our normal lives for different reasons, so we need to help build a bridge between them and the normal world. In this game, players can only do very simple actions, but these simple actions together can become a solid bridge. Players use WASD to move, the map is separated by land, there are gaps in the middle of the land, players need to combine two bricks on the map into a 2*2 bridge to fill the gap, then complete the bridge building task."
+  },
+  "categories": [
+    "Game",
+    "卡赢-2025"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "snapshot-27cfb54",
+      "commit": "27cfb5413a33d4a982985019bd5579c3e211c08a",
+      "publishedAt": "2026-05-12T00:54:56.000Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://gitcode.com/chenshian1/Disaligned_Harmony"
+        }
+      ]
+    }
+  ]
+}
