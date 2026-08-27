@@ -144,7 +144,8 @@
         },
         "path": {
           "type": "string",
-          "minLength": 1
+          "minLength": 1,
+          "description": "Dora module path used for launch metadata. It may omit the language extension, such as AI Fighter/init, and need not name an extensionless file."
         }
       }
     },
@@ -188,7 +189,8 @@
         },
         "commit": {
           "type": "string",
-          "pattern": "^[0-9a-f]{40}$"
+          "pattern": "^[0-9a-f]{40}$",
+          "description": "Source commit observed when this catalog entry was maintained. Required by schema v1 for compatibility, display, and diagnostics; clients may install the current source HEAD and must not reject a mismatch."
         },
         "publishedAt": {
           "type": "string",
