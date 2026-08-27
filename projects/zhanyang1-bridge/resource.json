@@ -22,8 +22,7 @@
   "entrypoints": [],
   "versions": [
     {
-      "name": "snapshot-abbb853",
-      "commit": "abbb853a228feca480616a6a71accf32b5e7c84b",
+      "name": "latest",
       "publishedAt": "2026-05-12T00:54:56.000Z",
       "sources": [
         {

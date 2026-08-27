@@ -25,8 +25,7 @@
   "entrypoints": [],
   "versions": [
     {
-      "name": "snapshot-8c6f19c",
-      "commit": "8c6f19c9ef04593d1e9c38e75b78641dfbda76c9",
+      "name": "latest",
       "publishedAt": "2026-05-12T00:54:51.000Z",
       "sources": [
         {

@@ -50,8 +50,7 @@
   ],
   "versions": [
     {
-      "name": "snapshot-09cd44d",
-      "commit": "09cd44dbbdfb7db1b1ae01f6d19a1f9e62f9b33c",
+      "name": "latest",
       "publishedAt": "2026-07-27T00:00:00.000Z",
       "sources": [
         {
