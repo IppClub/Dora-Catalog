@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "chnoorlee-wenken-principal",
+  "status": "active",
+  "title": {
+    "zh-Hans": "重生之我在温肯当校长",
+    "en": "Reborn as President at Wenzhou-Kean"
+  },
+  "description": {
+    "zh-Hans": "一款像素风校园经营模拟游戏。你将出任温州肯恩大学校长，在五年任期中平衡资金、招生、声誉、科研、满意度与健康，建设 13 个校园项目，处理每月决策，并解锁校园影像与多种结局。",
+    "en": "A pixel-art campus management simulation. Serve as president of Wenzhou-Kean University, balance six institutional metrics across a five-year term, build 13 campus projects, make monthly decisions, and unlock campus photography and multiple endings."
+  },
+  "categories": [
+    "Game",
+    "Simulation",
+    "Education"
+  ],
+  "tags": [
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "重生之我在温肯当校长",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "1.0.0",
+      "tag": "v1.0.0",
+      "publishedAt": "2026-09-06T03:33:51.361Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://github.com/chnoorlee/I-am-the-president-of-Wenzhou-Kean-University-"
+        }
+      ]
+    }
+  ]
+}
