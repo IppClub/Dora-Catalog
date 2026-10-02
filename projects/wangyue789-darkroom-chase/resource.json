@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-29T05:04:40.489469Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/wangyue789/darkroom-chase"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/wangyue789-darkroom-chase.git"
         }
       ]
     }

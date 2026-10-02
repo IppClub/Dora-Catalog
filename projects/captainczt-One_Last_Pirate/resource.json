@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-28T02:20:49.163534Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/captainczt/One_Last_Pirate"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/captainczt-One_Last_Pirate.git"
         }
       ]
     }

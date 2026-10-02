@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-28T11:31:49.959838Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/Koikokokokoro/The-Binder-Clip"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/Koikokokokoro-The-Binder-Clip.git"
         }
       ]
     }

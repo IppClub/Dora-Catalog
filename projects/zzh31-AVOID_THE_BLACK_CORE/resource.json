@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-24T11:07:27.332026Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/zzh31/AVOID_THE_BLACK_CORE"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/zzh31-AVOID_THE_BLACK_CORE.git"
         }
       ]
     }

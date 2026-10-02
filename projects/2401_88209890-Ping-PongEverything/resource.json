@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-29T05:48:37.680748Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/2401_88209890/Ping-PongEverything"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/2401_88209890-Ping-PongEverything.git"
         }
       ]
     }

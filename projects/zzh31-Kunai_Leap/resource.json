@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-28T02:42:50.828180Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/zzh31/Kunai_Leap"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/zzh31-Kunai_Leap.git"
         }
       ]
     }

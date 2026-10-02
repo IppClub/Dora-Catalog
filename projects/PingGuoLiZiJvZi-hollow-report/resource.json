@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-26T03:45:09.903756Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/PingGuoLiZiJvZi/hollow-report"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/PingGuoLiZiJvZi-hollow-report.git"
         }
       ]
     }

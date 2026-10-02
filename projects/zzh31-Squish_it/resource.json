@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-26T03:34:12.880080Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/zzh31/Squish_it"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/zzh31-Squish_it.git"
         }
       ]
     }

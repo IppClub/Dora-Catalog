@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-28T14:42:33.494171Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/Koikokokokoro/Goldtrader"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/Koikokokokoro-Goldtrader.git"
         }
       ]
     }

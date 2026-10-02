@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-25T03:20:38.286747Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/2401_88209890/JingFan"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/2401_88209890-JingFan.git"
         }
       ]
     }

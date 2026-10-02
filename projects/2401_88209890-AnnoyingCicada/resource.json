@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-29T05:34:33.336291Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/2401_88209890/AnnoyingCicada"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/2401_88209890-AnnoyingCicada.git"
         }
       ]
     }

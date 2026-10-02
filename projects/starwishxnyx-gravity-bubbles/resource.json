@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-27T16:15:53.457922Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/starwishxnyx/gravity-bubbles"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/starwishxnyx-gravity-bubbles.git"
         }
       ]
     }

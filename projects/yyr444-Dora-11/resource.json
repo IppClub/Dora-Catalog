@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-29T04:16:14.202329Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/yyr444/Dora-11"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/yyr444-Dora-11.git"
         }
       ]
     }

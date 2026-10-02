@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-28T08:19:18.591127Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/meiweipanini/UnderTheBed"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/meiweipanini-UnderTheBed.git"
         }
       ]
     }

@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-30T02:30:18.220348Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/gcw_S7zWMos9/RedBlue"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/gcw_S7zWMos9-RedBlue.git"
         }
       ]
     }

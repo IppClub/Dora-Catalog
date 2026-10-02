@@ -32,8 +32,8 @@
       "publishedAt": "2026-09-27T01:59:52.576596Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/Uyv12/D"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/Uyv12-D.git"
         }
       ]
     }

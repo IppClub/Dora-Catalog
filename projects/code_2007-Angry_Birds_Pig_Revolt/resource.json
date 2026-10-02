@@ -32,8 +32,8 @@
       "publishedAt": "2026-09-25T17:45:31.230770Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/code_2007/Angry_Birds_Pig_Revolt"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/code_2007-Angry_Birds_Pig_Revolt.git"
         }
       ]
     }

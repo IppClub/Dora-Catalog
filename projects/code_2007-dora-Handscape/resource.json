@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-29T09:02:33.965351Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/code_2007/dora-Handscape"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/code_2007-dora-Handscape.git"
         }
       ]
     }

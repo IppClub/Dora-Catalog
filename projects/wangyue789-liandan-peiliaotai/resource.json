@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-27T15:25:15.058058Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/wangyue789/liandan-peiliaotai"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/wangyue789-liandan-peiliaotai.git"
         }
       ]
     }

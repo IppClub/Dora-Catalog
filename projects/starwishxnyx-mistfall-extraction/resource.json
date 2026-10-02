@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-27T17:33:24.644507Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/starwishxnyx/mistfall-extraction"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/starwishxnyx-mistfall-extraction.git"
         }
       ]
     }

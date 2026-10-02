@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-30T03:35:04.764736Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/wangyue789/silent-foley-studio"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/wangyue789-silent-foley-studio.git"
         }
       ]
     }

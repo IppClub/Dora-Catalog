@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-28T15:36:34.458707Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/u-uu/run-pelican-run"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/u-uu-run-pelican-run.git"
         }
       ]
     }

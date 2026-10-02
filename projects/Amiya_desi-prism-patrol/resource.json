@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-28T02:39:13.069409Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/Amiya_desi/prism-patrol"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/Amiya_desi-prism-patrol.git"
         }
       ]
     }

@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-28T15:24:05.706334Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/darkskyx15/build-by-layers"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/darkskyx15-build-by-layers.git"
         }
       ]
     }

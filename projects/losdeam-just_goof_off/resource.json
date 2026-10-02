@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-29T05:14:08.807790Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/losdeam/just_goof_off"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/losdeam-just_goof_off.git"
         }
       ]
     }

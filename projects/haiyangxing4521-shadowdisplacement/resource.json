@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-30T02:03:48.525809Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/haiyangxing4521/shadowdisplacement"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/haiyangxing4521-shadowdisplacement.git"
         }
       ]
     }

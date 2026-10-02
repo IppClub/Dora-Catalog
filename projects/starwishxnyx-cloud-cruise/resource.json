@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-23T01:46:29.556370Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/starwishxnyx/cloud-cruise"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/starwishxnyx-cloud-cruise.git"
         }
       ]
     }

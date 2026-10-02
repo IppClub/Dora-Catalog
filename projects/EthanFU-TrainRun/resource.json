@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-24T06:10:45.232700Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/EthanFU/TrainRun"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/EthanFU-TrainRun.git"
         }
       ]
     }

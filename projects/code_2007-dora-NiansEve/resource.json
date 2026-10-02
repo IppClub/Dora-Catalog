@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-29T10:49:49.506569Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/code_2007/dora-NiansEve"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/code_2007-dora-NiansEve.git"
         }
       ]
     }

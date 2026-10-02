@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-26T08:58:50.323391Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/Koikokokokoro/Unshape"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/Koikokokokoro-Unshape.git"
         }
       ]
     }

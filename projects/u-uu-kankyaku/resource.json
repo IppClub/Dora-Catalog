@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-28T03:36:07.497205Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/u-uu/kankyaku"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/u-uu-kankyaku.git"
         }
       ]
     }

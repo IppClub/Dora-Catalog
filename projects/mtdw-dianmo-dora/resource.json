@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-22T16:42:43.678676Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/mtdw/dianmo-dora"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/mtdw-dianmo-dora.git"
         }
       ]
     }

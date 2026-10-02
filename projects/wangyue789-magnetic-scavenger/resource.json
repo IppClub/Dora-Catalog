@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-28T07:55:45.227013Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/wangyue789/magnetic-scavenger"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/wangyue789-magnetic-scavenger.git"
         }
       ]
     }

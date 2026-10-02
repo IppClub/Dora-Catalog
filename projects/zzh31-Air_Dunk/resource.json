@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-28T14:01:17.159946Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/zzh31/Air_Dunk"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/zzh31-Air_Dunk.git"
         }
       ]
     }

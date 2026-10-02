@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-28T12:57:16.056412Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/code_2007/dora-PhasmaBall"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/code_2007-dora-PhasmaBall.git"
         }
       ]
     }

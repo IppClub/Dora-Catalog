@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-25T03:25:56.827461Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/code_2007/dora-BlockMatch"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/code_2007-dora-BlockMatch.git"
         }
       ]
     }

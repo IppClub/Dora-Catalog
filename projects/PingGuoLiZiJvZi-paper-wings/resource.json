@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-25T15:02:57.939610Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/PingGuoLiZiJvZi/paper-wings"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/PingGuoLiZiJvZi-paper-wings.git"
         }
       ]
     }

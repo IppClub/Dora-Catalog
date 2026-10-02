@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-28T08:24:28.519529Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/gcw_S7zWMos9/BoxCat"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/gcw_S7zWMos9-BoxCat.git"
         }
       ]
     }

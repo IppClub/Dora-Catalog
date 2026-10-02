@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-26T11:02:12.318858Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/codenoobsad/moonlight-station"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/codenoobsad-moonlight-station.git"
         }
       ]
     }

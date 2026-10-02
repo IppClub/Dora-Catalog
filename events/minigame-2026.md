@@ -2,11 +2,13 @@
 
 来源：[活动游戏库](https://atompie.osgame.org/events/minigame-2026)。采集日期：2026-10-02（Asia/Shanghai）。公开接口全部 5 页，共 106 个已发布作品。
 
-各作品的原始名称、完整介绍和 Git 来源保存在 `projects/<id>/resource.json`，官方封面转换为 JPEG 后保存在同目录的 `banner.jpg`。中英文文本字段暂保留作者原文，与已有活动条目的做法一致。许可证未逐仓库核对，使用 `pending`。
+各作品的原始名称和完整介绍保存在 `projects/<id>/resource.json`，官方封面转换为 JPEG 后保存在同目录的 `banner.jpg`。中英文文本字段暂保留作者原文，与已有活动条目的做法一致。许可证未逐仓库核对，使用 `pending`。
 
 入口按公开仓库根目录实际文件核对：有 Dora 原生入口的作品可安装、试玩和 Remix；仅有 TypeScript 源码的作品设为 `runnable: false`，通过 `playUrl` 在线试玩。全部条目使用 `minigame`、`minigame-2026` 和 `mobile-feed` 标签。
 
-此表保留原始详情、试玩和封面地址，用于资料追溯；客户端仍直接扫描 projects，没有汇总索引依赖。
+下载来源已切换为 [Dora Minigame 2026](https://gitcode.com/dora-minigame-2026) 组织内的原生分发 fork；原作者源码链接保留在下表，每个 fork 的 `DORA_NATIVE.md` 记录上游提交和移除的浏览器 ZIP。下载器使用 `--depth 1`，不再以含 Web ZIP 的上游仓库作为安装回退来源。详见 [原生分发清理记录](minigame-2026-native.md)。
+
+此表保留原始详情、源码、试玩和封面地址，用于资料追溯；客户端仍直接扫描 projects，没有汇总索引依赖。
 
 | 作品 | 目录 | 活动详情 | 源码 | 在线试玩 | 原始封面 | Feed 方式 |
 | --- | --- | --- | --- | --- | --- | --- |

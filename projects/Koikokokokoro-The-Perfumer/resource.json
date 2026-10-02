@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-30T02:03:37.092273Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/Koikokokokoro/The-Perfumer"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/Koikokokokoro-The-Perfumer.git"
         }
       ]
     }

@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-28T12:58:37.017714Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/EthanFU/SteamInventor"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/EthanFU-SteamInventor.git"
         }
       ]
     }

@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-29T04:43:38.680263Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/wangyue789/aurora-beat"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/wangyue789-aurora-beat.git"
         }
       ]
     }

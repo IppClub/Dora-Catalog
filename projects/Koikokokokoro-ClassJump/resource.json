@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-28T11:25:00.874974Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/Koikokokokoro/ClassJump"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/Koikokokokoro-ClassJump.git"
         }
       ]
     }

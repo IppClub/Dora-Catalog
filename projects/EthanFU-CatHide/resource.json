@@ -37,8 +37,8 @@
       "publishedAt": "2026-09-29T02:23:54.142288Z",
       "sources": [
         {
-          "role": "upstream",
-          "url": "https://atomgit.com/EthanFU/CatHide"
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/EthanFU-CatHide.git"
         }
       ]
     }
