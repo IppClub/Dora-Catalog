@@ -4,7 +4,7 @@
 
 各作品的原始名称和完整介绍保存在 `projects/<id>/resource.json`，官方封面转换为 JPEG 后保存在同目录的 `banner.jpg`。中英文文本字段暂保留作者原文，与已有活动条目的做法一致。许可证未逐仓库核对，使用 `pending`。
 
-入口按公开仓库根目录实际文件核对：有 Dora 原生入口的作品可安装、试玩和 Remix；仅有 TypeScript 源码的作品设为 `runnable: false`，通过 `playUrl` 在线试玩。全部条目使用 `minigame`、`minigame-2026` 和 `mobile-feed` 标签。
+入口按分发 fork 的实际文件核对：全部 106 个活动作品均提供 Dora 原生入口，可安装、试玩和 Remix。原先仅有 TypeScript 源码的 10 个作品已在本地引擎编译、启动验证并提交生成 Lua；原始 `playUrl` 保留，详见 [构建验证记录](minigame-2026-ts-native.md)。全部条目使用 `minigame`、`minigame-2026` 和 `mobile-feed` 标签。
 
 下载来源已切换为 [Dora Minigame 2026](https://gitcode.com/dora-minigame-2026) 组织内的原生分发 fork；原作者源码链接保留在下表，每个 fork 的 `DORA_NATIVE.md` 记录上游提交和移除的浏览器 ZIP。下载器使用 `--depth 1`，不再以含 Web ZIP 的上游仓库作为安装回退来源。详见 [原生分发清理记录](minigame-2026-native.md)。
 

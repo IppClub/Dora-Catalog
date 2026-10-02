@@ -8,9 +8,9 @@
 
 通过比较基线提交和清理后根目录中的文件/子树 Git SHA，验证除清单文件及移除 ZIP 外的内容一致。该校验涵盖子树内容，不代表每个游戏均做过实际运行测试。
 
-验证：全部 180 个 resource.json 通过 schema 校验；真实 Catalog.lua 解析并筛选出 106 个活动 feed 条目（96 原生、10 在线试玩）。本次仅修改下载来源，名称、介绍、封面、运行入口和试玩链接均与先前提交一致。未重复执行全部游戏或真机 QA。
+验证：全部 180 个 resource.json 通过 schema 校验；真实 Catalog.lua 解析并筛选出 106 个原生活动 feed 条目。名称、介绍、封面和试玩链接保留。10 个仅含 TypeScript 的作品已用本地 Dora 1.9.3.11 编译并实际启动，补齐原生运行入口；其余 96 个未重复逐个运行，未执行真机 QA。
 
-匿名 HTTP 浅克隆样例：默片拟音局 Git pack 从 25,170 KiB 减到 5,249 KiB（约减少 79%）。对新 fork 禁用 credential helper 并以 depth 1 成功下载，当前树不存在 Web ZIP。坦克大战的 Git pack 从 20,825 KiB 减到 1,111 KiB（减少 94.7%），源码保留，仍按在线试玩条目展示。
+匿名 HTTP 浅克隆样例：默片拟音局 Git pack 从 25,170 KiB 减到 5,249 KiB（约减少 79%）。对新 fork 禁用 credential helper 并以 depth 1 成功下载，当前树不存在 Web ZIP。坦克大战的 Git pack 从 20,825 KiB 减到 1,111 KiB（减少 94.7%），源码保留；随后已补全原生依赖并构建 Lua。
 
 | 作品 | 原作者仓库 | 原生分发 fork | 基线提交 | 移除 ZIP |
 | --- | --- | --- | --- | --- |
@@ -120,3 +120,5 @@
 | 奇怪的贪吃蛇 | [上游](https://atomgit.com/starwishxnyx/strange-snake) | [fork](https://gitcode.com/dora-minigame-2026/starwishxnyx-strange-snake) | `4614b3aca4a3918d55fa7bd0e198b6d9e8abd239` | `Strange Snake-web-html.zip` |
 | 云际巡航 | [上游](https://atomgit.com/starwishxnyx/cloud-cruise) | [fork](https://gitcode.com/dora-minigame-2026/starwishxnyx-cloud-cruise) | `a2a3bdadcacd8bdb5eb4dc2455a2757a49495daf` | `云际巡航-H5.zip` |
 | 点墨 | [上游](https://atomgit.com/mtdw/dianmo-dora) | [fork](https://gitcode.com/dora-minigame-2026/mtdw-dianmo-dora) | `3597d893082b7d8c163fcf0a924ef575fd7eb00b` | `dianmo-web-html.zip` |
+
+原先仅 TypeScript 的作品均已完成原生构建：[10 个作品的构建、测试与远程提交记录](minigame-2026-ts-native.md)。

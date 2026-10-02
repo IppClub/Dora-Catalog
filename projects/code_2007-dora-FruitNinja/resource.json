@@ -24,8 +24,13 @@
   "license": {
     "status": "pending"
   },
-  "runnable": false,
-  "entrypoints": [],
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "水果忍者：但你是忍者",
+      "path": "init"
+    }
+  ],
   "versions": [
     {
       "name": "latest",

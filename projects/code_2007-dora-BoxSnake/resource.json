@@ -24,8 +24,13 @@
   "license": {
     "status": "pending"
   },
-  "runnable": false,
-  "entrypoints": [],
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "推箱的蛇",
+      "path": "init"
+    }
+  ],
   "versions": [
     {
       "name": "latest",

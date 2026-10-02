@@ -24,8 +24,13 @@
   "license": {
     "status": "pending"
   },
-  "runnable": false,
-  "entrypoints": [],
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "裂隙突围",
+      "path": "init"
+    }
+  ],
   "versions": [
     {
       "name": "latest",
