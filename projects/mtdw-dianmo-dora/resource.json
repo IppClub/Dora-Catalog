@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "mtdw-dianmo-dora",
+  "status": "active",
+  "title": {
+    "zh-Hans": "点墨",
+    "en": "点墨"
+  },
+  "description": {
+    "zh-Hans": "《点墨》由猫头大王创作，是一款竖屏国风水墨连锁消除游戏。点击墨滴消耗余墨，使其逐级变浓；满级墨滴爆开后向四方飞散，触发连续消除。观察浓淡与位置，规划落笔顺序，在有限余墨内清空画卷。支持触屏操作与关卡重试。",
+    "en": "《点墨》由猫头大王创作，是一款竖屏国风水墨连锁消除游戏。点击墨滴消耗余墨，使其逐级变浓；满级墨滴爆开后向四方飞散，触发连续消除。观察浓淡与位置，规划落笔顺序，在有限余墨内清空画卷。支持触屏操作与关卡重试。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "点墨",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-22T16:42:43.678676Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/mtdw/dianmo-dora"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g6.opensourcegame.games/index.html"
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "wangyue789-aurora-beat",
+  "status": "active",
+  "title": {
+    "zh-Hans": "极光节拍",
+    "en": "极光节拍"
+  },
+  "description": {
+    "zh-Hans": "三首可选原创曲目：极光序曲(120 BPM)、流星夜航(136 BPM)、月色回声(108 BPM)，每首均有独立录音、旋律和十轮记忆谱面。先听四音记住四色谱卡，再在目标隐藏后按节拍回奏；每曲56音符，含实时判定、连击能量与S级结算。触控或D/F/J/K操作，演出中可随时返回选曲。仓库根目录含完整Web试玩包。",
+    "en": "三首可选原创曲目：极光序曲(120 BPM)、流星夜航(136 BPM)、月色回声(108 BPM)，每首均有独立录音、旋律和十轮记忆谱面。先听四音记住四色谱卡，再在目标隐藏后按节拍回奏；每曲56音符，含实时判定、连击能量与S级结算。触控或D/F/J/K操作，演出中可随时返回选曲。仓库根目录含完整Web试玩包。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "极光节拍",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-29T04:43:38.680263Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/wangyue789/aurora-beat"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g84.opensourcegame.games/index.html"
+}

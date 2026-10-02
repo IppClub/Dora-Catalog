@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-NiansEve",
+  "status": "active",
+  "title": {
+    "zh-Hans": "除夕大作战",
+    "en": "除夕大作战"
+  },
+  "description": {
+    "zh-Hans": "《除夕大作战（Nian's Eve）》单人休闲街机追逐游戏，改编吃豆人玩法。玩家在迷宫收集饺子，躲避年兽追击。拾取炮竹可放置引爆击退年兽，还有年糕、蒸鱼等增益道具。关卡递进提升难度。\n——code_2007",
+    "en": "《除夕大作战（Nian's Eve）》单人休闲街机追逐游戏，改编吃豆人玩法。玩家在迷宫收集饺子，躲避年兽追击。拾取炮竹可放置引爆击退年兽，还有年糕、蒸鱼等增益道具。关卡递进提升难度。\n——code_2007"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "除夕大作战",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-29T10:49:49.506569Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/code_2007/dora-NiansEve"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g98.opensourcegame.games/index.html"
+}

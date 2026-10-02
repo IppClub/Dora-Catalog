@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-PhasmaBall",
+  "status": "active",
+  "title": {
+    "zh-Hans": "幻轨弹球",
+    "en": "幻轨弹球"
+  },
+  "description": {
+    "zh-Hans": "操控底部横向跳板移动，接住下落反弹的小球得分。游戏随机生成魔法标记，倒计时结束触发对应魔法，改变小球物理轨迹进行干扰。分数越高，跳板越短、魔法出现越频繁。漏接小球扣分，漏 5 个游戏失败，分数无上限。\n——code_2007",
+    "en": "操控底部横向跳板移动，接住下落反弹的小球得分。游戏随机生成魔法标记，倒计时结束触发对应魔法，改变小球物理轨迹进行干扰。分数越高，跳板越短、魔法出现越频繁。漏接小球扣分，漏 5 个游戏失败，分数无上限。\n——code_2007"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "幻轨弹球",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T12:57:16.056412Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/code_2007/dora-PhasmaBall"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g61.opensourcegame.games/index.html"
+}

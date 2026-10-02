@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "Amiya_desi-prism-patrol",
+  "status": "active",
+  "title": {
+    "zh-Hans": "棱镜巡检",
+    "en": "棱镜巡检"
+  },
+  "description": {
+    "zh-Hans": "程序生成空间站舱室中的棱镜折射巡检。移动机器人调整站位与朝向，用扫描脉冲经过棱镜折射给终端充能，再在警报倒数中穿过出口；颜色滤镜、转向棱镜、墙体、电池和巡逻无人机随舱室递增。支持键盘、鼠标与触屏，含循环音乐与玩法事件音效。",
+    "en": "程序生成空间站舱室中的棱镜折射巡检。移动机器人调整站位与朝向，用扫描脉冲经过棱镜折射给终端充能，再在警报倒数中穿过出口；颜色滤镜、转向棱镜、墙体、电池和巡逻无人机随舱室递增。支持键盘、鼠标与触屏，含循环音乐与玩法事件音效。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "棱镜巡检",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T02:39:13.069409Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/Amiya_desi/prism-patrol"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g69.opensourcegame.games/index.html"
+}

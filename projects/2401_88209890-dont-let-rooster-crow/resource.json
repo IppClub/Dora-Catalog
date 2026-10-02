@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-dont-let-rooster-crow",
+  "status": "active",
+  "title": {
+    "zh-Hans": "别让公鸡打鸣",
+    "en": "别让公鸡打鸣"
+  },
+  "description": {
+    "zh-Hans": "《别让公鸡打鸣》：夜色农场 2D 矢量小游戏。你是守夜人，按住屏幕戴上手套，拖动去把公鸡按安静。它要蓄力抬头才能按，按早了反被惊动；蓄力过半后进度条消失，只能看姿态听预兆；抬头的公鸡还会假装低头骗你，一按就当场打鸣。",
+    "en": "《别让公鸡打鸣》：夜色农场 2D 矢量小游戏。你是守夜人，按住屏幕戴上手套，拖动去把公鸡按安静。它要蓄力抬头才能按，按早了反被惊动；蓄力过半后进度条消失，只能看姿态听预兆；抬头的公鸡还会假装低头骗你，一按就当场打鸣。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "别让公鸡打鸣",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T08:37:23.838289Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/dont-let-rooster-crow"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g42.opensourcegame.games/index.html"
+}

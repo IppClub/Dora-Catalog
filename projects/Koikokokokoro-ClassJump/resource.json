@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "Koikokokokoro-ClassJump",
+  "status": "active",
+  "title": {
+    "zh-Hans": "课间十分钟",
+    "en": "课间十分钟"
+  },
+  "description": {
+    "zh-Hans": "竖屏单场景的垂直弹跳小游戏。角色落到平台上会自动向上弹起，玩家不能主动起跳，只能按住屏幕左半区或右半区控制左右，松手即停；从屏幕左边出去会从右边回来。目标是尽量往上爬高，沿途收集 3 张满分试卷，集齐后上方出现一扇拱形暖光门，碰到即通关。掉出屏幕底部失败；被红色粉笔头撞到会被向下弹开，累计撞到 2 次失败。新增四个关卡，新地形，新机制！",
+    "en": "竖屏单场景的垂直弹跳小游戏。角色落到平台上会自动向上弹起，玩家不能主动起跳，只能按住屏幕左半区或右半区控制左右，松手即停；从屏幕左边出去会从右边回来。目标是尽量往上爬高，沿途收集 3 张满分试卷，集齐后上方出现一扇拱形暖光门，碰到即通关。掉出屏幕底部失败；被红色粉笔头撞到会被向下弹开，累计撞到 2 次失败。新增四个关卡，新地形，新机制！"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "课间十分钟",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T11:25:00.874974Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/Koikokokokoro/ClassJump"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g63.opensourcegame.games/index.html"
+}

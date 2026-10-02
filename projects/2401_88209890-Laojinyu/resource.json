@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-Laojinyu",
+  "status": "active",
+  "title": {
+    "zh-Hans": "捞金鱼",
+    "en": "捞金鱼"
+  },
+  "description": {
+    "zh-Hans": "《捞金鱼》——夏夜祭典的水槽边，你手里只有一张入水就变软的纸网。按住屏幕把网压进水里，罩住金鱼等它挣到脱力，松手早一秒鱼摆尾逃走还磨破网，晚一秒网被泡烂。网面越湿越滑，名贵的锦鲤只认几乎干着的网，便宜的素赤才肯将就。6 关逐关加料：气泡、惊鱼、锦鲤、深槽、漏网；5 条升级能改数值也能看出纸网变了样。零外部素材，画面与音效全部引擎现场生成。",
+    "en": "《捞金鱼》——夏夜祭典的水槽边，你手里只有一张入水就变软的纸网。按住屏幕把网压进水里，罩住金鱼等它挣到脱力，松手早一秒鱼摆尾逃走还磨破网，晚一秒网被泡烂。网面越湿越滑，名贵的锦鲤只认几乎干着的网，便宜的素赤才肯将就。6 关逐关加料：气泡、惊鱼、锦鲤、深槽、漏网；5 条升级能改数值也能看出纸网变了样。零外部素材，画面与音效全部引擎现场生成。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "捞金鱼",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T16:55:50.306371Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/Laojinyu"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g57.opensourcegame.games/index.html"
+}

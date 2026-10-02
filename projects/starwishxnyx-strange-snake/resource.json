@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "starwishxnyx-strange-snake",
+  "status": "active",
+  "title": {
+    "zh-Hans": "奇怪的贪吃蛇",
+    "en": "奇怪的贪吃蛇"
+  },
+  "description": {
+    "zh-Hans": "移动挡板，让贪吃蛇反弹着追逐食物。每吃到一份食物，蛇身就会变长；利用挡板不同位置改变反弹方向，在随机出现的目标之间规划路线，挑战更高分。霓虹色彩搭配轻快反馈，支持鼠标、键盘与手机拖动操作。",
+    "en": "移动挡板，让贪吃蛇反弹着追逐食物。每吃到一份食物，蛇身就会变长；利用挡板不同位置改变反弹方向，在随机出现的目标之间规划路线，挑战更高分。霓虹色彩搭配轻快反馈，支持鼠标、键盘与手机拖动操作。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "奇怪的贪吃蛇",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-23T06:26:55.073350Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/starwishxnyx/strange-snake"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g7.opensourcegame.games/index.html"
+}

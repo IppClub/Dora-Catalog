@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-Dangsuo",
+  "status": "active",
+  "title": {
+    "zh-Hans": "荡索",
+    "en": "荡索"
+  },
+  "description": {
+    "zh-Hans": "《晨雾峡谷·荡索》竖屏摆荡动作游戏。绕锚点钟摆式摆荡：向下摆时收绳注能，向上摆时放绳，摆幅越荡越大，再脱手飞出、自动抓住下一根索。六关各有长谷、横风、上升气流、移动锚点与脆索；五条升级线用星星购买、直接改数值。坠谷或断索即失败。",
+    "en": "《晨雾峡谷·荡索》竖屏摆荡动作游戏。绕锚点钟摆式摆荡：向下摆时收绳注能，向上摆时放绳，摆幅越荡越大，再脱手飞出、自动抓住下一根索。六关各有长谷、横风、上升气流、移动锚点与脆索；五条升级线用星星购买、直接改数值。坠谷或断索即失败。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "荡索",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T12:46:48.975717Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/Dangsuo"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g49.opensourcegame.games/index.html"
+}

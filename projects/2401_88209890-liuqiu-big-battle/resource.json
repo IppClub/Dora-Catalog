@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-liuqiu-big-battle",
+  "status": "active",
+  "title": {
+    "zh-Hans": "溜球大作战",
+    "en": "溜球大作战"
+  },
+  "description": {
+    "zh-Hans": "小汽车用一根绳拖着比自己更大的球：走位甩球、断绳让球飞出去撞翻对手。球越大车速越快，成长却越来越难。吃食物增重，撞碎树与房屋，8 级解锁尖刺、沉重、震荡波等特性；6 名车手 3 分钟排位定胜负，金币可换带真实加成的皮肤。",
+    "en": "小汽车用一根绳拖着比自己更大的球：走位甩球、断绳让球飞出去撞翻对手。球越大车速越快，成长却越来越难。吃食物增重，撞碎树与房屋，8 级解锁尖刺、沉重、震荡波等特性；6 名车手 3 分钟排位定胜负，金币可换带真实加成的皮肤。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "溜球大作战",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T04:42:03.059864Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/liuqiu-big-battle"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g33.opensourcegame.games/index.html"
+}

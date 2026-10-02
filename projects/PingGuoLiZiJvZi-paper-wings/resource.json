@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "PingGuoLiZiJvZi-paper-wings",
+  "status": "active",
+  "title": {
+    "zh-Hans": "纸翼",
+    "en": "纸翼"
+  },
+  "description": {
+    "zh-Hans": "《纸翼》将单花色蜘蛛纸牌、局内升级和纵向射击结合。整理牌面赚取积分，在机库购买移速、伤害、射速和武器，再按住左右按钮驾驶自动开火的战机。通过五波敌机并亲手击败最终首领即可胜利。",
+    "en": "《纸翼》将单花色蜘蛛纸牌、局内升级和纵向射击结合。整理牌面赚取积分，在机库购买移速、伤害、射速和武器，再按住左右按钮驾驶自动开火的战机。通过五波敌机并亲手击败最终首领即可胜利。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "纸翼",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-25T15:02:57.939610Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/PingGuoLiZiJvZi/paper-wings"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g29.opensourcegame.games/index.html"
+}

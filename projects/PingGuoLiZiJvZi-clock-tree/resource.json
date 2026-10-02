@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "PingGuoLiZiJvZi-clock-tree",
+  "status": "active",
+  "title": {
+    "zh-Hans": "时钟树",
+    "en": "时钟树"
+  },
+  "description": {
+    "zh-Hans": "《时钟树》是一款以芯片时钟树为原型的布线解谜游戏。玩家绘制时钟网络、配置缓冲器，在有限功耗和布线空间内，让所有寄存器同步跳动。",
+    "en": "《时钟树》是一款以芯片时钟树为原型的布线解谜游戏。玩家绘制时钟网络、配置缓冲器，在有限功耗和布线空间内，让所有寄存器同步跳动。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "时钟树",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-25T14:39:24.966780Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/PingGuoLiZiJvZi/clock-tree"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g24.opensourcegame.games/index.html"
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "codenoobsad-Deep_Devour",
+  "status": "active",
+  "title": {
+    "zh-Hans": "深海捕食者",
+    "en": "深海捕食者"
+  },
+  "description": {
+    "zh-Hans": "一款单手操作的海底进化捕食游戏。90 秒一局，你扮演一条小鱼，在有限的体力和时间里吞噬比自己弱小的猎物，不断进化，直到成为深海顶端的掠食者。按住屏幕拖动即可控制游动方向，拖得越远速度越快；按下冲刺键可短时加速，用于摆脱追击或抢占猎物。游戏融入了更多创新机制，欢迎来体验。作者：OpenMind",
+    "en": "一款单手操作的海底进化捕食游戏。90 秒一局，你扮演一条小鱼，在有限的体力和时间里吞噬比自己弱小的猎物，不断进化，直到成为深海顶端的掠食者。按住屏幕拖动即可控制游动方向，拖得越远速度越快；按下冲刺键可短时加速，用于摆脱追击或抢占猎物。游戏融入了更多创新机制，欢迎来体验。作者：OpenMind"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "深海捕食者",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-29T06:36:17.041805Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/codenoobsad/Deep_Devour"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g56.opensourcegame.games/index.html"
+}

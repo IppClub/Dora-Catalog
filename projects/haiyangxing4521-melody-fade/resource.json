@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "haiyangxing4521-melody-fade",
+  "status": "active",
+  "title": {
+    "zh-Hans": "音跃落痕",
+    "en": "音跃落痕"
+  },
+  "description": {
+    "zh-Hans": "是一款竖屏节奏音乐游戏。玩家通过双指点击、长按下落音符完成节拍演奏，挑战更高分数，拥有星际、地狱岩浆、丛林三套主题画面。支持手机触屏操作。作者：像素大作战",
+    "en": "是一款竖屏节奏音乐游戏。玩家通过双指点击、长按下落音符完成节拍演奏，挑战更高分数，拥有星际、地狱岩浆、丛林三套主题画面。支持手机触屏操作。作者：像素大作战"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "音跃落痕",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-24T16:01:21.532960Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/haiyangxing4521/melody-fade"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g9.opensourcegame.games/index.html"
+}

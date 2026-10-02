@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-Mengdeng",
+  "status": "active",
+  "title": {
+    "zh-Hans": "猛蹬",
+    "en": "猛蹬"
+  },
+  "description": {
+    "zh-Hans": "「猛蹬」是一款单局登顶小游戏。角色靠猛蹬给自己一个强冲量，沿阶梯状山体一路弹上山顶。鼠标拖动瞄准，手离角色越远力度越大，松手即蹬；键盘用方向键调角度、上下键调力度。路上可拾金币、红心与五种限时道具，也要躲开深坑、落石与火柱。",
+    "en": "「猛蹬」是一款单局登顶小游戏。角色靠猛蹬给自己一个强冲量，沿阶梯状山体一路弹上山顶。鼠标拖动瞄准，手离角色越远力度越大，松手即蹬；键盘用方向键调角度、上下键调力度。路上可拾金币、红心与五种限时道具，也要躲开深坑、落石与火柱。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "猛蹬",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-27T17:36:53.260063Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/Mengdeng"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g67.opensourcegame.games/index.html"
+}

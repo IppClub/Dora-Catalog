@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-Ping-PongEverything",
+  "status": "active",
+  "title": {
+    "zh-Hans": "万物皆可乒乓",
+    "en": "万物皆可乒乓"
+  },
+  "description": {
+    "zh-Hans": "竖屏接球游戏：用乒乓球拍接住掉下来的日常物品，每种接法都不同（气球要用力拍、碗要轻轻接……）。一关只接一个玩到满，坚持10秒不掉就通关；全部物品过一遍后开启多物品大乱斗",
+    "en": "竖屏接球游戏：用乒乓球拍接住掉下来的日常物品，每种接法都不同（气球要用力拍、碗要轻轻接……）。一关只接一个玩到满，坚持10秒不掉就通关；全部物品过一遍后开启多物品大乱斗"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "万物皆可乒乓",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-29T05:48:37.680748Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/Ping-PongEverything"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g96.opensourcegame.games/index.html"
+}

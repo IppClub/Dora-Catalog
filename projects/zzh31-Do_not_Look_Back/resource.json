@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "zzh31-Do_not_Look_Back",
+  "status": "active",
+  "title": {
+    "zh-Hans": "捣蛋鬼我来捣蛋",
+    "en": "捣蛋鬼我来捣蛋"
+  },
+  "description": {
+    "zh-Hans": "《调皮鬼别捣蛋》是一款竖屏单指小游戏。玩家扮演躲在路人身后的调皮鬼，按住屏幕蓄力，攒满五秒就能跳出吓人；发现对方准备回头时，必须及时松手，否则仅有的一次机会就会用完。松手后蓄力逐渐消退，留下“再赌一下还是先躲开”的选择。游戏设有五个关卡，每关需成功吓人三次。同一位角色会表现出普通、敏感、多疑、急躁和警觉等不同性格，还会用假动作迷惑玩家。通关后可返回首页选择下一关或重玩旧关，尝试极限躲避和完美惊吓，",
+    "en": "《调皮鬼别捣蛋》是一款竖屏单指小游戏。玩家扮演躲在路人身后的调皮鬼，按住屏幕蓄力，攒满五秒就能跳出吓人；发现对方准备回头时，必须及时松手，否则仅有的一次机会就会用完。松手后蓄力逐渐消退，留下“再赌一下还是先躲开”的选择。游戏设有五个关卡，每关需成功吓人三次。同一位角色会表现出普通、敏感、多疑、急躁和警觉等不同性格，还会用假动作迷惑玩家。通关后可返回首页选择下一关或重玩旧关，尝试极限躲避和完美惊吓，"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "捣蛋鬼我来捣蛋",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-25T17:41:13.534031Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/zzh31/Do_not_Look_Back"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g19.opensourcegame.games/index.html"
+}

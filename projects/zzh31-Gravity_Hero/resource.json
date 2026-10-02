@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "zzh31-Gravity_Hero",
+  "status": "active",
+  "title": {
+    "zh-Hans": "重力小子",
+    "en": "重力小子"
+  },
+  "description": {
+    "zh-Hans": "操控自动奔跑的小机器人，点击翻转地面与天花板，按下立即进入中间反重力飞翔。躲避上下尖刺与中间激光，收集三轨道金币；10 秒后难度升级，挑战连击与最高分。",
+    "en": "操控自动奔跑的小机器人，点击翻转地面与天花板，按下立即进入中间反重力飞翔。躲避上下尖刺与中间激光，收集三轨道金币；10 秒后难度升级，挑战连击与最高分。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "重力小子",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-27T17:02:20.250065Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/zzh31/Gravity_Hero"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g51.opensourcegame.games/index.html"
+}

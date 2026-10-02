@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "wangyue789-magnetic-scavenger",
+  "status": "active",
+  "title": {
+    "zh-Hans": "磁暴拾荒者",
+    "en": "磁暴拾荒者"
+  },
+  "description": {
+    "zh-Hans": "竖屏单指动作生存肉鸽：拖动机体躲避机械浪潮，自动锁敌射击，吸取磁能后从三项随机改装中择一；磁爆可清弹击退。14种升级叠加不同流派，最终挑战磁核主宰。原创工业电子配乐、首领变奏、9组音效与冲击粒子、镜头反馈。",
+    "en": "竖屏单指动作生存肉鸽：拖动机体躲避机械浪潮，自动锁敌射击，吸取磁能后从三项随机改装中择一；磁爆可清弹击退。14种升级叠加不同流派，最终挑战磁核主宰。原创工业电子配乐、首领变奏、9组音效与冲击粒子、镜头反馈。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "磁暴拾荒者",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T07:55:45.227013Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/wangyue789/magnetic-scavenger"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g72.opensourcegame.games/index.html"
+}

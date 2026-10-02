@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "wangyue789-liandan-peiliaotai",
+  "status": "active",
+  "title": {
+    "zh-Hans": "炼丹配料台",
+    "en": "炼丹配料台"
+  },
+  "description": {
+    "zh-Hans": "传送带送来灵材，按配方点按「下一味」投料炼丹；火候QTE指针落金色区间点击收丹，成色定收益。金圈引导、竖屏单指可玩，720×1280自适应，9种音效，web包解压即玩。",
+    "en": "传送带送来灵材，按配方点按「下一味」投料炼丹；火候QTE指针落金色区间点击收丹，成色定收益。金圈引导、竖屏单指可玩，720×1280自适应，9种音效，web包解压即玩。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "炼丹配料台",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-27T15:25:15.058058Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/wangyue789/liandan-peiliaotai"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g39.opensourcegame.games/index.html"
+}

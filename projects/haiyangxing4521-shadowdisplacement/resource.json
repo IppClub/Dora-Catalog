@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "haiyangxing4521-shadowdisplacement",
+  "status": "active",
+  "title": {
+    "zh-Hans": "残影位移",
+    "en": "残影位移"
+  },
+  "description": {
+    "zh-Hans": "区别于传统静态翻牌记忆游戏，采用动态位移+残影隐藏断层机制。玩家需要记住方块的动态变化而非静态图案；关卡平缓提升难度，增加方块数量、记忆干扰强度。——像素大作战",
+    "en": "区别于传统静态翻牌记忆游戏，采用动态位移+残影隐藏断层机制。玩家需要记住方块的动态变化而非静态图案；关卡平缓提升难度，增加方块数量、记忆干扰强度。——像素大作战"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "残影位移",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-30T02:03:48.525809Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/haiyangxing4521/shadowdisplacement"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g100.opensourcegame.games/index.html"
+}

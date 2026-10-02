@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-Handscape",
+  "status": "active",
+  "title": {
+    "zh-Hans": "牌途",
+    "en": "牌途"
+  },
+  "description": {
+    "zh-Hans": "《牌途（Handscape）》单人卡牌 Roguelike 闯关游戏。使用扑克牌组，每回合打出最多 5 张牌，依靠不同牌型获得倍率，凑出目标分数通关。可弃牌提升万能花色牌概率，手牌上限随关卡增加。\n——code_2007",
+    "en": "《牌途（Handscape）》单人卡牌 Roguelike 闯关游戏。使用扑克牌组，每回合打出最多 5 张牌，依靠不同牌型获得倍率，凑出目标分数通关。可弃牌提升万能花色牌概率，手牌上限随关卡增加。\n——code_2007"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "牌途",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-29T09:02:33.965351Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/code_2007/dora-Handscape"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g97.opensourcegame.games/index.html"
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-DieYing",
+  "status": "active",
+  "title": {
+    "zh-Hans": "叠影",
+    "en": "叠影"
+  },
+  "description": {
+    "zh-Hans": "《叠影》是竖屏单指操作的时间编排解谜平台游戏。每回合只有一小段行动时间，你的完整走位会被录成半透明「回声」，从下一回合起与本体同步循环重演。目标：在有限回合内让本体与所有回声同一瞬间分别压住全部压力板，并让本体同时抵达出口。机关只拦本体，闸门、尖刺、激光拦不住光影；悬挂开关只在离地瞬间计数，蓄力板必须持续按住。操作：按住屏幕左右拖动移动，轻点跳跃。",
+    "en": "《叠影》是竖屏单指操作的时间编排解谜平台游戏。每回合只有一小段行动时间，你的完整走位会被录成半透明「回声」，从下一回合起与本体同步循环重演。目标：在有限回合内让本体与所有回声同一瞬间分别压住全部压力板，并让本体同时抵达出口。机关只拦本体，闸门、尖刺、激光拦不住光影；悬挂开关只在离地瞬间计数，蓄力板必须持续按住。操作：按住屏幕左右拖动移动，轻点跳跃。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "叠影",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-25T16:25:31.888769Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/DieYing"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g21.opensourcegame.games/index.html"
+}

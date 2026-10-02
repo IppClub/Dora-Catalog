@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "Koikokokokoro-The-Binder-Clip",
+  "status": "active",
+  "title": {
+    "zh-Hans": "The Binder Clip",
+    "en": "The Binder Clip"
+  },
+  "description": {
+    "zh-Hans": "你有一间小文具厂。\n点一下「做一件」，就出一件燕尾夹，挣点辛苦费。\n然后你需要钢丝。钢丝要花钱。\n再然后你需要更多机器：自动机、更快的自动机，全自动的工厂。厂子不再只靠你的手。屏幕上的按钮会一档一档变少。\n产量上去以后，厂里那台调度助手开始接管。它给建议，你点「同意」，一片欣欣向荣，不是吗？\n\n为了保留增量式模拟经营的挂机要素和时效性的取舍，增加了多倍速的侧边栏，随心使用。",
+    "en": "你有一间小文具厂。\n点一下「做一件」，就出一件燕尾夹，挣点辛苦费。\n然后你需要钢丝。钢丝要花钱。\n再然后你需要更多机器：自动机、更快的自动机，全自动的工厂。厂子不再只靠你的手。屏幕上的按钮会一档一档变少。\n产量上去以后，厂里那台调度助手开始接管。它给建议，你点「同意」，一片欣欣向荣，不是吗？\n\n为了保留增量式模拟经营的挂机要素和时效性的取舍，增加了多倍速的侧边栏，随心使用。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "经营"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "The Binder Clip",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T11:31:49.959838Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/Koikokokokoro/The-Binder-Clip"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-SnowballBlitz",
+  "status": "active",
+  "title": {
+    "zh-Hans": "雪球大作战",
+    "en": "雪球大作战"
+  },
+  "description": {
+    "zh-Hans": "《雪球大作战（Snowball Blitz）》休闲反应射击游戏。玩家左右移动躲避 9 个地洞冒出敌人投来的雪球，点击敌人反击得分。敌人分多种类型，误伤路人会扣除生命值。随对局推进难度提升，生命值耗尽游戏结束。\n——code_2007",
+    "en": "《雪球大作战（Snowball Blitz）》休闲反应射击游戏。玩家左右移动躲避 9 个地洞冒出敌人投来的雪球，点击敌人反击得分。敌人分多种类型，误伤路人会扣除生命值。随对局推进难度提升，生命值耗尽游戏结束。\n——code_2007"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "雪球大作战",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-29T11:00:01.839484Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/code_2007/dora-SnowballBlitz"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g99.opensourcegame.games/index.html"
+}

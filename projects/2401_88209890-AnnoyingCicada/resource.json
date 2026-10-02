@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-AnnoyingCicada",
+  "status": "active",
+  "title": {
+    "zh-Hans": "烦人的知了",
+    "en": "烦人的知了"
+  },
+  "description": {
+    "zh-Hans": "《烦人的知了》是竖屏触屏小游戏。你是盛夏树上最烦人的蝉：拖动飞行，停住不动开始鸣叫积累烦人值，短按冲刺闪避拖鞋、苍蝇拍与麻雀。每波限时内吵够分数即过关三选一升级，每两波进化：若虫、成虫、金蝉、蝉王。",
+    "en": "《烦人的知了》是竖屏触屏小游戏。你是盛夏树上最烦人的蝉：拖动飞行，停住不动开始鸣叫积累烦人值，短按冲刺闪避拖鞋、苍蝇拍与麻雀。每波限时内吵够分数即过关三选一升级，每两波进化：若虫、成虫、金蝉、蝉王。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "烦人的知了",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-29T05:34:33.336291Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/AnnoyingCicada"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g91.opensourcegame.games/index.html"
+}

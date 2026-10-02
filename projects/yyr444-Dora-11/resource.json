@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "yyr444-Dora-11",
+  "status": "active",
+  "title": {
+    "zh-Hans": "《折痕秘径》",
+    "en": "《折痕秘径》"
+  },
+  "description": {
+    "zh-Hans": "在标题页点击“开始旅程”，或选择“跳过教学 · 直接探秘”。\n拖动带编号的圆形纸角；纸张会沿手指决定的折痕局部翻折。\n让折页背面的彩色墨线同时吻合两个红色断口。绿色微光显示已经连续接通的路线。\n右上角可以重新铺图、开关声音或中途退出；桌面端也可以按 R 重开当前关。\n后期 5、6、7 层关卡保持 0.8 秒透视时间，通过更多叠层、更高起始遮挡和更小对齐容差提升难度。",
+    "en": "在标题页点击“开始旅程”，或选择“跳过教学 · 直接探秘”。\n拖动带编号的圆形纸角；纸张会沿手指决定的折痕局部翻折。\n让折页背面的彩色墨线同时吻合两个红色断口。绿色微光显示已经连续接通的路线。\n右上角可以重新铺图、开关声音或中途退出；桌面端也可以按 R 重开当前关。\n后期 5、6、7 层关卡保持 0.8 秒透视时间，通过更多叠层、更高起始遮挡和更小对齐容差提升难度。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "《折痕秘径》",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-29T04:16:14.202329Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/yyr444/Dora-11"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g47.opensourcegame.games/index.html"
+}

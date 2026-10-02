@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "losdeam-just_goof_off",
+  "status": "active",
+  "title": {
+    "zh-Hans": "摸鱼模拟器",
+    "en": "摸鱼模拟器"
+  },
+  "description": {
+    "zh-Hans": "瞧瞧地摸鱼，别被老板发现了，点击屏幕开启对应的摸鱼软件，完成小游戏获取积分，但是需要注意在老板来之前把他们都关掉，争取获得最高分吧",
+    "en": "瞧瞧地摸鱼，别被老板发现了，点击屏幕开启对应的摸鱼软件，完成小游戏获取积分，但是需要注意在老板来之前把他们都关掉，争取获得最高分吧"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "摸鱼模拟器",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-29T05:14:08.807790Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/losdeam/just_goof_off"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g54.opensourcegame.games/index.html"
+}

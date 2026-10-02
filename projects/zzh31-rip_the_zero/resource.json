@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "zzh31-rip_the_zero",
+  "status": "active",
+  "title": {
+    "zh-Hans": "撕碎0分试卷",
+    "en": "撕碎0分试卷"
+  },
+  "description": {
+    "zh-Hans": "作者：zzh31。疯狂撕掉从屏幕上飘落的0分试卷，千万别碰混在其中的100分试卷！点击、滑动或拖拽即可撕纸，连续命中累积COMBO；漏掉0分或误撕100分都会失去爱心。折角、重叠、旋转和改分试卷会逐渐加入，考验反应与观察力。",
+    "en": "作者：zzh31。疯狂撕掉从屏幕上飘落的0分试卷，千万别碰混在其中的100分试卷！点击、滑动或拖拽即可撕纸，连续命中累积COMBO；漏掉0分或误撕100分都会失去爱心。折角、重叠、旋转和改分试卷会逐渐加入，考验反应与观察力。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "撕碎0分试卷",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-25T14:50:18.892930Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/zzh31/rip_the_zero"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g27.opensourcegame.games/index.html"
+}

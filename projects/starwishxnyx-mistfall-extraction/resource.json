@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "starwishxnyx-mistfall-extraction",
+  "status": "active",
+  "title": {
+    "zh-Hans": "雾境远征",
+    "en": "雾境远征"
+  },
+  "description": {
+    "zh-Hans": "整理装备与占格背包，深入雾松边境搜集物资，在战斗与撤离之间做出选择，把战利品带回下一次远征。",
+    "en": "整理装备与占格背包，深入雾松边境搜集物资，在战斗与撤离之间做出选择，把战利品带回下一次远征。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "雾境远征",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-27T17:33:24.644507Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/starwishxnyx/mistfall-extraction"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g62.opensourcegame.games/index.html"
+}

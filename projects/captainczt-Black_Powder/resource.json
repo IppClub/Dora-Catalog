@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "captainczt-Black_Powder",
+  "status": "active",
+  "title": {
+    "zh-Hans": "《黑火药！》",
+    "en": "《黑火药！》"
+  },
+  "description": {
+    "zh-Hans": "玩家扮演海盗炮手，单指依次点击火药、炮弹、推弹杆完成装填，等待瞄准指针进入金色命中区后开火。错序、打偏或过热强射会损失耐久并中断连击。限定时间内击沉本关全部目标即可过关，超时或耐久耗尽失败。三关逐步解锁，记录最好分数与勋章。\n\n有什么不同：将顺序操作、节奏瞄准与热量管理组合在同一门舰炮上。第一关训练装填，第二关加入随横风漂移的命中区，第三关必须在装填与冷却之间安排开火时机。玩家追求的不是无脑连点，",
+    "en": "玩家扮演海盗炮手，单指依次点击火药、炮弹、推弹杆完成装填，等待瞄准指针进入金色命中区后开火。错序、打偏或过热强射会损失耐久并中断连击。限定时间内击沉本关全部目标即可过关，超时或耐久耗尽失败。三关逐步解锁，记录最好分数与勋章。\n\n有什么不同：将顺序操作、节奏瞄准与热量管理组合在同一门舰炮上。第一关训练装填，第二关加入随横风漂移的命中区，第三关必须在装填与冷却之间安排开火时机。玩家追求的不是无脑连点，"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "《黑火药！》",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-30T02:32:51.139545Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/captainczt/Black_Powder"
+        }
+      ]
+    }
+  ]
+}

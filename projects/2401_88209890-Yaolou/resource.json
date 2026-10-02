@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-Yaolou",
+  "status": "active",
+  "title": {
+    "zh-Hans": "摇落",
+    "en": "摇落"
+  },
+  "description": {
+    "zh-Hans": "《摇落》是一款竖屏单指技巧游戏，你只做一件事：摇树。把力度卡在绿区，进度条就会上涨，摇满掉一颗果；滑出绿区，进度清零。小人扛着篮子自动接果，接得住多少全看他跑不跑得过来。白区会耗掉接果员的耐心，耗尽他就收工。一局摇多久乘上接住几颗，就是你的功德。",
+    "en": "《摇落》是一款竖屏单指技巧游戏，你只做一件事：摇树。把力度卡在绿区，进度条就会上涨，摇满掉一颗果；滑出绿区，进度清零。小人扛着篮子自动接果，接得住多少全看他跑不跑得过来。白区会耗掉接果员的耐心，耗尽他就收工。一局摇多久乘上接住几颗，就是你的功德。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": false,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T17:18:24.364192Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/Yaolou"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g55.opensourcegame.games/index.html"
+}

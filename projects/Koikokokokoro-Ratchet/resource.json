@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "Koikokokokoro-Ratchet",
+  "status": "active",
+  "title": {
+    "zh-Hans": "Ratchet",
+    "en": "Ratchet"
+  },
+  "description": {
+    "zh-Hans": "核心目标：在随机生成的地牢里往下走，每回合有固定步数，移动、攻击、用道具都占一步，走到楼梯进下一层，可随时撤退。\n操作方式：竖屏单手触控，点格子移动、点怪物攻击、点道具使用；可随时结束回合、丢掉没用完的步数。怪物在你结回合后行动。\n玩法特色：一回合是一份可自由支配的步数预算，「变快」都表现为买到更多步数；2.5D 斜俯视让位置关系一眼可读。\n作者／团队：Koikokokokoro",
+    "en": "核心目标：在随机生成的地牢里往下走，每回合有固定步数，移动、攻击、用道具都占一步，走到楼梯进下一层，可随时撤退。\n操作方式：竖屏单手触控，点格子移动、点怪物攻击、点道具使用；可随时结束回合、丢掉没用完的步数。怪物在你结回合后行动。\n玩法特色：一回合是一份可自由支配的步数预算，「变快」都表现为买到更多步数；2.5D 斜俯视让位置关系一眼可读。\n作者／团队：Koikokokokoro"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "Ratchet",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-29T03:01:55.632880Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/Koikokokokoro/Ratchet"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g64.opensourcegame.games/index.html"
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "EthanFU-CatHide",
+  "status": "active",
+  "title": {
+    "zh-Hans": "躲猫猫",
+    "en": "躲猫猫"
+  },
+  "description": {
+    "zh-Hans": "《躲猫猫》改编自海兔（B站 海兔喵斯拉）设计并绘制的实体桌游《抓猫咪》中的躲猫猫玩法：轮流翻牌、把牌盖着藏在桌上，凭记性找出同种猫、凑成10的好朋友，还能质疑电脑猫藏下的牌。5关从天黑到天亮，逐步加猫、加对手，竖屏触屏操作，音效全部代码合成。使用 Dora SSR 制作，卡牌插画经海兔授权使用。",
+    "en": "《躲猫猫》改编自海兔（B站 海兔喵斯拉）设计并绘制的实体桌游《抓猫咪》中的躲猫猫玩法：轮流翻牌、把牌盖着藏在桌上，凭记性找出同种猫、凑成10的好朋友，还能质疑电脑猫藏下的牌。5关从天黑到天亮，逐步加猫、加对手，竖屏触屏操作，音效全部代码合成。使用 Dora SSR 制作，卡牌插画经海兔授权使用。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "躲猫猫",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-29T02:23:54.142288Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/EthanFU/CatHide"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g93.opensourcegame.games/index.html"
+}

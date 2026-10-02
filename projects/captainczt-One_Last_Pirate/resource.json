@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "captainczt-One_Last_Pirate",
+  "status": "active",
+  "title": {
+    "zh-Hans": "One last pirate",
+    "en": "One last pirate"
+  },
+  "description": {
+    "zh-Hans": "同船求生，各怀鬼胎！《最后一个海盗》（ONE LAST PIRATE）是由 Captain橘己制作的半合作海盗卡牌游戏，支持1–5人联机，也可独自挑战机器人。化身动物海盗，在风暴与炮火中扬帆修船、登岛夺宝；用秘密暗杀、真假证据和船长裁决左右局势，甚至发动叛乱夺取船长之位！每一次投票都藏着算计，每一份赠礼都可能暗含诅咒。航程有限，野心无边——你能赢得船员的信任，带着财富与声望驶向终点吗？",
+    "en": "同船求生，各怀鬼胎！《最后一个海盗》（ONE LAST PIRATE）是由 Captain橘己制作的半合作海盗卡牌游戏，支持1–5人联机，也可独自挑战机器人。化身动物海盗，在风暴与炮火中扬帆修船、登岛夺宝；用秘密暗杀、真假证据和船长裁决左右局势，甚至发动叛乱夺取船长之位！每一次投票都藏着算计，每一份赠礼都可能暗含诅咒。航程有限，野心无边——你能赢得船员的信任，带着财富与声望驶向终点吗？"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "One last pirate",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T02:20:49.163534Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/captainczt/One_Last_Pirate"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g13.opensourcegame.games/index.html"
+}

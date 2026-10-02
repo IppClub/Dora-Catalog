@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-JingFan",
+  "status": "active",
+  "title": {
+    "zh-Hans": "镜反",
+    "en": "镜反"
+  },
+  "description": {
+    "zh-Hans": "使用 Dora SSR 开发的竖屏防守小游戏。玩家不能移动、也不能主动攻击， 唯一操作是让场地中央的镜盾指向鼠标 / 手指：弹丸撞上镜面按「入射角 = 反射角」弹开并「充能」， 充能弹丸可以击毁敌人，也会被墙壁二次反射。核心有 3 点生命，反弹会积攒能量，能量满时 自动抵消一次命中。难度来自敌人与弹丸的多样性，而不是数量。",
+    "en": "使用 Dora SSR 开发的竖屏防守小游戏。玩家不能移动、也不能主动攻击， 唯一操作是让场地中央的镜盾指向鼠标 / 手指：弹丸撞上镜面按「入射角 = 反射角」弹开并「充能」， 充能弹丸可以击毁敌人，也会被墙壁二次反射。核心有 3 点生命，反弹会积攒能量，能量满时 自动抵消一次命中。难度来自敌人与弹丸的多样性，而不是数量。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "镜反",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-25T03:20:38.286747Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/JingFan"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g18.opensourcegame.games/index.html"
+}

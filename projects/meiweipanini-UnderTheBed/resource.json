@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "meiweipanini-UnderTheBed",
+  "status": "active",
+  "title": {
+    "zh-Hans": "床下有人",
+    "en": "床下有人"
+  },
+  "description": {
+    "zh-Hans": "《床下有人》是一款用 Dora SSR 引擎开发的恐怖解谜游戏，融合 AI 心理战玩法。四幕体验层层递进：手电探索黑暗卧室搜寻线索、与\"床上的她\"进行四轮真话谎言博弈、床底屏息 QTE 极限逃生，三结局由你的每个选择决定。支持手机横屏触屏操作，扫码即玩。\n作者：王艺蓁",
+    "en": "《床下有人》是一款用 Dora SSR 引擎开发的恐怖解谜游戏，融合 AI 心理战玩法。四幕体验层层递进：手电探索黑暗卧室搜寻线索、与\"床上的她\"进行四轮真话谎言博弈、床底屏息 QTE 极限逃生，三结局由你的每个选择决定。支持手机横屏触屏操作，扫码即玩。\n作者：王艺蓁"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "床下有人",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T08:19:18.591127Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/meiweipanini/UnderTheBed"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g31.opensourcegame.games/index.html"
+}

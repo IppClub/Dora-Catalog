@@ -109,6 +109,12 @@
       "items": {
         "$ref": "#/$defs/version"
       }
+    },
+    "playUrl": {
+      "type": "string",
+      "pattern": "^https://",
+      "maxLength": 2048,
+      "description": "Optional public browser game URL. Non-native games can appear in mobile feed and open this URL."
     }
   },
   "$defs": {

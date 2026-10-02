@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "Koikokokokoro-GravityWell",
+  "status": "active",
+  "title": {
+    "zh-Hans": "引力井",
+    "en": "引力井"
+  },
+  "description": {
+    "zh-Hans": "核心目标：不按屏幕时飞船绕最近的星球转圈；按住则顺着飞行方向加速，轨道越来越大，超出引力圈就脱离并滑向下一颗。送进目标星球即过关，共 8 关。\n操作方式：竖屏单手触控，全程只有「按住／松开」——加力约 0.4 秒，松手绕圈等回满约 1.5 秒；另有右上角菜单。\n玩法特色：飞船不能转向，机头永远朝飞行方向，机头就是瞄准器；要练的不是手速，而是读轨道与分配燃料的时机。失败只有撞击一种。",
+    "en": "核心目标：不按屏幕时飞船绕最近的星球转圈；按住则顺着飞行方向加速，轨道越来越大，超出引力圈就脱离并滑向下一颗。送进目标星球即过关，共 8 关。\n操作方式：竖屏单手触控，全程只有「按住／松开」——加力约 0.4 秒，松手绕圈等回满约 1.5 秒；另有右上角菜单。\n玩法特色：飞船不能转向，机头永远朝飞行方向，机头就是瞄准器；要练的不是手速，而是读轨道与分配燃料的时机。失败只有撞击一种。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "引力井",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-29T02:25:01.325934Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/Koikokokokoro/GravityWell"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g82.opensourcegame.games/index.html"
+}

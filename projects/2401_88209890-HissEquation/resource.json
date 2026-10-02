@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-HissEquation",
+  "status": "active",
+  "title": {
+    "zh-Hans": "哈气方程",
+    "en": "哈气方程"
+  },
+  "description": {
+    "zh-Hans": "《哈气方程》 是款竖屏休闲冲分游戏。操控橘白猫「耄耋」在房间里寻找哈气值最高的位置：越陌生、越突然、光照越剧变、越封闭、越生疏、越贴近危险，哈气就越强。限时内累计达标即可过关，单次最佳评定星级，六张地图各有主题与威胁。",
+    "en": "《哈气方程》 是款竖屏休闲冲分游戏。操控橘白猫「耄耋」在房间里寻找哈气值最高的位置：越陌生、越突然、光照越剧变、越封闭、越生疏、越贴近危险，哈气就越强。限时内累计达标即可过关，单次最佳评定星级，六张地图各有主题与威胁。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "哈气方程",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-29T05:24:11.600772Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/HissEquation"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g94.opensourcegame.games/index.html"
+}

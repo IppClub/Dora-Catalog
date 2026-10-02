@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "DandelionTides-throw_the_card",
+  "status": "active",
+  "title": {
+    "zh-Hans": "丢出那张牌",
+    "en": "丢出那张牌"
+  },
+  "description": {
+    "zh-Hans": "通过拖拽发射卡牌对敌人造成伤害，捡起你的卡牌以重复利用，在商店购买更多强力道具\n[DandelionTides](https://github.com/DandelionTides)",
+    "en": "通过拖拽发射卡牌对敌人造成伤害，捡起你的卡牌以重复利用，在商店购买更多强力道具\n[DandelionTides](https://github.com/DandelionTides)"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "丢出那张牌",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T11:39:51.170575Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/DandelionTides/throw_the_card"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g88.opensourcegame.games/index.html"
+}

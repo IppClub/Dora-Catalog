@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "zzh31-Sling",
+  "status": "active",
+  "title": {
+    "zh-Hans": "甩甩绳子",
+    "en": "甩甩绳子"
+  },
+  "description": {
+    "zh-Hans": "《甩甩绳子》是 zzh31 制作的竖屏物理闯关游戏。选择普通或强力，抓准时机松开绳子，让金属球沿切线飞出，越过障碍或借挡板反弹命中目标。20 个关卡逐步加入双目标与多次反弹，速度也逐步变快，每关最多有 5 次机会，考验方向判断和释放时机。",
+    "en": "《甩甩绳子》是 zzh31 制作的竖屏物理闯关游戏。选择普通或强力，抓准时机松开绳子，让金属球沿切线飞出，越过障碍或借挡板反弹命中目标。20 个关卡逐步加入双目标与多次反弹，速度也逐步变快，每关最多有 5 次机会，考验方向判断和释放时机。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "甩甩绳子",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-29T04:32:44.219023Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/zzh31/Sling"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g79.opensourcegame.games/index.html"
+}

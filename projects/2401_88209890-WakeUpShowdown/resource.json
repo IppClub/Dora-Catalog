@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-WakeUpShowdown",
+  "status": "active",
+  "title": {
+    "zh-Hans": "熬夜 vs 早起",
+    "en": "熬夜 vs 早起"
+  },
+  "description": {
+    "zh-Hans": "闹钟响了，可你还没准备好做人。跟着节拍点准音符，把觉醒进度推到终点就能起床；点错、漏拍会越来越困，睡着就得重来一天。诱惑音符、双押、长按、手机弹窗、哈欠漂移……每 2~3 天解锁一个新花样，三档难度任选。",
+    "en": "闹钟响了，可你还没准备好做人。跟着节拍点准音符，把觉醒进度推到终点就能起床；点错、漏拍会越来越困，睡着就得重来一天。诱惑音符、双押、长按、手机弹窗、哈欠漂移……每 2~3 天解锁一个新花样，三档难度任选。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "熬夜 vs 早起",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T09:23:19.059251Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/WakeUpShowdown"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g85.opensourcegame.games/index.html"
+}

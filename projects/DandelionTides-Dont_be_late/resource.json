@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "DandelionTides-Dont_be_late",
+  "status": "active",
+  "title": {
+    "zh-Hans": "别迟到",
+    "en": "别迟到"
+  },
+  "description": {
+    "zh-Hans": "通过选取下一步的行动点，在规定时间内赶到目标地点，注意体力和路线\n[DandelionTides](https://github.com/DandelionTides)",
+    "en": "通过选取下一步的行动点，在规定时间内赶到目标地点，注意体力和路线\n[DandelionTides](https://github.com/DandelionTides)"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "别迟到",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T11:36:31.029271Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/DandelionTides/Dont_be_late"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g3.opensourcegame.games/index.html"
+}

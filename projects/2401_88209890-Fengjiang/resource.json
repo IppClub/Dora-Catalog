@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-Fengjiang",
+  "status": "active",
+  "title": {
+    "zh-Hans": "封江",
+    "en": "封江"
+  },
+  "description": {
+    "zh-Hans": "竖屏守江小游戏：守住江心炮台，按住江面瞄准并持续开火，用铁弹、散弹、火箭、穿甲弹四种弹丸拦下趁夜偷渡的船队。暗礁挡弹、沙洲减速，火药桶与烽火墩打中即引爆点燃，反过来就是武器。6 关各有新机制，守到天亮即通关。",
+    "en": "竖屏守江小游戏：守住江心炮台，按住江面瞄准并持续开火，用铁弹、散弹、火箭、穿甲弹四种弹丸拦下趁夜偷渡的船队。暗礁挡弹、沙洲减速，火药桶与烽火墩打中即引爆点燃，反过来就是武器。6 关各有新机制，守到天亮即通关。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "封江",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T11:06:32.984082Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/Fengjiang"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g46.opensourcegame.games/index.html"
+}

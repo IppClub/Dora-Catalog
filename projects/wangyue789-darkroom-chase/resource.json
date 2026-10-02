@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "wangyue789-darkroom-chase",
+  "status": "active",
+  "title": {
+    "zh-Hans": "暗房追光",
+    "en": "暗房追光"
+  },
+  "description": {
+    "zh-Hans": "作者 wangyue2006。五张原创插画底片串起一场失踪疑案：拖动焦距与曝光，观察双影和明暗；在高光遮光、暗部补光，用滤镜分离笔迹并掌握显影取纸时机。每张引入新操作，失败有明确反馈，可重试直至揭开完整结局。触屏与鼠标均可玩，附原创音效和循环配乐。",
+    "en": "作者 wangyue2006。五张原创插画底片串起一场失踪疑案：拖动焦距与曝光，观察双影和明暗；在高光遮光、暗部补光，用滤镜分离笔迹并掌握显影取纸时机。每张引入新操作，失败有明确反馈，可重试直至揭开完整结局。触屏与鼠标均可玩，附原创音效和循环配乐。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "暗房追光",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-29T05:04:40.489469Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/wangyue789/darkroom-chase"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g95.opensourcegame.games/index.html"
+}

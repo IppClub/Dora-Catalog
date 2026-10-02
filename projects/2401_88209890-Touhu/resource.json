@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-Touhu",
+  "status": "active",
+  "title": {
+    "zh-Hans": "投壶",
+    "en": "投壶"
+  },
+  "description": {
+    "zh-Hans": "箭从发射台自动飞出，玩家拖拽屏幕给箭一次矢量冲刺（像二段跳），靠弹簧/弹板/加速带/风口/磁力环一路接力，躲开尖刺火焰木桩摆锤关卡，飞到终点自动入壶。30关长地图，逐关解锁新机关；第5关起每关随机给一个技能",
+    "en": "箭从发射台自动飞出，玩家拖拽屏幕给箭一次矢量冲刺（像二段跳），靠弹簧/弹板/加速带/风口/磁力环一路接力，躲开尖刺火焰木桩摆锤关卡，飞到终点自动入壶。30关长地图，逐关解锁新机关；第5关起每关随机给一个技能"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "投壶",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-29T05:42:32.193229Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/Touhu"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g80.opensourcegame.games/index.html"
+}

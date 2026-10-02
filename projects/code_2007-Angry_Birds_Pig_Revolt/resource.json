@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-Angry_Birds_Pig_Revolt",
+  "status": "active",
+  "title": {
+    "zh-Hans": "愤怒的小鸟：飞天猪的逆袭",
+    "en": "愤怒的小鸟：飞天猪的逆袭"
+  },
+  "description": {
+    "zh-Hans": "玩家拥有无限的鸟儿补给，但掌握飞天能力的小猪们也更加灵活，且会随时间越来越密集！\n—— code_2007",
+    "en": "玩家拥有无限的鸟儿补给，但掌握飞天能力的小猪们也更加灵活，且会随时间越来越密集！\n—— code_2007"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": false,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-25T17:45:31.230770Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/code_2007/Angry_Birds_Pig_Revolt"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g32.opensourcegame.games/index.html"
+}

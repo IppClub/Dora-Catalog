@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "starwishxnyx-wind-chime-postman",
+  "status": "active",
+  "title": {
+    "zh-Hans": "风铃邮差",
+    "en": "风铃邮差"
+  },
+  "description": {
+    "zh-Hans": "操纵风，把一封封信送进山谷里等待收信的灯笼。信纸会受惯性、崖壁、地图风和雷击影响；送达后灯笼消失，每关结束都能读到一封回信。",
+    "en": "操纵风，把一封封信送进山谷里等待收信的灯笼。信纸会受惯性、崖壁、地图风和雷击影响；送达后灯笼消失，每关结束都能读到一封回信。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "风铃邮差",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T09:04:24.327931Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/starwishxnyx/wind-chime-postman"
+        }
+      ]
+    }
+  ]
+}

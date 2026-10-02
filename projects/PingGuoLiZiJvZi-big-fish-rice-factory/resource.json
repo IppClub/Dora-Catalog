@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "PingGuoLiZiJvZi-big-fish-rice-factory",
+  "status": "active",
+  "title": {
+    "zh-Hans": "大肥鱼与白饭工厂",
+    "en": "大肥鱼与白饭工厂"
+  },
+  "description": {
+    "zh-Hans": "给大肥鱼喂白饭获得虚构 token，在扩建煮饭工厂与交付项目之间分配收入，把一口小锅发展成白饭流水线。",
+    "en": "给大肥鱼喂白饭获得虚构 token，在扩建煮饭工厂与交付项目之间分配收入，把一口小锅发展成白饭流水线。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "经营"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "大肥鱼与白饭工厂",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T04:08:48.922491Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/PingGuoLiZiJvZi/big-fish-rice-factory"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g36.opensourcegame.games/index.html"
+}

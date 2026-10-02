@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "wangyue789-sky-greenhouse",
+  "status": "active",
+  "title": {
+    "zh-Hans": "云顶温室",
+    "en": "云顶温室"
+  },
+  "description": {
+    "zh-Hans": "竖屏五日温室经营。点选种子、苗床播种，采收成熟作物并交付每日航船订单；出售库存、补水及提前收班。晴雨雾影响生长与水量，可升级滴灌、第四苗床和集水器。五天内资金达到180且信誉不低于3即获胜。触屏和鼠标均可操作；原创美术、舒缓配乐和反馈音效。作者：wangyue2006。",
+    "en": "竖屏五日温室经营。点选种子、苗床播种，采收成熟作物并交付每日航船订单；出售库存、补水及提前收班。晴雨雾影响生长与水量，可升级滴灌、第四苗床和集水器。五天内资金达到180且信誉不低于3即获胜。触屏和鼠标均可操作；原创美术、舒缓配乐和反馈音效。作者：wangyue2006。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "经营"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "云顶温室",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T06:44:34.947329Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/wangyue789/sky-greenhouse"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g78.opensourcegame.games/index.html"
+}

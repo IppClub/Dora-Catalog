@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-BoxSnake",
+  "status": "active",
+  "title": {
+    "zh-Hans": "推箱的蛇",
+    "en": "推箱的蛇"
+  },
+  "description": {
+    "zh-Hans": "「推箱子」+「蛇」的结合！\n作为玩家，你需要操作一条蛇，将拦路的箱子推开，使用各种道具，最终回到自己温暖的小窝！",
+    "en": "「推箱子」+「蛇」的结合！\n作为玩家，你需要操作一条蛇，将拦路的箱子推开，使用各种道具，最终回到自己温暖的小窝！"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": false,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-25T15:05:47.084767Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/code_2007/dora-BoxSnake"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g20.opensourcegame.games/index.html"
+}

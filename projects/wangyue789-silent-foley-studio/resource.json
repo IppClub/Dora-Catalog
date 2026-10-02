@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "wangyue789-silent-foley-studio",
+  "status": "active",
+  "title": {
+    "zh-Hans": "默片拟音局",
+    "en": "默片拟音局"
+  },
+  "description": {
+    "zh-Hans": "五幕原创循环默片拟音解谜。观看镜头，选择木块、沙砾、金属、玻璃、布或水，组合敲击、摩擦、摇晃、倾倒与远近声场，再把声点放到时间轴对齐画面。逐幕引入双层声、回响、画外事件与静默留白。含原创音效、配乐和完整可玩 Web 导出包。",
+    "en": "五幕原创循环默片拟音解谜。观看镜头，选择木块、沙砾、金属、玻璃、布或水，组合敲击、摩擦、摇晃、倾倒与远近声场，再把声点放到时间轴对齐画面。逐幕引入双层声、回响、画外事件与静默留白。含原创音效、配乐和完整可玩 Web 导出包。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "默片拟音局",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-30T03:35:04.764736Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/wangyue789/silent-foley-studio"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g104.opensourcegame.games/index.html"
+}

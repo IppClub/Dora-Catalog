@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "starwishxnyx-cloud-cruise",
+  "status": "active",
+  "title": {
+    "zh-Hans": "云际巡航",
+    "en": "云际巡航"
+  },
+  "description": {
+    "zh-Hans": "驾驶小飞机穿行云海，拖动屏幕控制升降，松手后平稳巡航。每座航道塔都以自己的节奏上下移动，找准缺口，连续穿越；随着航程推进，速度与挑战逐步提升。支持手机触控及电脑鼠标、键盘操作。",
+    "en": "驾驶小飞机穿行云海，拖动屏幕控制升降，松手后平稳巡航。每座航道塔都以自己的节奏上下移动，找准缺口，连续穿越；随着航程推进，速度与挑战逐步提升。支持手机触控及电脑鼠标、键盘操作。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "冒险"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "云际巡航",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-23T01:46:29.556370Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/starwishxnyx/cloud-cruise"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g5.opensourcegame.games/index.html"
+}

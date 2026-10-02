@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "EthanFU-BluffForest",
+  "status": "active",
+  "title": {
+    "zh-Hans": "诈唬森林",
+    "en": "诈唬森林"
+  },
+  "description": {
+    "zh-Hans": "竖屏卡牌吹牛对战：和 1～4 位性格各异的森林住客同桌。明牌要压过上家，压不过就重启；暗牌可以诈唬，有人挑战就翻牌比大小，没人敢挑战假牌也算分。15 种动物各有技能，6000 多句嘴炮台词。点手牌选中、点按钮出牌。桌游原作与卡面：海兔；数字版：Ethan8。",
+    "en": "竖屏卡牌吹牛对战：和 1～4 位性格各异的森林住客同桌。明牌要压过上家，压不过就重启；暗牌可以诈唬，有人挑战就翻牌比大小，没人敢挑战假牌也算分。15 种动物各有技能，6000 多句嘴炮台词。点手牌选中、点按钮出牌。桌游原作与卡面：海兔；数字版：Ethan8。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "诈唬森林",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T12:11:15.942626Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/EthanFU/BluffForest"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g77.opensourcegame.games/index.html"
+}

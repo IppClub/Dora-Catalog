@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "EthanFU-TrainRun",
+  "status": "active",
+  "title": {
+    "zh-Hans": "火车RUN",
+    "en": "火车RUN"
+  },
+  "description": {
+    "zh-Hans": "《火车RUN》是一款小学生也能玩懂的竖屏铁路经营小游戏，15 关 7 章，每章教一个本领：铺铁轨、火车头射程、升级金轨、工厂与车站、抢格子的小狸猫、里程碑与钥匙、金币代替工人、雇工程师、翻倍线、星星线、工业轨道缺口。每个新机制都有气泡教学。星级目标由程序求解保证可达。支持触屏、鼠标与键盘。作者：Ethan8。",
+    "en": "《火车RUN》是一款小学生也能玩懂的竖屏铁路经营小游戏，15 关 7 章，每章教一个本领：铺铁轨、火车头射程、升级金轨、工厂与车站、抢格子的小狸猫、里程碑与钥匙、金币代替工人、雇工程师、翻倍线、星星线、工业轨道缺口。每个新机制都有气泡教学。星级目标由程序求解保证可达。支持触屏、鼠标与键盘。作者：Ethan8。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "火车RUN",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-24T06:10:45.232700Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/EthanFU/TrainRun"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g10.opensourcegame.games/index.html"
+}

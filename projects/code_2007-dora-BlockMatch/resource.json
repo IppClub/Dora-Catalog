@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-BlockMatch",
+  "status": "active",
+  "title": {
+    "zh-Hans": "俄罗斯消消块",
+    "en": "俄罗斯消消块"
+  },
+  "description": {
+    "zh-Hans": "《俄罗斯消消块》= 俄罗斯方块 × 消消乐！\n操控多色方块下落堆叠，场上≥3个相连同色色块自动高亮，点击高亮区域可引爆该区域，使悬空的方块全部掉落！若能连锁引爆得分更高！色块堆至屏幕顶端则游戏结束，消除与连锁越多得分越高。\n总结：多色块下落堆叠 → 触发高亮 → 点击引爆 → 连炸得分！",
+    "en": "《俄罗斯消消块》= 俄罗斯方块 × 消消乐！\n操控多色方块下落堆叠，场上≥3个相连同色色块自动高亮，点击高亮区域可引爆该区域，使悬空的方块全部掉落！若能连锁引爆得分更高！色块堆至屏幕顶端则游戏结束，消除与连锁越多得分越高。\n总结：多色块下落堆叠 → 触发高亮 → 点击引爆 → 连炸得分！"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "俄罗斯消消块",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-25T03:25:56.827461Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/code_2007/dora-BlockMatch"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g16.opensourcegame.games/index.html"
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "Koikokokokoro-Goldtrader",
+  "status": "active",
+  "title": {
+    "zh-Hans": "GoldTrader",
+    "en": "GoldTrader"
+  },
+  "description": {
+    "zh-Hans": "核心目标：一局 60 秒，结束时资产净值越高越好（现金 + 持仓 − 欠款 − 利息），结算给六档评级。\n操作方式：竖屏单手触控：点买入／卖出选仓位即时成交；点「借钱」加杠杆、有钱时「还款」结清；按住「打螺丝」赚钱。\n玩法特色：金价每秒变一次、走势随机，你能看到曲线。保底收益与借贷放大风险并存，每次买入都是「赌一把」与「稳一点」的取舍。\n作者／团队：Koikokokokoro",
+    "en": "核心目标：一局 60 秒，结束时资产净值越高越好（现金 + 持仓 − 欠款 − 利息），结算给六档评级。\n操作方式：竖屏单手触控：点买入／卖出选仓位即时成交；点「借钱」加杠杆、有钱时「还款」结清；按住「打螺丝」赚钱。\n玩法特色：金价每秒变一次、走势随机，你能看到曲线。保底收益与借贷放大风险并存，每次买入都是「赌一把」与「稳一点」的取舍。\n作者／团队：Koikokokokoro"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "GoldTrader",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T14:42:33.494171Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/Koikokokokoro/Goldtrader"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g87.opensourcegame.games/index.html"
+}

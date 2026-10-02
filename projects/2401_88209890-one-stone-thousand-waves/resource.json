@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-one-stone-thousand-waves",
+  "status": "active",
+  "title": {
+    "zh-Hans": "一石千浪",
+    "en": "一石千浪"
+  },
+  "description": {
+    "zh-Hans": "竖屏打水漂：拖拽决定角度与力道，石片在水面连跳，触水按入射角反射并逐渐减速。入射角是唯一要练的技巧，太陡砸水、太平钻水。12 关各有新机制：芦苇、岩石、涨潮、夜渡、瀑布、顺流、垂岩、漂木、踏石、漩涡。",
+    "en": "竖屏打水漂：拖拽决定角度与力道，石片在水面连跳，触水按入射角反射并逐渐减速。入射角是唯一要练的技巧，太陡砸水、太平钻水。12 关各有新机制：芦苇、岩石、涨潮、夜渡、瀑布、顺流、垂岩、漂木、踏石、漩涡。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "一石千浪",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T10:04:30.064622Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/one-stone-thousand-waves"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g44.opensourcegame.games/index.html"
+}

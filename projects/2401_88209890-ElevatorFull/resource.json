@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-ElevatorFull",
+  "status": "active",
+  "title": {
+    "zh-Hans": "电梯塞满了",
+    "en": "电梯塞满了"
+  },
+  "description": {
+    "zh-Hans": "《电梯装载大师》是竖屏限时拼图游戏。每层刷新一间电梯轿厢，厢外堆满形状各异的行李；限时把行李拖进轿厢，像俄罗斯方块加拼图那样塞满空间，装载率达标就能关门发车、飞驰上升到更高楼层。每层三选一升级，能力越玩越强，层数无上限。",
+    "en": "《电梯装载大师》是竖屏限时拼图游戏。每层刷新一间电梯轿厢，厢外堆满形状各异的行李；限时把行李拖进轿厢，像俄罗斯方块加拼图那样塞满空间，装载率达标就能关门发车、飞驰上升到更高楼层。每层三选一升级，能力越玩越强，层数无上限。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "电梯塞满了",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T06:33:49.396427Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/ElevatorFull"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g76.opensourcegame.games/index.html"
+}

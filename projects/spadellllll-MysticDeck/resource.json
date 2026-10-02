@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "spadellllll-MysticDeck",
+  "status": "active",
+  "title": {
+    "zh-Hans": "灵术牌MysticDeck",
+    "en": "灵术牌MysticDeck"
+  },
+  "description": {
+    "zh-Hans": "玩家需要通过数学运算进行卡牌消除。操作方式为：将底部带有数字的“硬币”拖拽到上方带有目标数字的“卡牌”上。当硬币的加减乘除运算结果等于卡牌数字时，点击确认即可消除卡牌。 游戏为回合制，胜负规则为：需要在限定回合内消除指定数量的卡牌才能获胜。每回合结束时，场上未消除的卡牌会扣除玩家血量，血量归零则游戏失败。",
+    "en": "玩家需要通过数学运算进行卡牌消除。操作方式为：将底部带有数字的“硬币”拖拽到上方带有目标数字的“卡牌”上。当硬币的加减乘除运算结果等于卡牌数字时，点击确认即可消除卡牌。 游戏为回合制，胜负规则为：需要在限定回合内消除指定数量的卡牌才能获胜。每回合结束时，场上未消除的卡牌会扣除玩家血量，血量归零则游戏失败。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "灵术牌MysticDeck",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T11:18:43.768633Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/spadellllll/MysticDeck"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g4.opensourcegame.games/index.html"
+}

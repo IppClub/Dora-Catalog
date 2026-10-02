@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "starwishxnyx-gravity-bubbles",
+  "status": "active",
+  "title": {
+    "zh-Hans": "重力泡泡龙",
+    "en": "重力泡泡龙"
+  },
+  "description": {
+    "zh-Hans": "瞄准、反弹、连成三颗同色泡泡，让六角木板随着重心转动，在它沉到底线前清空整块浮岛。",
+    "en": "瞄准、反弹、连成三颗同色泡泡，让六角木板随着重心转动，在它沉到底线前清空整块浮岛。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "重力泡泡龙",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-27T16:15:53.457922Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/starwishxnyx/gravity-bubbles"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g70.opensourcegame.games/index.html"
+}

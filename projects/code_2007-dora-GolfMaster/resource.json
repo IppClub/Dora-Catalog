@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-GolfMaster",
+  "status": "active",
+  "title": {
+    "zh-Hans": "高尔夫高手",
+    "en": "高尔夫高手"
+  },
+  "description": {
+    "zh-Hans": "《高尔夫高手》一款 2D 平面高尔夫竞技小游戏。按住小球拖拽拉出瞄准箭头，拖拽距离即力度，松手出球。小球在地面平面滑动碰撞：草地缓行、沙坑大幅减速、落水重置回起点，围墙与石头反弹不穿墙，速度快会擦洞而过。共 10 个关卡。\n支持双人轮流对决比杆数总分。\n——code_2007",
+    "en": "《高尔夫高手》一款 2D 平面高尔夫竞技小游戏。按住小球拖拽拉出瞄准箭头，拖拽距离即力度，松手出球。小球在地面平面滑动碰撞：草地缓行、沙坑大幅减速、落水重置回起点，围墙与石头反弹不穿墙，速度快会擦洞而过。共 10 个关卡。\n支持双人轮流对决比杆数总分。\n——code_2007"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "高尔夫高手",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T15:03:14.382882Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/code_2007/dora-GolfMaster"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g92.opensourcegame.games/index.html"
+}

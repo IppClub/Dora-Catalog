@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "zzh31-Air_Dunk",
+  "status": "active",
+  "title": {
+    "zh-Hans": "空中篮球",
+    "en": "空中篮球"
+  },
+  "description": {
+    "zh-Hans": "Air Dunk是zzh31制作的竖屏无尽冲分投篮游戏。点击画面跳跃，左右移动，连续空心进球提高得分倍率。新增玩法分阶段开放：300分解锁移动篮筐和护盾，1000分加入阵风与慢速沙漏，2000分起篮筐摆动幅度增大，3000分出现飞行障碍和上下浮动篮筐，5000分开启移动缺口激光墙。新障碍登场前均有清晰预警。护盾可抵挡撞击或救回坠落，沙漏可减缓场上变化；每800分获得药瓶，拾取后享受10秒双倍得分。",
+    "en": "Air Dunk是zzh31制作的竖屏无尽冲分投篮游戏。点击画面跳跃，左右移动，连续空心进球提高得分倍率。新增玩法分阶段开放：300分解锁移动篮筐和护盾，1000分加入阵风与慢速沙漏，2000分起篮筐摆动幅度增大，3000分出现飞行障碍和上下浮动篮筐，5000分开启移动缺口激光墙。新障碍登场前均有清晰预警。护盾可抵挡撞击或救回坠落，沙漏可减缓场上变化；每800分获得药瓶，拾取后享受10秒双倍得分。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "空中篮球",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T14:01:17.159946Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/zzh31/Air_Dunk"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g1.opensourcegame.games/index.html"
+}

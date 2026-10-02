@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "zzh31-Kunai_Leap",
+  "status": "active",
+  "title": {
+    "zh-Hans": "苦无跃迁",
+    "en": "苦无跃迁"
+  },
+  "description": {
+    "zh-Hans": "由 zzh31 制作的竖屏忍者时机游戏。看准圆盘旋转方向，点击发射苦无，跃向大小各异的下一块木质圆盘。连续精准命中可累积连击与分数；越往后转速越快，挑战你的反应与节奏。",
+    "en": "由 zzh31 制作的竖屏忍者时机游戏。看准圆盘旋转方向，点击发射苦无，跃向大小各异的下一块木质圆盘。连续精准命中可累积连击与分数；越往后转速越快，挑战你的反应与节奏。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "苦无跃迁",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T02:42:50.828180Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/zzh31/Kunai_Leap"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g68.opensourcegame.games/index.html"
+}

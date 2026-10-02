@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-siege",
+  "status": "active",
+  "title": {
+    "zh-Hans": "围城",
+    "en": "围城"
+  },
+  "description": {
+    "zh-Hans": "一款双人对战 or 人机对战的小游戏，依靠圈地或阻止对手圈地以取胜",
+    "en": "一款双人对战 or 人机对战的小游戏，依靠圈地或阻止对手圈地以取胜"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": false,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-24T11:09:00.819717Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/code_2007/dora-siege"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g11.opensourcegame.games/index.html"
+}

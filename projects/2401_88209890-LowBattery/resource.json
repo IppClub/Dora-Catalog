@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-LowBattery",
+  "status": "active",
+  "title": {
+    "zh-Hans": "电量告急：广告大作战",
+    "en": "电量告急：广告大作战"
+  },
+  "description": {
+    "zh-Hans": "只剩1%电量，广告却铺满屏幕。不能划：得像真人一样关掉它们——点×、识破假×、摇一摇、追会躲的×、输验证码、别点会黑屏的假锁屏。清够数量找出充电线充电，每关解锁一种新广告，升级三选一，一局拖延就会死。",
+    "en": "只剩1%电量，广告却铺满屏幕。不能划：得像真人一样关掉它们——点×、识破假×、摇一摇、追会躲的×、输验证码、别点会黑屏的假锁屏。清够数量找出充电线充电，每关解锁一种新广告，升级三选一，一局拖延就会死。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "电量告急：广告大作战",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-29T01:54:14.452522Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/LowBattery"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g74.opensourcegame.games/index.html"
+}

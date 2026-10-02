@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-PingpongMaster",
+  "status": "active",
+  "title": {
+    "zh-Hans": "乒乓高手",
+    "en": "乒乓高手"
+  },
+  "description": {
+    "zh-Hans": "《乒乓高手》是一款横屏竞技乒乓球小游戏，提供两种操控视角：第三人称下你操控选手移动、下蹲、起跳与挥拍，第一人称下用手指点击移动球拍、滑动决定出球。挑球、挡球、扣杀与左右侧旋共六种击球。比赛采用三局两胜，单局 11 分、封顶 20 分，10 平后需净胜两分。\n或许在这里你真能练到球？\n——code_2007",
+    "en": "《乒乓高手》是一款横屏竞技乒乓球小游戏，提供两种操控视角：第三人称下你操控选手移动、下蹲、起跳与挥拍，第一人称下用手指点击移动球拍、滑动决定出球。挑球、挡球、扣杀与左右侧旋共六种击球。比赛采用三局两胜，单局 11 分、封顶 20 分，10 平后需净胜两分。\n或许在这里你真能练到球？\n——code_2007"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "乒乓高手",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T09:26:22.260035Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/code_2007/dora-PingpongMaster"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g86.opensourcegame.games/index.html"
+}

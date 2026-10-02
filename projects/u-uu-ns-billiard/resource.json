@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "u-uu-ns-billiard",
+  "status": "active",
+  "title": {
+    "zh-Hans": "纳维-斯托克斯台球",
+    "en": "纳维-斯托克斯台球"
+  },
+  "description": {
+    "zh-Hans": "在会随台球运动而流动的烟雾中，把六颗彩球全部打入球袋。",
+    "en": "在会随台球运动而流动的烟雾中，把六颗彩球全部打入球袋。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "纳维-斯托克斯台球",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-24T10:53:48.241995Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/u-uu/ns-billiard"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g12.opensourcegame.games/index.html"
+}

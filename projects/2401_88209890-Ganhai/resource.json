@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-Ganhai",
+  "status": "active",
+  "title": {
+    "zh-Hans": "赶海",
+    "en": "赶海"
+  },
+  "description": {
+    "zh-Hans": "清晨退潮的滩涂上，拖拽渔民往深处捡海货：每捡一件都增加负重，捡得越多、走得越慢。潮水从上方压来，被淹没则本局收获全丢，回到岸线才算数。六关分别引入暗坑、抢货同伴与回头大潮；五条升级线直接改数值并改变外观。",
+    "en": "清晨退潮的滩涂上，拖拽渔民往深处捡海货：每捡一件都增加负重，捡得越多、走得越慢。潮水从上方压来，被淹没则本局收获全丢，回到岸线才算数。六关分别引入暗坑、抢货同伴与回头大潮；五条升级线直接改数值并改变外观。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "赶海",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T13:10:01.984347Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/Ganhai"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g53.opensourcegame.games/index.html"
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-MooncakeMatch",
+  "status": "active",
+  "title": {
+    "zh-Hans": "月饼对对碰",
+    "en": "月饼对对碰"
+  },
+  "description": {
+    "zh-Hans": "中秋夜，你是一块不想被吃掉的月饼。在厨房桌面上弹射自己：轻撞试探对方底细，重撞合成、越撞越硬。十六种月饼各藏增益或陷阱，六关还会刮风、有弹射器、巡逻扫把和空中补蹬。动静太大会惊动主人，倒计时结束前把硬度撞达标，你就是最硬的月饼。",
+    "en": "中秋夜，你是一块不想被吃掉的月饼。在厨房桌面上弹射自己：轻撞试探对方底细，重撞合成、越撞越硬。十六种月饼各藏增益或陷阱，六关还会刮风、有弹射器、巡逻扫把和空中补蹬。动静太大会惊动主人，倒计时结束前把硬度撞达标，你就是最硬的月饼。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "月饼对对碰",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T02:58:20.137793Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/MooncakeMatch"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g71.opensourcegame.games/index.html"
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "dfer-gu_zhai_jing_hun.dora",
+  "status": "active",
+  "title": {
+    "zh-Hans": "古宅惊魂：归灯",
+    "en": "古宅惊魂：归灯"
+  },
+  "description": {
+    "zh-Hans": "《古宅惊魂：归灯》是一款原创扩展的 3D 国风潜行解谜游戏。玩家操控提灯橘猫穿越雨夜古宅，在纸人守卫的视锥巡逻中轻步潜行、响铃诱敌、收集灯印与铜钱，完成三章归灯之旅。",
+    "en": "《古宅惊魂：归灯》是一款原创扩展的 3D 国风潜行解谜游戏。玩家操控提灯橘猫穿越雨夜古宅，在纸人守卫的视锥巡逻中轻步潜行、响铃诱敌、收集灯印与铜钱，完成三章归灯之旅。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "古宅惊魂：归灯",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T16:51:11.404577Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/dfer/gu_zhai_jing_hun.dora"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g23.opensourcegame.games/index.html"
+}

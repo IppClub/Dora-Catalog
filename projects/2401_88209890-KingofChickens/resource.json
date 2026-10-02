@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-KingofChickens",
+  "status": "active",
+  "title": {
+    "zh-Hans": "鸡中之王",
+    "en": "鸡中之王"
+  },
+  "description": {
+    "zh-Hans": "《鸡中之王》是一款竖屏农场竞技场生存游戏。你扮演一只鸡自动啄击，迎战一波波狐狸、黄鼠狼、乌鸦与野猪；击败敌人掉玉米，升级可从 14 种强化中选一项。每 5 波有首领与战场变数。用好蛋炸弹和旋风冲刺，活到最后。",
+    "en": "《鸡中之王》是一款竖屏农场竞技场生存游戏。你扮演一只鸡自动啄击，迎战一波波狐狸、黄鼠狼、乌鸦与野猪；击败敌人掉玉米，升级可从 14 种强化中选一项。每 5 波有首领与战场变数。用好蛋炸弹和旋风冲刺，活到最后。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "鸡中之王",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T07:55:50.277773Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/KingofChickens"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g81.opensourcegame.games/index.html"
+}

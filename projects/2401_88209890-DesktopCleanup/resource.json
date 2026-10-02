@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-DesktopCleanup",
+  "status": "active",
+  "title": {
+    "zh-Hans": "桌面大扫除",
+    "en": "桌面大扫除"
+  },
+  "description": {
+    "zh-Hans": "《桌面大扫除》是竖屏桌面收纳小游戏：倾斜桌面上物品不断滑落，按住滑动甩出，把纸张、书本、杂物、垃圾分别弹进文件夹、书本收纳箱、杂物箱与垃圾桶。滑动越长飞得越快，投错扣分；过关可选强化，助手随关卡进化。",
+    "en": "《桌面大扫除》是竖屏桌面收纳小游戏：倾斜桌面上物品不断滑落，按住滑动甩出，把纸张、书本、杂物、垃圾分别弹进文件夹、书本收纳箱、杂物箱与垃圾桶。滑动越长飞得越快，投错扣分；过关可选强化，助手随关卡进化。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "桌面大扫除",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T05:24:54.511497Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/DesktopCleanup"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g73.opensourcegame.games/index.html"
+}

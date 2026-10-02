@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-BlockLeap",
+  "status": "active",
+  "title": {
+    "zh-Hans": "彩块跃迁",
+    "en": "彩块跃迁"
+  },
+  "description": {
+    "zh-Hans": "小球自动向前奔跑，球身与地块同色便无法通行！切换颜色跨越障碍，拾取随机刷新的星星触发增益或负面效果。无尽闯关，难度缓缓递增！",
+    "en": "小球自动向前奔跑，球身与地块同色便无法通行！切换颜色跨越障碍，拾取随机刷新的星星触发增益或负面效果。无尽闯关，难度缓缓递增！"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": false,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T07:17:49.645977Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/code_2007/dora-BlockLeap"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g37.opensourcegame.games/index.html"
+}

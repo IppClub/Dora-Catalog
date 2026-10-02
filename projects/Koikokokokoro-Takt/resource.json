@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "Koikokokokoro-Takt",
+  "status": "active",
+  "title": {
+    "zh-Hans": "Takt",
+    "en": "Takt"
+  },
+  "description": {
+    "zh-Hans": "一款「先编写、后自动运行」的机械组装解谜游戏。玩家不直接操作机器人，而是在场地中央的机械臂上编排一段循环执行的程序：抓取、放下、移动、旋转等指令按拍子排进时间轴，运行后机械臂便按这套程序周而复始地工作。目标是在有限时间内把场地里散落的原料按图纸组装成指定物品，并搬运到指定的输出位置。玩家要同时照看几台机械臂的分工与配合，让它们错开或同时动作，避免撞车、抓空与堵在通行口。通关按效率结算：完成周期数、",
+    "en": "一款「先编写、后自动运行」的机械组装解谜游戏。玩家不直接操作机器人，而是在场地中央的机械臂上编排一段循环执行的程序：抓取、放下、移动、旋转等指令按拍子排进时间轴，运行后机械臂便按这套程序周而复始地工作。目标是在有限时间内把场地里散落的原料按图纸组装成指定物品，并搬运到指定的输出位置。玩家要同时照看几台机械臂的分工与配合，让它们错开或同时动作，避免撞车、抓空与堵在通行口。通关按效率结算：完成周期数、"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "Takt",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T14:46:48.150691Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/Koikokokokoro/Takt"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g45.opensourcegame.games/index.html"
+}

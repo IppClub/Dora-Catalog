@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "u-uu-run-pelican-run",
+  "status": "active",
+  "title": {
+    "zh-Hans": "鹈鹕快跑",
+    "en": "鹈鹕快跑"
+  },
+  "description": {
+    "zh-Hans": "骑上单车，和鹈鹕冲进不断折叠的城市！撞飞行人、拾取路面补给，留意逐渐消耗的体力。当警笛响起，警车就会从身后追来。把握速度与体力，看看你能跑多远。顶富就玩《鹈鹕快跑》！",
+    "en": "骑上单车，和鹈鹕冲进不断折叠的城市！撞飞行人、拾取路面补给，留意逐渐消耗的体力。当警笛响起，警车就会从身后追来。把握速度与体力，看看你能跑多远。顶富就玩《鹈鹕快跑》！"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "鹈鹕快跑",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T15:36:34.458707Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/u-uu/run-pelican-run"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g58.opensourcegame.games/index.html"
+}

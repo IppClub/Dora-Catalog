@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "Koikokokokoro-The-Perfumer",
+  "status": "active",
+  "title": {
+    "zh-Hans": "调香师",
+    "en": "调香师"
+  },
+  "description": {
+    "zh-Hans": "核心目标：顾客用一句人话描述想要的香，你要读图判断它落在香谱上的哪片区域，再用香料把光标挪过去；总成本越低成绩越好。\n操作方式：竖屏单手触控，点选香料让光标在香谱上移动，可随时重来或返回。\n玩法特色：把配方做成属性地图上的位移——调香就是在图上走一条最便宜的路线，成绩不只看做没做对，还看省到什么程度。\n作者／团队：Koikokokokoro",
+    "en": "核心目标：顾客用一句人话描述想要的香，你要读图判断它落在香谱上的哪片区域，再用香料把光标挪过去；总成本越低成绩越好。\n操作方式：竖屏单手触控，点选香料让光标在香谱上移动，可随时重来或返回。\n玩法特色：把配方做成属性地图上的位移——调香就是在图上走一条最便宜的路线，成绩不只看做没做对，还看省到什么程度。\n作者／团队：Koikokokokoro"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "调香师",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-30T02:03:37.092273Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/Koikokokokoro/The-Perfumer"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g101.opensourcegame.games/index.html"
+}

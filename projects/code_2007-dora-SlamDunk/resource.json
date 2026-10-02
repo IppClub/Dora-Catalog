@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-SlamDunk",
+  "status": "active",
+  "title": {
+    "zh-Hans": "灌篮高手",
+    "en": "灌篮高手"
+  },
+  "description": {
+    "zh-Hans": "《灌篮高手》是一款横屏 2D 人机篮球对战小游戏。你可操控角色左右移动、起跳、投篮与盖帽。赛制三局两胜，每局开局在中线抢球，持球可自由移动，投篮出手后球即脱手；未进球则成为无主球，抢先拾取者获得球权。三分线外投篮得 3 分，线内得 2 分。单局时长 1 分钟，得分高者赢下该局。电脑有简单、中等、困难三档难度可选。\n——作者 code",
+    "en": "《灌篮高手》是一款横屏 2D 人机篮球对战小游戏。你可操控角色左右移动、起跳、投篮与盖帽。赛制三局两胜，每局开局在中线抢球，持球可自由移动，投篮出手后球即脱手；未进球则成为无主球，抢先拾取者获得球权。三分线外投篮得 3 分，线内得 2 分。单局时长 1 分钟，得分高者赢下该局。电脑有简单、中等、困难三档难度可选。\n——作者 code"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "灌篮高手",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-27T18:20:28.211891Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/code_2007/dora-SlamDunk"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g66.opensourcegame.games/index.html"
+}

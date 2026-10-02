@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "darkskyx15-build-by-layers",
+  "status": "active",
+  "title": {
+    "zh-Hans": "Build by Layers",
+    "en": "Build by Layers"
+  },
+  "description": {
+    "zh-Hans": "《Build by Layers》是一款竖屏像素风休闲堆叠游戏。玩家点击落层，把横移的分层纸板叠成太空电梯，重叠区成为新顶层，塔越堆越窄且持续下沉。躲开会摧毁顶层的破坏层，精准对齐可触发完美命中并加 200 分。支持鼠标、键盘与触控，已在 Windows 11 与 Chrome 移动端模拟下验证。作者：DarkskyX。",
+    "en": "《Build by Layers》是一款竖屏像素风休闲堆叠游戏。玩家点击落层，把横移的分层纸板叠成太空电梯，重叠区成为新顶层，塔越堆越窄且持续下沉。躲开会摧毁顶层的破坏层，精准对齐可触发完美命中并加 200 分。支持鼠标、键盘与触控，已在 Windows 11 与 Chrome 移动端模拟下验证。作者：DarkskyX。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "Build by Layers",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T15:24:05.706334Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/darkskyx15/build-by-layers"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g48.opensourcegame.games/index.html"
+}

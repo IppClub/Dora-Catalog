@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "codenoobsad-moonlight-station",
+  "status": "active",
+  "title": {
+    "zh-Hans": "月光收集站",
+    "en": "月光收集站"
+  },
+  "description": {
+    "zh-Hans": "《月光收集站》是一款竖屏单手休闲小游戏。玩家通过左右拖动收集器，接住月光、月核等目标并躲避危险碎片，在不断加快的节奏中挑战更高分数。游戏加入连击、随机事件和极限挑战模式，支持手机触控与电脑操作。作者：OpenMind。",
+    "en": "《月光收集站》是一款竖屏单手休闲小游戏。玩家通过左右拖动收集器，接住月光、月核等目标并躲避危险碎片，在不断加快的节奏中挑战更高分数。游戏加入连击、随机事件和极限挑战模式，支持手机触控与电脑操作。作者：OpenMind。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "月光收集站",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T11:02:12.318858Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/codenoobsad/moonlight-station"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g40.opensourcegame.games/index.html"
+}

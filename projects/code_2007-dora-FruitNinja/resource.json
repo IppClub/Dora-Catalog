@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-FruitNinja",
+  "status": "active",
+  "title": {
+    "zh-Hans": "水果忍者：但你是忍者",
+    "en": "水果忍者：但你是忍者"
+  },
+  "description": {
+    "zh-Hans": "玩家用方向键操控忍者，可跳跃、空中蓄力冲刺斩击，仅冲刺触碰才能切开水果。切果得分积累连击，连击随时间衰减，连击越高水果刷新越快。设有教学模式、3 分钟限时模式，可练连招、冲击高分！\n——code_2007",
+    "en": "玩家用方向键操控忍者，可跳跃、空中蓄力冲刺斩击，仅冲刺触碰才能切开水果。切果得分积累连击，连击随时间衰减，连击越高水果刷新越快。设有教学模式、3 分钟限时模式，可练连招、冲击高分！\n——code_2007"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": false,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T17:08:58.557199Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/code_2007/dora-FruitNinja"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g59.opensourcegame.games/index.html"
+}

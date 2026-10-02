@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "gcw_S7zWMos9-RedBlue",
+  "status": "active",
+  "title": {
+    "zh-Hans": "战翼：红蓝脉冲",
+    "en": "战翼：红蓝脉冲"
+  },
+  "description": {
+    "zh-Hans": "切换红蓝属性、吸收同色弹幕并拆解模块化敌机的手机竖屏色块 STG。",
+    "en": "切换红蓝属性、吸收同色弹幕并拆解模块化敌机的手机竖屏色块 STG。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "冒险"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "战翼：红蓝脉冲",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-30T02:30:18.220348Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/gcw_S7zWMos9/RedBlue"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g103.opensourcegame.games/index.html"
+}

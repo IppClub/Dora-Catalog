@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-Qifenman",
+  "status": "active",
+  "title": {
+    "zh-Hans": "七分满",
+    "en": "七分满"
+  },
+  "description": {
+    "zh-Hans": "竖屏单指倒酒技巧游戏。深夜小酒馆里，按住瓶身倾斜倒酒，在液面碰到刻度线前松手。瓶身带惯性，必须提前收手。客人不断上门、耐心各不相同，撑得越久来客越密、杯子越刁钻，无限模式只问你能撑多久。",
+    "en": "竖屏单指倒酒技巧游戏。深夜小酒馆里，按住瓶身倾斜倒酒，在液面碰到刻度线前松手。瓶身带惯性，必须提前收手。客人不断上门、耐心各不相同，撑得越久来客越密、杯子越刁钻，无限模式只问你能撑多久。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "七分满",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-27T16:12:51.646443Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/2401_88209890/Qifenman"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g65.opensourcegame.games/index.html"
+}

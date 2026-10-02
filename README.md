@@ -18,6 +18,8 @@ projects/
 - `resource.json` 必须符合 `schema/resource-v1.schema.json`。
 - `banner.jpg` 可选；没有预览图时由客户端使用默认图片。
 - `tags` 用于客户端识别特殊资源类型；Mini 游戏使用 `minigame`。
+- `mobile-feed` 标签用于移动端发现列表。原生作品需要 `runnable: true` 和运行入口；仅提供源码的作品可使用 `runnable: false`、空入口及可选 HTTPS `playUrl`，在移动端打开在线试玩。
+- [2026 社区小游戏征集活动](events/minigame-2026.md)已收录全部 106 个公开作品，包含原始资料链接和封面。
 - 项目资源始终从 `versions[].sources[].url` 指向的公开 Git 仓库取得。
 - `entrypoints[].path` 是 Dora 运行入口，可以使用 `AI Fighter/init` 这样的无扩展名模块路径；不要求仓库存在同名的无扩展名文件。
 

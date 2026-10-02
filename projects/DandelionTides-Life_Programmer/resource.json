@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "DandelionTides-Life_Programmer",
+  "status": "active",
+  "title": {
+    "zh-Hans": "生命程序员",
+    "en": "生命程序员"
+  },
+  "description": {
+    "zh-Hans": "搭配不同的生物特性，让培养皿里热闹起来\nDandelionTides",
+    "en": "搭配不同的生物特性，让培养皿里热闹起来\nDandelionTides"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "生命程序员",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-30T02:56:25.920739Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/DandelionTides/Life_Programmer"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g102.opensourcegame.games/index.html"
+}

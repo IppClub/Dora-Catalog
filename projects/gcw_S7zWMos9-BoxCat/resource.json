@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "gcw_S7zWMos9-BoxCat",
+  "status": "active",
+  "title": {
+    "zh-Hans": "纸箱猫",
+    "en": "纸箱猫"
+  },
+  "description": {
+    "zh-Hans": "《箱上喵》是一款使用 Dora SSR 与 TypeScript 制作的手机竖屏物理堆叠小游戏。\n\n玩家可以左右移动大、中、小三种纸箱，选择位置后将纸箱投下。纸箱会在物理世界中碰撞、旋转、滚动并形成各不相同的结构；小黑猫则会自主走动、休息，并寻找能够到达的更高落脚点。帮助猫咪安全爬到房间最高处即可过关。\n\n游戏过程中要避免纸箱砸中猫咪，也不能让猫咪跌出可见画面的下边界。",
+    "en": "《箱上喵》是一款使用 Dora SSR 与 TypeScript 制作的手机竖屏物理堆叠小游戏。\n\n玩家可以左右移动大、中、小三种纸箱，选择位置后将纸箱投下。纸箱会在物理世界中碰撞、旋转、滚动并形成各不相同的结构；小黑猫则会自主走动、休息，并寻找能够到达的更高落脚点。帮助猫咪安全爬到房间最高处即可过关。\n\n游戏过程中要避免纸箱砸中猫咪，也不能让猫咪跌出可见画面的下边界。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "纸箱猫",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T08:24:28.519529Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/gcw_S7zWMos9/BoxCat"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g83.opensourcegame.games/index.html"
+}

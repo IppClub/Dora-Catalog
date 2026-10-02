@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "PingGuoLiZiJvZi-hollow-report",
+  "status": "active",
+  "title": {
+    "zh-Hans": "空响",
+    "en": "空响"
+  },
+  "description": {
+    "zh-Hans": "六发，三实三空。每一枪，都要当真。\n《空响》是面向手机竖屏的二维潜行射击游戏：通过暗杀情报携带者揭开弹药信息，或以精准射击承受未知弹序的风险。",
+    "en": "六发，三实三空。每一枪，都要当真。\n《空响》是面向手机竖屏的二维潜行射击游戏：通过暗杀情报携带者揭开弹药信息，或以精准射击承受未知弹序的风险。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "空响",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T03:45:09.903756Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/PingGuoLiZiJvZi/hollow-report"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g30.opensourcegame.games/index.html"
+}

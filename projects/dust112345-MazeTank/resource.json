@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "dust112345-MazeTank",
+  "status": "active",
+  "title": {
+    "zh-Hans": "迷宫坦克",
+    "en": "迷宫坦克"
+  },
+  "description": {
+    "zh-Hans": "《迷宫坦克》是一款使用 Dora SSR 开发的竖屏迷宫坦克射击游戏。玩家在 12×14 的迷宫中驾驶坦克，消灭每关全部敌人即可过关，共 8 关。子弹会从墙壁反弹，可打出拐角射击，也可能被自己的跳弹击中。关卡越高敌人越多、AI 越强，途中可拾取护盾、速射、炸弹等道具。支持手机触控摇杆与键盘操作。",
+    "en": "《迷宫坦克》是一款使用 Dora SSR 开发的竖屏迷宫坦克射击游戏。玩家在 12×14 的迷宫中驾驶坦克，消灭每关全部敌人即可过关，共 8 关。子弹会从墙壁反弹，可打出拐角射击，也可能被自己的跳弹击中。关卡越高敌人越多、AI 越强，途中可拾取护盾、速射、炸弹等道具。支持手机触控摇杆与键盘操作。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "迷宫坦克",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T17:17:17.487592Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/dust112345/MazeTank"
+        }
+      ]
+    }
+  ]
+}

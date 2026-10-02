@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-GravityBlast",
+  "status": "active",
+  "title": {
+    "zh-Hans": "重力爆破",
+    "en": "重力爆破"
+  },
+  "description": {
+    "zh-Hans": "《重力爆破》需要你运用重力破解难题！游戏在 10×10 方格内进行，每轮从场地底部生成多组彩色长条方块。点击选中长条，控制左右移动，确认放置后，方块受重力下落、填补空隙。任意一行被完全填满即可消除得分；若消除区块中包含星星道具块，还会随机触发强力 buff，当然也可能是 debuff，完全随缘！方块持续堆积，一旦溢出场地边界则游戏失败。\n—— code_2007",
+    "en": "《重力爆破》需要你运用重力破解难题！游戏在 10×10 方格内进行，每轮从场地底部生成多组彩色长条方块。点击选中长条，控制左右移动，确认放置后，方块受重力下落、填补空隙。任意一行被完全填满即可消除得分；若消除区块中包含星星道具块，还会随机触发强力 buff，当然也可能是 debuff，完全随缘！方块持续堆积，一旦溢出场地边界则游戏失败。\n—— code_2007"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": false,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T03:53:52.413578Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/code_2007/dora-GravityBlast"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g34.opensourcegame.games/index.html"
+}

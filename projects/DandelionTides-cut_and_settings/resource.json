@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "DandelionTides-cut_and_settings",
+  "status": "active",
+  "title": {
+    "zh-Hans": "切割与设置",
+    "en": "切割与设置"
+  },
+  "description": {
+    "zh-Hans": "通过调整设置中的不同选项来改变切割效果，消灭敌人\nDandelionTides",
+    "en": "通过调整设置中的不同选项来改变切割效果，消灭敌人\nDandelionTides"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "切割与设置",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-30T03:21:15.602229Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/DandelionTides/cut_and_settings"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g105.opensourcegame.games/index.html"
+}

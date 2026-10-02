@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "EthanFU-CatSlap",
+  "status": "active",
+  "title": {
+    "zh-Hans": "抓猫咪",
+    "en": "抓猫咪"
+  },
+  "description": {
+    "zh-Hans": "改编自海兔（B站「海兔喵斯拉」）的桌游《抓猫咪》。桌上的猫咪牌自动翻开，看到同一种猫、点数加起来是 10，就抢先拍下爪子，再点出那两张抓走；乱拍或点错会退牌、爪子发麻。共 5 关，猫从 2 种加到 6 种，电脑猫越来越快。手机点爪子按钮，电脑也可按空格。作者：海兔（原作规则与卡牌插画）、Ethan8（数字版）。",
+    "en": "改编自海兔（B站「海兔喵斯拉」）的桌游《抓猫咪》。桌上的猫咪牌自动翻开，看到同一种猫、点数加起来是 10，就抢先拍下爪子，再点出那两张抓走；乱拍或点错会退牌、爪子发麻。共 5 关，猫从 2 种加到 6 种，电脑猫越来越快。手机点爪子按钮，电脑也可按空格。作者：海兔（原作规则与卡牌插画）、Ethan8（数字版）。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "抓猫咪",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T12:29:56.885992Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/EthanFU/CatSlap"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g89.opensourcegame.games/index.html"
+}

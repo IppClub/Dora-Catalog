@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "PingGuoLiZiJvZi-brownian-motion",
+  "status": "active",
+  "title": {
+    "zh-Hans": "布朗运动",
+    "en": "布朗运动"
+  },
+  "description": {
+    "zh-Hans": "在蜂窝棋盘上放置挡板，围住随机乱撞的粒子，别让它们飘出边缘。",
+    "en": "在蜂窝棋盘上放置挡板，围住随机乱撞的粒子，别让它们飘出边缘。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "布朗运动",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-28T01:53:36.910244Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/PingGuoLiZiJvZi/brownian-motion"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g38.opensourcegame.games/index.html"
+}

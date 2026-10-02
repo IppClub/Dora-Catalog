@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "zzh31-Eat_Cheese",
+  "status": "active",
+  "title": {
+    "zh-Hans": "我要吃奶酪",
+    "en": "我要吃奶酪"
+  },
+  "description": {
+    "zh-Hans": "zzh31 制作的竖屏棋盘益智游戏。滑动老鼠避开猫，利用箱子和老鼠洞吃光奶酪，逐关解锁。",
+    "en": "zzh31 制作的竖屏棋盘益智游戏。滑动老鼠避开猫，利用箱子和老鼠洞吃光奶酪，逐关解锁。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "我要吃奶酪",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T08:50:14.803915Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/zzh31/Eat_Cheese"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g2.opensourcegame.games/index.html"
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-Mineblast",
+  "status": "active",
+  "title": {
+    "zh-Hans": "掘地爆破",
+    "en": "掘地爆破"
+  },
+  "description": {
+    "zh-Hans": "2D 无尽挖掘生存挑战！操控角色左右移动、多段跳跃，并放置定时炸弹炸开泥土。还可以拾取地图随机刷新的宝石回血加分，小心躲避岩浆与爆炸伤害。场景持续向上滚动挤压空间，你需要不断向下挖掘开拓生存区域。无尽模式分数无上限，血量耗尽游戏结束！\n——code_2007",
+    "en": "2D 无尽挖掘生存挑战！操控角色左右移动、多段跳跃，并放置定时炸弹炸开泥土。还可以拾取地图随机刷新的宝石回血加分，小心躲避岩浆与爆炸伤害。场景持续向上滚动挤压空间，你需要不断向下挖掘开拓生存区域。无尽模式分数无上限，血量耗尽游戏结束！\n——code_2007"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": false,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-26T12:43:06.768375Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/code_2007/dora-Mineblast"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g43.opensourcegame.games/index.html"
+}

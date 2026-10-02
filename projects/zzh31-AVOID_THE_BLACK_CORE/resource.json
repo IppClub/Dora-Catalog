@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "zzh31-AVOID_THE_BLACK_CORE",
+  "status": "active",
+  "title": {
+    "zh-Hans": "引力禁区",
+    "en": "引力禁区"
+  },
+  "description": {
+    "zh-Hans": "《引力禁区》由 zzh31 创作，是一款玩法简单易懂、却富有挑战性的竖屏生存游戏。\n黑色核心不断吸引小球，你无法直接操控它，只能点击场地释放冲击波，将它推离危险。点击越靠近小球，推力越强，但每次出手都会消耗分数；在险境中成功救球，还能获得奖励并积累连击。随着核心移动、分裂，留给你的反应时间越来越短。\n如何把握出手位置和时机，活得更久、拿到更高分，是游戏的核心乐趣。",
+    "en": "《引力禁区》由 zzh31 创作，是一款玩法简单易懂、却富有挑战性的竖屏生存游戏。\n黑色核心不断吸引小球，你无法直接操控它，只能点击场地释放冲击波，将它推离危险。点击越靠近小球，推力越强，但每次出手都会消耗分数；在险境中成功救球，还能获得奖励并积累连击。随着核心移动、分裂，留给你的反应时间越来越短。\n如何把握出手位置和时机，活得更久、拿到更高分，是游戏的核心乐趣。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "引力禁区",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-24T11:07:27.332026Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/zzh31/AVOID_THE_BLACK_CORE"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g15.opensourcegame.games/index.html"
+}

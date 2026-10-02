@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "Uyv12-D",
+  "status": "active",
+  "title": {
+    "zh-Hans": "TANK DUEL",
+    "en": "TANK DUEL"
+  },
+  "description": {
+    "zh-Hans": "游戏开始直接调用自定义的第一个地图 建议画完地图后再体验\n本游戏为双人对战游戏 叫上你的小伙伴一起吧",
+    "en": "游戏开始直接调用自定义的第一个地图 建议画完地图后再体验\n本游戏为双人对战游戏 叫上你的小伙伴一起吧"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "其他"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": false,
+  "entrypoints": [],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-27T01:59:52.576596Z",
+      "sources": [
+        {
+          "role": "upstream",
+          "url": "https://atomgit.com/Uyv12/D"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g22.opensourcegame.games/index.html"
+}
