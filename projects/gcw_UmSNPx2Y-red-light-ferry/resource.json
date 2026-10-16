@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "gcw_UmSNPx2Y-red-light-ferry",
+  "status": "active",
+  "title": {
+    "zh-Hans": "红灯街区",
+    "en": "红灯街区"
+  },
+  "description": {
+    "zh-Hans": "逐格穿过车流与浮木，消耗有限红灯信号改变车流节奏，在安全岛回复电量并规划路线，限时抵达彼岸",
+    "en": "逐格穿过车流与浮木，消耗有限红灯信号改变车流节奏，在安全岛回复电量并规划路线，限时抵达彼岸"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "红灯街区",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-09-25T03:23:52.750259Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/gcw_UmSNPx2Y-red-light-ferry.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g108.opensourcegame.games/index.html"
+}

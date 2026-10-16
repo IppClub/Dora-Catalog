@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-Statues",
+  "status": "active",
+  "title": {
+    "zh-Hans": "木头人",
+    "en": "木头人"
+  },
+  "description": {
+    "zh-Hans": "《木头人（Statues）》单人反应竞速游戏，玩家与 4 名 AI 一同挑战鬼的口令。趁鬼背对时按住前进奔跑，口令结束瞬间必须立刻静止，违规三次则失败。随回合推进口令节奏加快，触碰鬼即可获胜。\n更新：增加了技能玩法，让每局游戏初始状态都更加随机，同时难度逐渐提升下技能效果原来越明显！\n——code_2007",
+    "en": "《木头人（Statues）》单人反应竞速游戏，玩家与 4 名 AI 一同挑战鬼的口令。趁鬼背对时按住前进奔跑，口令结束瞬间必须立刻静止，违规三次则失败。随回合推进口令节奏加快，触碰鬼即可获胜。\n更新：增加了技能玩法，让每局游戏初始状态都更加随机，同时难度逐渐提升下技能效果原来越明显！\n——code_2007"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "木头人",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-13T17:22:40.245134Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/code_2007-dora-Statues.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g145.opensourcegame.games/index.html"
+}

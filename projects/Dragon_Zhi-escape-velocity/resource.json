@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "Dragon_Zhi-escape-velocity",
+  "status": "active",
+  "title": {
+    "zh-Hans": "单程",
+    "en": "单程"
+  },
+  "description": {
+    "zh-Hans": "一款竖屏太空引力弹弓游戏。拖动调整探测器的发射方向与力度，观察预测轨迹，松手发射，借助行星引力飞向目标。",
+    "en": "一款竖屏太空引力弹弓游戏。拖动调整探测器的发射方向与力度，观察预测轨迹，松手发射，借助行星引力飞向目标。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "单程",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-09T00:44:11.634329Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/Dragon_Zhi-escape-velocity.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g180.opensourcegame.games/index.html"
+}

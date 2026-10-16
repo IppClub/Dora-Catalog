@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "codenoobsad-SkyBreaker",
+  "status": "active",
+  "title": {
+    "zh-Hans": "破空者",
+    "en": "破空者"
+  },
+  "description": {
+    "zh-Hans": "《破空者》是固定炮塔的竖屏防空 Roguelite：拖动瞄准、按住开火，守住基地与城市共 10 波，末波迎战 BOSS。机炮连射会积热，击落敌机掉 XP，升级三选一强化，结算钢材换永久成长。竖屏触控游玩。作者 OpenMind。",
+    "en": "《破空者》是固定炮塔的竖屏防空 Roguelite：拖动瞄准、按住开火，守住基地与城市共 10 波，末波迎战 BOSS。机炮连射会积热，击落敌机掉 XP，升级三选一强化，结算钢材换永久成长。竖屏触控游玩。作者 OpenMind。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "破空者",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-03T06:41:08.164837Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/codenoobsad-SkyBreaker.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g153.opensourcegame.games/index.html"
+}

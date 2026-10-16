@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "Ice_eat-ghost",
+  "status": "active",
+  "title": {
+    "zh-Hans": "鬼才抓得到",
+    "en": "鬼才抓得到"
+  },
+  "description": {
+    "zh-Hans": "你是一位捉鬼人，请在电量耗尽前，精准预判鬼的位置，将鬼捉拿带回去做研究，委托得到的赏金会让你的捉鬼仪器变得更强。",
+    "en": "你是一位捉鬼人，请在电量耗尽前，精准预判鬼的位置，将鬼捉拿带回去做研究，委托得到的赏金会让你的捉鬼仪器变得更强。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "鬼才抓得到",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-09T02:59:17.270140Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/Ice_eat-ghost.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g164.opensourcegame.games/index.html"
+}

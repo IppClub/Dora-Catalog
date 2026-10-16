@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "yyr444-Dora-SquirrelNutStash",
+  "status": "active",
+  "title": {
+    "zh-Hans": "松鼠藏坚果",
+    "en": "松鼠藏坚果"
+  },
+  "description": {
+    "zh-Hans": "《松鼠藏坚果》是一款森林主题记忆配对游戏。记住不同坚果藏入树洞的位置与声音，在顺序打乱后找回正确坚果。点击或触摸树洞进行查看、选择和放置；选错会消耗生命。六个关卡逐步加入相似坚果、树洞转动、偷换与夜间听声等机制，考验观察力、听觉与记忆力。",
+    "en": "《松鼠藏坚果》是一款森林主题记忆配对游戏。记住不同坚果藏入树洞的位置与声音，在顺序打乱后找回正确坚果。点击或触摸树洞进行查看、选择和放置；选错会消耗生命。六个关卡逐步加入相似坚果、树洞转动、偷换与夜间听声等机制，考验观察力、听觉与记忆力。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "松鼠藏坚果",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-03T16:27:52.462872Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/yyr444-Dora-SquirrelNutStash.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g132.opensourcegame.games/index.html"
+}

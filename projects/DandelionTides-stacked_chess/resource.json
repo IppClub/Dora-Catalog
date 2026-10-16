@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "DandelionTides-stacked_chess",
+  "status": "active",
+  "title": {
+    "zh-Hans": "叠起来的国际象棋",
+    "en": "叠起来的国际象棋"
+  },
+  "description": {
+    "zh-Hans": "现在棋子可以相互叠在一起了，叠在一起的棋子会被一起吃掉\n[DandelionTides](https://github.com/DandelionTides)",
+    "en": "现在棋子可以相互叠在一起了，叠在一起的棋子会被一起吃掉\n[DandelionTides](https://github.com/DandelionTides)"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "叠起来的国际象棋",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-05T16:47:14.481051Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/DandelionTides-stacked_chess.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g162.opensourcegame.games/index.html"
+}

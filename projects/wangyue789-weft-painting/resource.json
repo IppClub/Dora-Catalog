@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "wangyue789-weft-painting",
+  "status": "active",
+  "title": {
+    "zh-Hans": "一梭成画",
+    "en": "一梭成画"
+  },
+  "description": {
+    "zh-Hans": "竖屏织锦逻辑解谜。踩六个经线踏板、选红青金纬线，一次投梭织入整行，不是逐格填色。踏板状态跨行保留；五幅花样渐进引入双色、三色、镜像联动、每梭后自动错经。目标与实况并列，错误可调整、上一梭可撤回；有暂停、重织、终章及返回。原创音效配乐，触屏与鼠标可玩。",
+    "en": "竖屏织锦逻辑解谜。踩六个经线踏板、选红青金纬线，一次投梭织入整行，不是逐格填色。踏板状态跨行保留；五幅花样渐进引入双色、三色、镜像联动、每梭后自动错经。目标与实况并列，错误可调整、上一梭可撤回；有暂停、重织、终章及返回。原创音效配乐，触屏与鼠标可玩。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "一梭成画",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-03T07:50:47.780063Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/wangyue789-weft-painting.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g159.opensourcegame.games/index.html"
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-PlutoArrive",
+  "status": "active",
+  "title": {
+    "zh-Hans": "深空远航",
+    "en": "深空远航"
+  },
+  "description": {
+    "zh-Hans": "《深空远航》是一款竖屏 2D 太空轨道模拟休闲游戏。依托真实引力物理系统操控火箭，用多向喷射燃料调整姿态，从地球出发奔赴冥王星。一路上要躲避小行星与陨石碎片，警惕行星引力捕获，在模拟的十年航程内进入冥王星轨道即告成功~\n神奇的是，我的朋友通关了最高难度，演示视频有他的超燃操作（在哪？）\n游戏本质：约四分钟的避障小游戏，并非简单加速逃离引力\n——code_2007",
+    "en": "《深空远航》是一款竖屏 2D 太空轨道模拟休闲游戏。依托真实引力物理系统操控火箭，用多向喷射燃料调整姿态，从地球出发奔赴冥王星。一路上要躲避小行星与陨石碎片，警惕行星引力捕获，在模拟的十年航程内进入冥王星轨道即告成功~\n神奇的是，我的朋友通关了最高难度，演示视频有他的超燃操作（在哪？）\n游戏本质：约四分钟的避障小游戏，并非简单加速逃离引力\n——code_2007"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "深空远航",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-03T04:49:46.902837Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/code_2007-dora-PlutoArrive.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g127.opensourcegame.games/index.html"
+}

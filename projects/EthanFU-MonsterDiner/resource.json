@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "EthanFU-MonsterDiner",
+  "status": "active",
+  "title": {
+    "zh-Hans": "魔物餐厅",
+    "en": "魔物餐厅"
+  },
+  "description": {
+    "zh-Hans": "魔王说：开饭馆，讲和平！带 4 位魔物店员掷骰子招待客人：几点能力掷几颗骰，掷出 6 追加，点数达标客人就满意；成功率写在按钮上，用不用干劲拼一把由你定。招待完所有客人，压轴客人登场：美食家、森林长老、骑士团长、勇者，还有微服私访的魔王。5 家店、8 位店员、45 个角色都有黑白漫画风立绘。竖屏，手机点按，电脑用鼠标或键盘。世界观灵感来自 TRPG《もてモン!!》，非官方改编。作者：Ethan8。",
+    "en": "魔王说：开饭馆，讲和平！带 4 位魔物店员掷骰子招待客人：几点能力掷几颗骰，掷出 6 追加，点数达标客人就满意；成功率写在按钮上，用不用干劲拼一把由你定。招待完所有客人，压轴客人登场：美食家、森林长老、骑士团长、勇者，还有微服私访的魔王。5 家店、8 位店员、45 个角色都有黑白漫画风立绘。竖屏，手机点按，电脑用鼠标或键盘。世界观灵感来自 TRPG《もてモン!!》，非官方改编。作者：Ethan8。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "经营"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "魔物餐厅",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-03T15:39:29.990235Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/EthanFU-MonsterDiner.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g163.opensourcegame.games/index.html"
+}

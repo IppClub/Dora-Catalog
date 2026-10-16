@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "cakecaker-feiji",
+  "status": "active",
+  "title": {
+    "zh-Hans": "飞翔的纸飞机",
+    "en": "飞翔的纸飞机"
+  },
+  "description": {
+    "zh-Hans": "飞翔的纸飞机》是一款竖屏 9:16 的 3D 滑翔小游戏：你驾驶一只低模纸飞机穿越云海。操作只有拖动——左右拖改变航向、上下拖控制升降；但它不是\"拖到哪就飞到哪\"，而是持续施力：松手或停住，力会随空气阻力慢慢回落，想保持转弯就得保持手势，飞机像真的纸飞机一样，被风和手感一起推着走。\n\n云海中散落着星光、暖光星屑与上升气流，用来恢复耐久、积攒星光；穿过云环、暖光门、彩虹圈、风铃与纸鹤，会收获一句意外",
+    "en": "飞翔的纸飞机》是一款竖屏 9:16 的 3D 滑翔小游戏：你驾驶一只低模纸飞机穿越云海。操作只有拖动——左右拖改变航向、上下拖控制升降；但它不是\"拖到哪就飞到哪\"，而是持续施力：松手或停住，力会随空气阻力慢慢回落，想保持转弯就得保持手势，飞机像真的纸飞机一样，被风和手感一起推着走。\n\n云海中散落着星光、暖光星屑与上升气流，用来恢复耐久、积攒星光；穿过云环、暖光门、彩虹圈、风铃与纸鹤，会收获一句意外"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "飞翔的纸飞机",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-05T16:31:23.887876Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/cakecaker-feiji.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g168.opensourcegame.games/index.html"
+}

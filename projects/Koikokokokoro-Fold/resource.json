@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "Koikokokokoro-Fold",
+  "status": "active",
+  "title": {
+    "zh-Hans": "折序",
+    "en": "折序"
+  },
+  "description": {
+    "zh-Hans": "一条印着乱序编号的纸带，把它折成一摞，让这摞从上到下读作 1、2、3……3D 纸带真的翻折：拖动转到背面看层叠，点纸带选折痕，再选折到上面还是下面。每折一次，被折的那段都会翻面、顺序反转，再插进另一摞里。十一关，折对了就过关。",
+    "en": "一条印着乱序编号的纸带，把它折成一摞，让这摞从上到下读作 1、2、3……3D 纸带真的翻折：拖动转到背面看层叠，点纸带选折痕，再选折到上面还是下面。每折一次，被折的那段都会翻面、顺序反转，再插进另一摞里。十一关，折对了就过关。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "折序",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-05T16:29:29.846046Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/Koikokokokoro-Fold.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g167.opensourcegame.games/index.html"
+}

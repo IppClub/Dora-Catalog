@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-ShanghaiFortress",
+  "status": "active",
+  "title": {
+    "zh-Hans": "上海堡垒",
+    "en": "上海堡垒"
+  },
+  "description": {
+    "zh-Hans": "《上海堡垒》是一款竖屏实时塔防小游戏。地图为格子地形：黑色山体不可通行、不可部署且能挡子弹，灰色点阵道路可通行、可部署。骷髅军团沿多通道同时推进，你点选炮台、点道路格建造，用七种炮台拦截敌军。从午夜 12:00 坚守到日出援军抵达即通关，核心耐久归零则失败。\n更新：修复了防御工事不好看、文字 ui 溢出移动端屏幕的情况，更新演示视频\n——作者 code_2007",
+    "en": "《上海堡垒》是一款竖屏实时塔防小游戏。地图为格子地形：黑色山体不可通行、不可部署且能挡子弹，灰色点阵道路可通行、可部署。骷髅军团沿多通道同时推进，你点选炮台、点道路格建造，用七种炮台拦截敌军。从午夜 12:00 坚守到日出援军抵达即通关，核心耐久归零则失败。\n更新：修复了防御工事不好看、文字 ui 溢出移动端屏幕的情况，更新演示视频\n——作者 code_2007"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "上海堡垒",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-10T17:20:53.642888Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/code_2007-dora-ShanghaiFortress.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g126.opensourcegame.games/index.html"
+}

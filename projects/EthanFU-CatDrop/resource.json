@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "EthanFU-CatDrop",
+  "status": "active",
+  "title": {
+    "zh-Hans": "放猫咪",
+    "en": "放猫咪"
+  },
+  "description": {
+    "zh-Hans": "《放猫咪》改编自海兔（B站 海兔喵斯拉）设计的实体桌游《抓猫咪》里的放猫咪玩法：别的猫出一张牌，你就抢着拍出一张凑成 10 的牌，谁先把手牌出完谁赢。5 关从两只小奶猫陪练到六叠齐上桌，第 3 关起拍错直接出局，星星看漏接了几张。卡牌插画由海兔绘制并授权使用；数字版 Ethan8，使用 Dora SSR 制作。",
+    "en": "《放猫咪》改编自海兔（B站 海兔喵斯拉）设计的实体桌游《抓猫咪》里的放猫咪玩法：别的猫出一张牌，你就抢着拍出一张凑成 10 的牌，谁先把手牌出完谁赢。5 关从两只小奶猫陪练到六叠齐上桌，第 3 关起拍错直接出局，星星看漏接了几张。卡牌插画由海兔绘制并授权使用；数字版 Ethan8，使用 Dora SSR 制作。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "放猫咪",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-03T06:45:36.795093Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/EthanFU-CatDrop.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g130.opensourcegame.games/index.html"
+}

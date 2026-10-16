@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora_DifferentGO",
+  "status": "active",
+  "title": {
+    "zh-Hans": "不一样的围棋",
+    "en": "不一样的围棋"
+  },
+  "description": {
+    "zh-Hans": "《不一样的围棋》，一款竖屏休闲益智新游！它颠覆传统围棋：以八点连线拓域，禁同向斜线连片；双人或人机对战任选，凭围空面积定胜负，无复杂吃子规则。极简引导搭配清晰视觉，轻松上手~\n更新：调整移动端显示问题；优化 AI 算法以确保游戏正常游玩后能进入点目环节；保留了人机对战可以连点两次“结束回合”进入点目的小巧思（用于没有能再占领的空时，想要快速点目时使用）\n——code_2007",
+    "en": "《不一样的围棋》，一款竖屏休闲益智新游！它颠覆传统围棋：以八点连线拓域，禁同向斜线连片；双人或人机对战任选，凭围空面积定胜负，无复杂吃子规则。极简引导搭配清晰视觉，轻松上手~\n更新：调整移动端显示问题；优化 AI 算法以确保游戏正常游玩后能进入点目环节；保留了人机对战可以连点两次“结束回合”进入点目的小巧思（用于没有能再占领的空时，想要快速点目时使用）\n——code_2007"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "不一样的围棋",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-03T16:24:22.529633Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/code_2007-dora_DifferentGO.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g134.opensourcegame.games/index.html"
+}

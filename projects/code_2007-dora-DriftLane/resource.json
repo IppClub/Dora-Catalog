@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-DriftLane",
+  "status": "active",
+  "title": {
+    "zh-Hans": "弯道漂移",
+    "en": "弯道漂移"
+  },
+  "description": {
+    "zh-Hans": "《弯道漂移（Drift Lane）》，一款 2D 休闲漂移竞速游戏。操控小车在 8 条主题赛道驰骋，可单人刷圈或与 3 种性格 AI 对战。按住漂移键配合转向触发漂移，分三档漂移效果，松手获得加速挑战圈速完成关卡目标！\n最后一个，其他 debug 不过来了，今天光是 debug 花了两百多，不知道能不能回本了，到底谁推荐的VGnode 这么烧 token\n——code_2007",
+    "en": "《弯道漂移（Drift Lane）》，一款 2D 休闲漂移竞速游戏。操控小车在 8 条主题赛道驰骋，可单人刷圈或与 3 种性格 AI 对战。按住漂移键配合转向触发漂移，分三档漂移效果，松手获得加速挑战圈速完成关卡目标！\n最后一个，其他 debug 不过来了，今天光是 debug 花了两百多，不知道能不能回本了，到底谁推荐的VGnode 这么烧 token\n——code_2007"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "弯道漂移",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-09T01:15:07.991365Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/code_2007-dora-DriftLane.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g179.opensourcegame.games/index.html"
+}

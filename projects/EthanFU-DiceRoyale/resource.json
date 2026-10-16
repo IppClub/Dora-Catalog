@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "EthanFU-DiceRoyale",
+  "status": "active",
+  "title": {
+    "zh-Hans": "骰子吃鸡",
+    "en": "骰子吃鸡"
+  },
+  "description": {
+    "zh-Hans": "竖屏骰子大逃杀，玩法灵感来自桌游《RELOAD》。跳伞落岛，每个行动放一颗骰子，点数由行动格决定，回合结束排成你的防线；捡信标回塔上传、开补给箱换枪、射击或近战抢名望，受伤 4 次就 RELOAD。战斗五步慢放，12 关 7 章学会规则，再和 1～3 个电脑打完整大逃杀，按成绩评 1～3 星。操作：手机点按，电脑用鼠标。作者：Ethan8。",
+    "en": "竖屏骰子大逃杀，玩法灵感来自桌游《RELOAD》。跳伞落岛，每个行动放一颗骰子，点数由行动格决定，回合结束排成你的防线；捡信标回塔上传、开补给箱换枪、射击或近战抢名望，受伤 4 次就 RELOAD。战斗五步慢放，12 关 7 章学会规则，再和 1～3 个电脑打完整大逃杀，按成绩评 1～3 星。操作：手机点按，电脑用鼠标。作者：Ethan8。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "骰子吃鸡",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-03T13:32:50.459548Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/EthanFU-DiceRoyale.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g160.opensourcegame.games/index.html"
+}

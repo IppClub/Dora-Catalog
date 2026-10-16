@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "EthanFU-GloryToRome",
+  "status": "active",
+  "title": {
+    "zh-Hans": "罗马建城记",
+    "en": "罗马建城记"
+  },
+  "description": {
+    "zh-Hans": "罗马建城记：竖屏卡牌建城闯关。一张牌五种用法——打出当角色、放下当地基、拿来当材料、雇作随从、存进金库当财富。6 章 12 关，每章学一样真正的桌游本领，每关几个回合按得分评 1～3 星；学会后和 1～3 位神经网络电脑对手自由对局。玩法灵感来自桌游 Glory to Rome。作者：Ethan8",
+    "en": "罗马建城记：竖屏卡牌建城闯关。一张牌五种用法——打出当角色、放下当地基、拿来当材料、雇作随从、存进金库当财富。6 章 12 关，每章学一样真正的桌游本领，每关几个回合按得分评 1～3 星；学会后和 1～3 位神经网络电脑对手自由对局。玩法灵感来自桌游 Glory to Rome。作者：Ethan8"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "罗马建城记",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-03T14:36:40.238220Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/EthanFU-GloryToRome.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g161.opensourcegame.games/index.html"
+}

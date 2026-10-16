@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "Koikokokokoro-FindCarrots",
+  "status": "active",
+  "title": {
+    "zh-Hans": "一个萝卜一个坑",
+    "en": "一个萝卜一个坑"
+  },
+  "description": {
+    "zh-Hans": "在一块被分成多个色块的棋盘上种萝卜：每行、每列、每个色块各留一个坑，任意两颗萝卜还不能相邻（斜角也算）。题目答案唯一，而且保证只靠确定性推理就能推到底，不用猜、不用试——单击格子插木牌做笔记，长按种下萝卜，摆满按确认交卷。",
+    "en": "在一块被分成多个色块的棋盘上种萝卜：每行、每列、每个色块各留一个坑，任意两颗萝卜还不能相邻（斜角也算）。题目答案唯一，而且保证只靠确定性推理就能推到底，不用猜、不用试——单击格子插木牌做笔记，长按种下萝卜，摆满按确认交卷。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "一个萝卜一个坑",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-04T15:42:04.166271Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/Koikokokokoro-FindCarrots.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g148.opensourcegame.games/index.html"
+}

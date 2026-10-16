@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-ReflectionLight",
+  "status": "active",
+  "title": {
+    "zh-Hans": "爱反射的光",
+    "en": "爱反射的光"
+  },
+  "description": {
+    "zh-Hans": "《爱反射的光》是一款竖屏休闲益智解谜游戏，共 8 关。在 8×8 棋盘上放置黑洞、左右挡板或留空：棋盘边界的数字会向内发射一束光，光线可直线穿行、被挡板反射，遇黑洞或出界即终止。让每束光的反射次数恰好等于对应边界数字，全部满足即可通关。规则简单、变化丰富，光路实时演算、边改边看，越玩越上头～\n更新：游戏优化了 ui 设计，符合手机端竖屏测试；将游戏内所有功能按钮调整到最下方\n——code_2007",
+    "en": "《爱反射的光》是一款竖屏休闲益智解谜游戏，共 8 关。在 8×8 棋盘上放置黑洞、左右挡板或留空：棋盘边界的数字会向内发射一束光，光线可直线穿行、被挡板反射，遇黑洞或出界即终止。让每束光的反射次数恰好等于对应边界数字，全部满足即可通关。规则简单、变化丰富，光路实时演算、边改边看，越玩越上头～\n更新：游戏优化了 ui 设计，符合手机端竖屏测试；将游戏内所有功能按钮调整到最下方\n——code_2007"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "爱反射的光",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-09T01:28:22.752758Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/code_2007-dora-ReflectionLight.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g135.opensourcegame.games/index.html"
+}

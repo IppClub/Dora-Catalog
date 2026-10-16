@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "EthanFU-BirdingClub",
+  "status": "active",
+  "title": {
+    "zh-Hans": "观鸟俱乐部",
+    "en": "观鸟俱乐部"
+  },
+  "description": {
+    "zh-Hans": "改编自海兔设计并绘制的桌游《观鸟俱乐部》的竖屏卡牌对战。每回合从展示区拿鸟，放进它能住的景观，搭成鸟类群落；群落凑够图鉴的条件，观鸟时就把图鉴收走，再打出去得分。观鸟后鸟要还回去，只有「保留名额」的能留下——图鉴打得越多，留得越多。和 1～3 位电脑鸟友比谁先到 15 分。13 课新手教学；手机点按，电脑用鼠标。全部卡牌插画由海兔绘制并授权使用。数字版：Ethan8。",
+    "en": "改编自海兔设计并绘制的桌游《观鸟俱乐部》的竖屏卡牌对战。每回合从展示区拿鸟，放进它能住的景观，搭成鸟类群落；群落凑够图鉴的条件，观鸟时就把图鉴收走，再打出去得分。观鸟后鸟要还回去，只有「保留名额」的能留下——图鉴打得越多，留得越多。和 1～3 位电脑鸟友比谁先到 15 分。13 课新手教学；手机点按，电脑用鼠标。全部卡牌插画由海兔绘制并授权使用。数字版：Ethan8。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "观鸟俱乐部",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-05T17:00:05.498436Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/EthanFU-BirdingClub.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g178.opensourcegame.games/index.html"
+}

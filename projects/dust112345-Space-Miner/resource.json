@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "dust112345-Space-Miner",
+  "status": "active",
+  "title": {
+    "zh-Hans": "引力矿工",
+    "en": "引力矿工"
+  },
+  "description": {
+    "zh-Hans": "《星矿猎手》是一款太空抓钩采矿闯关游戏。探测器悬停星域，抓钩左右摆动瞄准，点击发射即可抓回漂浮的星尘、铁矿与宝石，矿物越重回收越慢。要在极短时限内凑够目标积分，同时提防陨石雨打断收线、太空生物吞噬矿物、敌方探测器抢走猎物。善用护盾与电磁脉冲自保，用通关金币升级钩爪长度、抓取速度与护盾等级。支持鼠标与手机触屏。",
+    "en": "《星矿猎手》是一款太空抓钩采矿闯关游戏。探测器悬停星域，抓钩左右摆动瞄准，点击发射即可抓回漂浮的星尘、铁矿与宝石，矿物越重回收越慢。要在极短时限内凑够目标积分，同时提防陨石雨打断收线、太空生物吞噬矿物、敌方探测器抢走猎物。善用护盾与电磁脉冲自保，用通关金币升级钩爪长度、抓取速度与护盾等级。支持鼠标与手机触屏。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "引力矿工",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-03T07:15:47.995386Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/dust112345-Space-Miner.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g150.opensourcegame.games/index.html"
+}

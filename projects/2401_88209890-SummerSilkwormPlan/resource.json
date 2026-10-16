@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "2401_88209890-SummerSilkwormPlan",
+  "status": "active",
+  "title": {
+    "zh-Hans": "夏日养蚕计",
+    "en": "夏日养蚕计"
+  },
+  "description": {
+    "zh-Hans": "《夏日养蚕记》是款竖屏养蚕经营游戏。点蚕匾撒桑叶，蚕吃叶蜕皮长大、吐丝结茧；点茧缫丝得蚕茧，用来买蚕宝宝、技能与升级。麻雀偷叶、蚕病传染、高价订单来袭，忘收的茧会羽化成蝶。逐关攒够蚕茧即过关，没蚕又没钱就破产。",
+    "en": "《夏日养蚕记》是款竖屏养蚕经营游戏。点蚕匾撒桑叶，蚕吃叶蜕皮长大、吐丝结茧；点茧缫丝得蚕茧，用来买蚕宝宝、技能与升级。麻雀偷叶、蚕病传染、高价订单来袭，忘收的茧会羽化成蝶。逐关攒够蚕茧即过关，没蚕又没钱就破产。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "经营"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "夏日养蚕计",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-03T16:35:17.945619Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/2401_88209890-SummerSilkwormPlan.git"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "captainczt-Raccoon_Heist",
+  "status": "active",
+  "title": {
+    "zh-Hans": "《浣熊夜盗》",
+    "en": "《浣熊夜盗》"
+  },
+  "description": {
+    "zh-Hans": "作者Captain橘己。记住财宝位置并跟踪箱子换位，熄灯后取宝，决定继续冒险还是收手。三关逐步加入钥匙锁箱、取物后再次换位和连取奖励；每关三轮累计战果达标且最多失手一次。支持竖屏触控、暂停和离线游玩。",
+    "en": "作者Captain橘己。记住财宝位置并跟踪箱子换位，熄灯后取宝，决定继续冒险还是收手。三关逐步加入钥匙锁箱、取物后再次换位和连取奖励；每关三轮累计战果达标且最多失手一次。支持竖屏触控、暂停和离线游玩。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "《浣熊夜盗》",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-05T15:21:22.419875Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/captainczt-Raccoon_Heist.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g169.opensourcegame.games/index.html"
+}

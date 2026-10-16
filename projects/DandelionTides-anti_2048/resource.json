@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "DandelionTides-anti_2048",
+  "status": "active",
+  "title": {
+    "zh-Hans": "反2048",
+    "en": "反2048"
+  },
+  "description": {
+    "zh-Hans": "操作方式和传统2048相同，通过滑动来操作（键盘wasd也可以操作）\n但目标与2048相反，即通过滑动来拆解和消除数字\n[DandelionTides](https://github.com/DandelionTides)",
+    "en": "操作方式和传统2048相同，通过滑动来操作（键盘wasd也可以操作）\n但目标与2048相反，即通过滑动来拆解和消除数字\n[DandelionTides](https://github.com/DandelionTides)"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "反2048",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-04T12:38:24.083921Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/DandelionTides-anti_2048.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g124.opensourcegame.games/index.html"
+}

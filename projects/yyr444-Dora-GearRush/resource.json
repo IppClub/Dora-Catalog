@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "yyr444-Dora-GearRush",
+  "status": "active",
+  "title": {
+    "zh-Hans": "齿轮狂飙",
+    "en": "齿轮狂飙"
+  },
+  "description": {
+    "zh-Hans": "《齿轮狂飙》是一款由BBBird开发的竖屏无尽跑酷游戏。点击屏幕左右两侧可减少或增加齿数，上下滑动切换赛道；齿数越多，平地速度越快，遇到齿轨时则需匹配对应齿数，正确咬合可加速冲刺，错误匹配会打滑并损失耐久。玩家还要躲避路障、收集能量，在速度、路线与安全之间作出选择，挑战更远距离和更高分数。",
+    "en": "《齿轮狂飙》是一款由BBBird开发的竖屏无尽跑酷游戏。点击屏幕左右两侧可减少或增加齿数，上下滑动切换赛道；齿数越多，平地速度越快，遇到齿轨时则需匹配对应齿数，正确咬合可加速冲刺，错误匹配会打滑并损失耐久。玩家还要躲避路障、收集能量，在速度、路线与安全之间作出选择，挑战更远距离和更高分数。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "齿轮狂飙",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-05T14:49:06.007109Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/yyr444-Dora-GearRush.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g166.opensourcegame.games/index.html"
+}

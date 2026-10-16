@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "YuFireee--",
+  "status": "active",
+  "title": {
+    "zh-Hans": "黑白小怪兽",
+    "en": "黑白小怪兽"
+  },
+  "description": {
+    "zh-Hans": "本作品是控制一个拥有“黑” “白”双形态的小怪兽进行跳跳乐最终获取冰淇凌的2D横板跳跳乐小游戏。",
+    "en": "本作品是控制一个拥有“黑” “白”双形态的小怪兽进行跳跳乐最终获取冰淇凌的2D横板跳跳乐小游戏。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "动作"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "黑白小怪兽",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-09T00:31:24.983899Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/YuFireee--.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g176.opensourcegame.games/index.html"
+}

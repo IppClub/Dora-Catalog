@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "wangyue789-shadow-puppet-theatre",
+  "status": "active",
+  "title": {
+    "zh-Hans": "影偶剧场",
+    "en": "影偶剧场"
+  },
+  "description": {
+    "zh-Hans": "六幕竖屏皮影投影几何解谜：拖动纸偶并切换近／中／远层位，让实时影子吻合目标。第六幕移动灯位在全影重合后自动定格，避免错过验收。演出可暂停、继续、返回主界面；六幕通关显示“全剧终”，可重演全剧。底部按钮居中，含原创音效、配乐及完整 Web 包。手机触控与 V100 Dora 原生六幕均实测通关。",
+    "en": "六幕竖屏皮影投影几何解谜：拖动纸偶并切换近／中／远层位，让实时影子吻合目标。第六幕移动灯位在全影重合后自动定格，避免错过验收。演出可暂停、继续、返回主界面；六幕通关显示“全剧终”，可重演全剧。底部按钮居中，含原创音效、配乐及完整 Web 包。手机触控与 V100 Dora 原生六幕均实测通关。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "影偶剧场",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-03T05:34:40.812117Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/wangyue789-shadow-puppet-theatre.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g129.opensourcegame.games/index.html"
+}

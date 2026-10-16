@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "dust112345-Ninja-Climb",
+  "status": "active",
+  "title": {
+    "zh-Hans": "忍者攀爬",
+    "en": "忍者攀爬"
+  },
+  "description": {
+    "zh-Hans": "《忍者攀爬》是一款单指竖屏街机攀爬游戏。点击屏幕左半向左侧墙面跃起抓取，点击右半向右跃起，在已附着的同侧再次点击即可蹬墙直上。左右交替向上攀登，闪避树枝、横梁与飞鸟，一路收集金币提升分数。沿途可拾取护盾、无敌星、磁铁、减速沙漏、冲刺火箭与手里剑风暴六种道具，越往上越快越险。支持鼠标与手机触屏。",
+    "en": "《忍者攀爬》是一款单指竖屏街机攀爬游戏。点击屏幕左半向左侧墙面跃起抓取，点击右半向右跃起，在已附着的同侧再次点击即可蹬墙直上。左右交替向上攀登，闪避树枝、横梁与飞鸟，一路收集金币提升分数。沿途可拾取护盾、无敌星、磁铁、减速沙漏、冲刺火箭与手里剑风暴六种道具，越往上越快越险。支持鼠标与手机触屏。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "忍者攀爬",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-03T13:35:10.436406Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/dust112345-Ninja-Climb.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g157.opensourcegame.games/index.html"
+}

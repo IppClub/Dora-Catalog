@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "EthanFU-InnLedger",
+  "status": "active",
+  "title": {
+    "zh-Hans": "黑店账本",
+    "en": "黑店账本"
+  },
+  "description": {
+    "zh-Hans": "竖屏闯关卡牌，玩法改编自桌游《The Bloody Inn》（非官方同人，美术文字均原创）。经营一家黑店：拉拢住客当帮凶、刺杀、把尸体埋进别馆搜钱、换成支票，还要躲过清晨查房的警察。15 关 7 章一步步教会整套规则，按财富评 1～3 星；再和 1～3 位电脑叔叔完整对局。操作：手机点按，电脑用鼠标或键盘。作者：Ethan8。",
+    "en": "竖屏闯关卡牌，玩法改编自桌游《The Bloody Inn》（非官方同人，美术文字均原创）。经营一家黑店：拉拢住客当帮凶、刺杀、把尸体埋进别馆搜钱、换成支票，还要躲过清晨查房的警察。15 关 7 章一步步教会整套规则，按财富评 1～3 星；再和 1～3 位电脑叔叔完整对局。操作：手机点按，电脑用鼠标或键盘。作者：Ethan8。"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "策略"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "黑店账本",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-03T07:20:01.340814Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/EthanFU-InnLedger.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g158.opensourcegame.games/index.html"
+}

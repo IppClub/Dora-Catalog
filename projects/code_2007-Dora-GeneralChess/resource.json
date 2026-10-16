@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-Dora-GeneralChess",
+  "status": "active",
+  "title": {
+    "zh-Hans": "将军棋",
+    "en": "将军棋"
+  },
+  "description": {
+    "zh-Hans": "《将军棋》是一款竖屏回合制战棋竞技游戏，支持本地双人对战与人机对战。在 11×11 随机地图上，双方各 3 座大本营明牌对决：占领空地扩张领地、进攻吃子切断补给，摧毁敌方全部大本营即获胜。核心约束为连通性与 2×2 禁满规则，搭配打劫防循环机制，博弈聚焦扩张、断补给与强攻，策略性拉满。\n更新：已测试适配手机竖屏，由于游戏内容无较大改动，不重新提交演示视频\n——code_2007",
+    "en": "《将军棋》是一款竖屏回合制战棋竞技游戏，支持本地双人对战与人机对战。在 11×11 随机地图上，双方各 3 座大本营明牌对决：占领空地扩张领地、进攻吃子切断补给，摧毁敌方全部大本营即获胜。核心约束为连通性与 2×2 禁满规则，搭配打劫防循环机制，博弈聚焦扩张、断补给与强攻，策略性拉满。\n更新：已测试适配手机竖屏，由于游戏内容无较大改动，不重新提交演示视频\n——code_2007"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "休闲"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "将军棋",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-05T16:17:15.230064Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/code_2007-Dora-GeneralChess.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g133.opensourcegame.games/index.html"
+}

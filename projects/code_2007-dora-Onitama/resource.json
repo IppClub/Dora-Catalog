@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schema/resource-v1.schema.json",
+  "schemaVersion": 1,
+  "id": "code_2007-dora-Onitama",
+  "status": "active",
+  "title": {
+    "zh-Hans": "形意棋：残影",
+    "en": "形意棋：残影"
+  },
+  "description": {
+    "zh-Hans": "《形意棋：残影（Onitama: Afterimage）》双人抽象战棋，保留原版形意棋行动牌轮转机制。新增残影标记，棋子移动后起点留下残影，落点邻接己方残影可触发单次额外移动，残影数量存在上限。支持双人同屏对战与人机对战。\n致审核：本游戏为拟态动物走法，威胁对方主帅；将军棋为随机沙盘模拟战争，二者并非同类换皮游戏\n——code_2007",
+    "en": "《形意棋：残影（Onitama: Afterimage）》双人抽象战棋，保留原版形意棋行动牌轮转机制。新增残影标记，棋子移动后起点留下残影，落点邻接己方残影可触发单次额外移动，残影数量存在上限。支持双人同屏对战与人机对战。\n致审核：本游戏为拟态动物走法，威胁对方主帅；将军棋为随机沙盘模拟战争，二者并非同类换皮游戏\n——code_2007"
+  },
+  "categories": [
+    "Game",
+    "2026 社区小游戏征集活动",
+    "解谜"
+  ],
+  "tags": [
+    "minigame",
+    "minigame-2026",
+    "mobile-feed"
+  ],
+  "license": {
+    "status": "pending"
+  },
+  "runnable": true,
+  "entrypoints": [
+    {
+      "name": "形意棋：残影",
+      "path": "init"
+    }
+  ],
+  "versions": [
+    {
+      "name": "latest",
+      "publishedAt": "2026-10-10T17:21:19.763495Z",
+      "sources": [
+        {
+          "role": "mirror",
+          "url": "https://gitcode.com/dora-minigame-2026/code_2007-dora-Onitama.git"
+        }
+      ]
+    }
+  ],
+  "playUrl": "https://g141.opensourcegame.games/index.html"
+}

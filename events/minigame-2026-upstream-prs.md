@@ -114,3 +114,7 @@
 | 奇怪的贪吃蛇 | [原项目](https://atomgit.com/starwishxnyx/strange-snake) | [PR #1](https://gitcode.com/starwishxnyx/strange-snake/merge_requests/1) | —  待审核，继续使用 fork |
 | 云际巡航 | [原项目](https://atomgit.com/starwishxnyx/cloud-cruise) | [PR #1](https://gitcode.com/starwishxnyx/cloud-cruise/merge_requests/1) | —  待审核，继续使用 fork |
 | 点墨 | [原项目](https://atomgit.com/mtdw/dianmo-dora) | [PR #1](https://gitcode.com/mtdw/dianmo-dora/merge_requests/1) | —  待审核，继续使用 fork |
+
+## 2026-10-17 新增贡献
+
+新增 36 个作品的清理 PR，详见 [本次完整作品、fork、PR 与移除文件清单](minigame-2026-update-2026-10-17.md)。初次贡献的 106 个 PR 状态保留在上表。
